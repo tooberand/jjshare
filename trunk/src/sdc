@@ -1,0 +1,53 @@
+#!/usr/local/bin/perl -w
+
+use strict;
+
+use Data::Dumper;
+
+main();
+
+sub main
+{
+	my @stack;
+
+	while (1)
+	{
+		print "> ";
+		my $new_input = <STDIN>;
+		chomp $new_input;
+		last if ($new_input eq "q");
+
+		my $input = join(" ", @stack, $new_input);
+# 		print "INFO: $input | dc\n";
+
+		# Get dc output and reverse it
+		my @new_stack = reverse(`echo "5k $input f" | dc 2>/dev/null`);
+# 		print Dumper @new_stack;
+
+		# Print out stack and verify
+		my $good_stack = 1;
+		for (my $s = 0; $s <= $#new_stack; ++$s)
+		{
+			chomp $new_stack[$s];
+			my $entry = $new_stack[$s];
+			if ($entry !~ /^-?[\.\d]+$/)
+			{
+				print "ERROR: Unrecogized entry in stack: $entry\n";
+				$good_stack = 0;
+				last;
+			}
+			print "$s: $entry\n";
+		}
+
+		@stack = @new_stack if $good_stack;
+
+		# Prep negatives in stack
+		for (my $s = 0; $s <= $#stack; ++$s)
+		{
+			if ($stack[$s] =~ /^-([\.\d]+)/)
+			{
+				$stack[$s] = "0 $1 -";
+			}
+		}
+	}
+}
