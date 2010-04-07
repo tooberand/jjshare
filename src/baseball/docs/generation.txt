@@ -1,0 +1,17 @@
+genrc concept is good but perl is so good at allowing
+specification of data there's no real need for a separate file.
+keep it simple.
+
+Waldheim, Dan writes:
+> I was actually leaning towards a genrc file.  We chould have my
+> averages scripts generate them, but in human readable form.  Then if
+> we don't like the stats, we can either hand edit the genrc, or alter
+> the calculations from the averages scripts and re-generate.
+> 
+> Eric Waldheim writes:
+> > Hand plug to allow us to tweak.
+> > 
+> > Waldheim, Dan writes:
+> > > Do you think I should number crunch the mlb data in the same process
+> > > as generating player data, create some sort of genrc file, or hand
+> > > plug the averages and deviations into the script?
