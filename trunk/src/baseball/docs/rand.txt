@@ -1,0 +1,164 @@
+Basically we're talking about the slopes of the hump right?
+steep or not steep?  Seems like you want stat_rand to take 3
+parms: a median and avg and a maxish which would then define how 
+the hump looks.  Make sense?
+
+Waldheim, Dan writes:
+> sub main
+> {
+>    print "fielding % = " . stat_rand(987, 12) . "\n";
+> }
+> 
+> sub stat_rand
+> {
+>    my ($mean, $deviation) = @_;
+> 
+>    $mean + int($deviation * (gaussian_rand() / 3))
+> 
+>    --- or ---
+> 
+>    $mean + int($deviation * sweeney_rand())
+> }
+> 
+> The nice thing about the gaussian_rand / 3 is that it allows for
+> players to go outside of the average deviation.  It is only an
+> "average" deviation, so if I limit players to within that range, we
+> would have a false "bulking" of data within the limits and after a
+> season, our average deviation would probably be half of what was
+> calcuated.  So even if we use sweeney_rand() (which calculates -1 to 1
+> with normal distribution), we still need a divide by factor to allow
+> players to exceed the average deviation.
+> 
+> Here are the two rand functions:
+> 
+> sub gaussian_rand
+> {
+>    my ($u1, $u2);  # uniformly distributed random numbers
+>    my $w;          # variance, then a weight
+> 
+>    do
+>    {
+>       # Generate two random numbers from -1 to 1
+>       $u1 = 2 * rand() - 1;
+>       $u2 = 2 * rand() - 1;
+>       $w = $u1*$u1 + $u2*$u2;
+>    } while ($w == 0 || $w >= 1); # Disallow 0 to prevent divide by zero error
+> 
+>    $w = sqrt((-2 * log($w)) / $w);
+> 
+>    $u2 * $w
+> }
+> 
+> sub sweeney_rand
+> {
+>    my $s = 0;
+>    my $iterations = 10;
+>    for (my $i = 0; $i < $iterations; ++$i)
+>    {
+>       $s += 2 * rand() - 1;
+>    }
+>    $s / $iterations
+> }
+> 
+> Eric Waldheim writes:
+> > What range are going for?  How about just use Sweeney's and adjust 
+> > the number of iterations to make it more or less spread?
+> > 
+> > Waldheim, Dan writes:
+> > > Here's the next dilemma.  The gaussian_rand function, given one
+> > > million random number generations, for the most part generates a
+> > > number between -4 and 4.  However, about .008% are between |4| and |5|
+> > > and less than one in a million is greater than |5|.  What do you think 
+> > > I should use as my multiplier against average deviation?  Using
+> > > gaussian_rand / 4 would make all the players too close together in
+> > > averages.
+> > > 
+> > > Perhaps gaussian_rand / 3 (or even less) would be better.  On a run of
+> > > one million, .2% were greater than |3|.  Let me know if you want me to 
+> > > run some more numbers.
+> > > 
+> > > Eric Waldheim writes:
+> > > > Hmmm, wonder what that's about.  I'm curious but as long as
+> > > > you've got the bell, we're golden.
+> > > > 
+> > > > Waldheim, Dan writes:
+> > > > > The function generates and returns two numbers.  Why?  I'm not sure.
+> > > > > I'm just using the single return value, which means there is probably
+> > > > > some fat from the function that can be trimmed down.
+> > > > > 
+> > > > > Eric Waldheim writes:
+> > > > > > What do you mean by trim down?
+> > > > > > 
+> > > > > > Waldheim, Dan writes:
+> > > > > > > My math skills are too weak to trim down the commented out
+> > > > > > > gaussian_rand function I found on the web.  However, as is, it does
+> > > > > > > create a nice bell curve distribution.
+> > > > > > > 
+> > > > > > > 
+> > > > > > > #! /usr/local/bin/perl -w
+> > > > > > > 
+> > > > > > > use strict;
+> > > > > > > 
+> > > > > > > main();
+> > > > > > > 
+> > > > > > > sub main
+> > > > > > > {
+> > > > > > >    my $sum = 0;
+> > > > > > >    my $i;
+> > > > > > >    my %dist;
+> > > > > > >    for ($i = 0; $i < 10000; ++$i)
+> > > > > > >    {
+> > > > > > >       my $n = gaussian_rand();
+> > > > > > >       $n = int($n * 100);
+> > > > > > > #       print "$n\n";
+> > > > > > >       $sum += $n;
+> > > > > > >       $dist{$n}++;
+> > > > > > >    }
+> > > > > > >    foreach my $key (sort {$a <=> $b} keys %dist)
+> > > > > > >    {
+> > > > > > >       print sprintf("%4s:", $key);
+> > > > > > >       for (my $c = 0; $c < $dist{$key}; ++$c)
+> > > > > > >       {
+> > > > > > >          print ".";
+> > > > > > >       }
+> > > > > > >       print "\n";
+> > > > > > >    }
+> > > > > > >    print "average = " . ($sum / $i) . "\n";
+> > > > > > > }
+> > > > > > > 
+> > > > > > > # sub gaussian_rand {
+> > > > > > > #     my ($u1, $u2);  # uniformly distributed random numbers
+> > > > > > > #     my $w;          # variance, then a weight
+> > > > > > > #     my ($g1, $g2);  # gaussian-distributed numbers
+> > > > > > > # 
+> > > > > > > #     do {
+> > > > > > > #         $u1 = 2 * rand() - 1;
+> > > > > > > #         $u2 = 2 * rand() - 1;
+> > > > > > > #         $w = $u1*$u1 + $u2*$u2;
+> > > > > > > #     } while ( $w >= 1 );
+> > > > > > > # 
+> > > > > > > #     $w = sqrt( (-2 * log($w))  / $w );
+> > > > > > > #     $g2 = $u1 * $w;
+> > > > > > > #     $g1 = $u2 * $w;
+> > > > > > > #     # return both if wanted, else just one
+> > > > > > > #     return wantarray ? ($g1, $g2) : $g1;
+> > > > > > > # }
+> > > > > > > sub gaussian_rand
+> > > > > > > {
+> > > > > > >    my ($u1, $u2);  # uniformly distributed random numbers
+> > > > > > >    my $w;          # variance, then a weight
+> > > > > > >    my $g;
+> > > > > > > 
+> > > > > > >    do
+> > > > > > >    {
+> > > > > > >       $u1 = 2 * rand() - 1;
+> > > > > > >       $u2 = 2 * rand() - 1;
+> > > > > > >       $w = $u1*$u1 + $u2*$u2;
+> > > > > > >    } while ( $w >= 1 );
+> > > > > > > 
+> > > > > > >    $w = sqrt( (-2 * log($w))  / $w );
+> > > > > > > #    $g2 = $u1 * $w;
+> > > > > > >    $g = $u2 * $w;
+> > > > > > > 
+> > > > > > >    $g
+> > > > > > > }
