@@ -43,6 +43,16 @@ sub main
 	print FH $header;
 	while (($summary, $sdate) = (shift @ARGV, shift @ARGV))
 	{
+		if (!$summary)
+		{
+			print "Enter summary or return to exit (ex. Tooberand's Birthday): ";
+			$summary = <STDIN>;
+			chomp $summary;
+			last if !$summary;
+			print "Enter date (YYYYMMDD): ";
+			$sdate = <STDIN>;
+			chomp $sdate;
+		}
 		last if !$summary;
 		my $vevent = gen_vevent($summary, $sdate);
 		print FH $vevent;
