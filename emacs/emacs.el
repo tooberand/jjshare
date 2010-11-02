@@ -58,6 +58,7 @@
 ; Hooks
 (load-library "c-hook")
 (load-library "cperl-hook")
+(load-library "cvs-hook")
 (load-library "java-hook")
 (load-library "lisp-hook")
 (load-library "mail-hook")
