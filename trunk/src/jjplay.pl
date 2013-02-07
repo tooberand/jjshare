@@ -19,7 +19,7 @@ sub main
 			if ($File::Find::name =~ /$search_str/i);
 	};
 
-	find($wanted, "$ENV{HOME}/Music/iTunes/iTunes Media/Music");
+	find($wanted, "$ENV{HOME}/Music/iTunes");
 	print Dumper \@matched_files;
 }
 
