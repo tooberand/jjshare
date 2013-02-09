@@ -1,14 +1,19 @@
-#!/usr/local/bin/perl
+#!/usr/local/bin/perl -w
 
 use strict;
 
 use Data::Dumper;
 use File::Find;
+use Getopt::Long;
 
 main();
 
 sub main
 {
+	Getopt::Long::Configure(qw(pass_through bundling));
+	my $start_time = 0;
+	GetOptions("start|s=i" => \$start_time);
+
 	my ($search_str) = shift @ARGV;
 	$search_str =~ s/\+/\.\*/g;
 	my @matched_files;
@@ -20,6 +25,47 @@ sub main
 	};
 
 	find($wanted, "$ENV{HOME}/Music/iTunes");
-	print Dumper \@matched_files;
+	if (@matched_files == 1)
+	{
+		esystem("afplay", @ARGV, $matched_files[0]);
+	}
+	else
+	{
+		print Dumper \@matched_files;
+	}
 }
 
+
+sub esystem
+{
+	my (@cmd) = @_;
+	print "@cmd\n";
+	system(@cmd);
+}
+
+
+__END__
+
+sub tapper
+{
+	use Time::HiRes;
+	use Term::ReadKey;
+	ReadMode 4;
+	END { ReadMode 0 }
+
+	my $i = 0;
+
+	my %last;
+	while (defined (my $key = ReadKey(0)))
+	{
+		my $now = Time::HiRes::time();
+		$last{$key} ||= $now;
+		$last{ANY} ||= $now;
+		++$i;
+		print("$i  $key ", sprintf("%5.1f  %5.1f\n",
+									  $now - $last{ANY}, $now - $last{$key}));
+		$last{ANY} = $last{$key} = $now;
+		last if $key =~ /q/;
+	}
+	print "HERE ", $i++, "\n";
+}
