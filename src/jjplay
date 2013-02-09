@@ -14,7 +14,7 @@ sub main
 	my $start_time = 0;
 	GetOptions("start|s=i" => \$start_time);
 
-	my ($search_str) = shift @ARGV;
+	my $search_str = pop @ARGV;
 	$search_str =~ s/\+/\.\*/g;
 	my @matched_files;
 
