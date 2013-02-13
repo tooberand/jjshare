@@ -12,7 +12,21 @@ sub main
 {
 	Getopt::Long::Configure(qw(pass_through bundling));
 	my $start_time = 0;
+	my $start_volume =
+		`osascript -e 'get output volume of (get volume settings)'`;
+	chomp $start_volume;
+	my $volume = $start_volume;
 	GetOptions("start|s=i" => \$start_time);
+	GetOptions("volume|v=i" => \$volume);
+
+	$SIG{'INT'} = sub
+	{
+		if ($start_volume != $volume)
+		{
+			esystem("osascript -e 'set volume output volume $start_volume'");
+		}
+		exit;
+	};
 
 	my $search_str = pop @ARGV;
 	$search_str =~ s/\+/\.\*/g;
@@ -27,7 +41,24 @@ sub main
 	find($wanted, "$ENV{HOME}/Music/iTunes");
 	if (@matched_files == 1)
 	{
+		if ($start_volume != $volume)
+		{
+			esystem("osascript -e 'set volume output volume $volume'");
+		}
+
+		my $countdown = 3;
+		while ($countdown)
+		{
+			print $countdown-- . "\n";
+			sleep 1;
+		}
+
 		esystem("afplay", @ARGV, $matched_files[0]);
+
+		if ($start_volume != $volume)
+		{
+			esystem("osascript -e 'set volume output volume $start_volume'");
+		}
 	}
 	else
 	{
