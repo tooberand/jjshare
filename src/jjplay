@@ -12,12 +12,15 @@ sub main
 {
 	Getopt::Long::Configure(qw(pass_through bundling));
 	my $start_time = 0;
+	my $no_countdown;
 	my $start_volume =
 		`osascript -e 'get output volume of (get volume settings)'`;
 	chomp $start_volume;
 	my $volume = $start_volume;
+	# afplay args: vhtrqd
 	GetOptions("start|s=i" => \$start_time);
 	GetOptions("volume|v=i" => \$volume);
+	GetOptions("Countdown|C" => \$no_countdown);
 
 	$SIG{'INT'} = sub
 	{
@@ -46,11 +49,14 @@ sub main
 			esystem("osascript -e 'set volume output volume $volume'");
 		}
 
-		my $countdown = 3;
-		while ($countdown)
+		unless ($no_countdown)
 		{
-			print $countdown-- . "\n";
-			sleep 1;
+			my $countdown = 3;
+			while ($countdown)
+			{
+				print $countdown-- . "\n";
+				sleep 1;
+			}
 		}
 
 		esystem("afplay", @ARGV, $matched_files[0]);
@@ -62,6 +68,11 @@ sub main
 	}
 	else
 	{
+		if (@matched_files > 10)
+		{
+			print "ERROR: " . @matched_files . " matched files, truncating\n";
+			@matched_files = @matched_files[0..9];
+		}
 		print Dumper \@matched_files;
 	}
 }
@@ -72,31 +83,4 @@ sub esystem
 	my (@cmd) = @_;
 	print "@cmd\n";
 	system(@cmd);
-}
-
-
-__END__
-
-sub tapper
-{
-	use Time::HiRes;
-	use Term::ReadKey;
-	ReadMode 4;
-	END { ReadMode 0 }
-
-	my $i = 0;
-
-	my %last;
-	while (defined (my $key = ReadKey(0)))
-	{
-		my $now = Time::HiRes::time();
-		$last{$key} ||= $now;
-		$last{ANY} ||= $now;
-		++$i;
-		print("$i  $key ", sprintf("%5.1f  %5.1f\n",
-									  $now - $last{ANY}, $now - $last{$key}));
-		$last{ANY} = $last{$key} = $now;
-		last if $key =~ /q/;
-	}
-	print "HERE ", $i++, "\n";
 }
