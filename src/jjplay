@@ -71,7 +71,6 @@ sub main
 		if ($start_time)
 		{
 			my $d = qx"afinfo '$file'";
-			print "$d";
 			$d =~ /estimated duration: ([\d\.]+) sec/ || die;
 			my $cutoff = $1;
 			$d =~ /audio data file offset: (\d+)/ || die;
