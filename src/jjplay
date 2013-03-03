@@ -64,7 +64,31 @@ sub main
 			}
 		}
 
-		esystem("afplay", @ARGV, $matched_files[0]);
+		my $file = $matched_files[0];
+		if ($start_time)
+		{
+			my $d = qx"afinfo '$file'";
+			print "$d";
+			$d =~ /estimated duration: ([\d\.]+) sec/ || die;
+			my $cutoff = $1;
+			$d =~ /audio data file offset: (\d+)/ || die;
+			my $offset = $1;
+
+			my $cutoff_pct = $start_time / $cutoff;
+			open(my $fh, "<$file") || die;
+			undef $/;
+			my $text = <$fh>;
+			close($fh);
+			print "Linitial ", length($text), "\n";
+			substr($text, 0, $offset + int($cutoff_pct * length($text))) = "";
+			print "Lcut ", length($text), "\n";
+			my $tfile = "/tmp/jjplay.tmp.mp3";
+			open(my $ofh, ">$tfile") || die;
+			print $ofh $text;
+			close($ofh);
+			$file = $tfile;
+		}
+		esystem("afplay", @ARGV, $file);
 
 		if ($start_volume != $volume)
 		{
