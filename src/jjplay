@@ -6,6 +6,7 @@ use Data::Dumper;
 use File::Find;
 use Getopt::Long;
 
+my $_end_sub;
 main();
 
 sub main
@@ -24,12 +25,14 @@ sub main
 	GetOptions("CountdownOff|C" => \$no_countdown);
 	GetOptions("countdown|c" => \$countdown);
 
-	$SIG{'INT'} = sub
+	my $tmpfile;
+	$_end_sub = sub
 	{
 		if ($start_volume != $volume)
 		{
 			esystem("osascript -e 'set volume output volume $start_volume'");
 		}
+		esystem("rm $tmpfile") if $tmpfile;
 		exit;
 	};
 
@@ -79,14 +82,12 @@ sub main
 			undef $/;
 			my $text = <$fh>;
 			close($fh);
-			print "Linitial ", length($text), "\n";
 			substr($text, 0, $offset + int($cutoff_pct * length($text))) = "";
-			print "Lcut ", length($text), "\n";
-			my $tfile = "/tmp/jjplay.tmp.mp3";
-			open(my $ofh, ">$tfile") || die;
+			$tmpfile = "/tmp/jjplay.tmp.mp3";
+			open(my $ofh, ">$tmpfile") || die;
 			print $ofh $text;
 			close($ofh);
-			$file = $tfile;
+			$file = $tmpfile;
 		}
 		esystem("afplay", @ARGV, $file);
 
@@ -112,4 +113,8 @@ sub esystem
 	my (@cmd) = @_;
 	print "@cmd\n";
 	system(@cmd);
+}
+
+END {
+	$_end_sub->();
 }
