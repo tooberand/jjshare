@@ -13,6 +13,7 @@ sub main
 	Getopt::Long::Configure(qw(pass_through bundling));
 	my $start_time = 0;
 	my $no_countdown;
+	my $countdown;
 	my $start_volume =
 		`osascript -e 'get output volume of (get volume settings)'`;
 	chomp $start_volume;
@@ -20,7 +21,8 @@ sub main
 	# afplay args: vhtrqd
 	GetOptions("start|s=i" => \$start_time);
 	GetOptions("volume|v=i" => \$volume);
-	GetOptions("Countdown|C" => \$no_countdown);
+	GetOptions("CountdownOff|C" => \$no_countdown);
+	GetOptions("countdown|c" => \$countdown);
 
 	$SIG{'INT'} = sub
 	{
@@ -49,7 +51,10 @@ sub main
 			esystem("osascript -e 'set volume output volume $volume'");
 		}
 
-		unless ($no_countdown)
+		my $countdown_default = $ENV{HOME} !~ /ew/;
+		$countdown = $countdown // $countdown_default;
+		$countdown = undef if defined $no_countdown;
+		if ($countdown)
 		{
 			my $countdown = 3;
 			while ($countdown)
