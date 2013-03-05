@@ -36,7 +36,7 @@ sub main
 		exit;
 	};
 
-	my $search_str = pop @ARGV;
+	my $search_str = pop @ARGV || die "usage error";
 	$search_str =~ s/\+/\.\*/g;
 	my @matched_files;
 
@@ -76,12 +76,13 @@ sub main
 			$d =~ /audio data file offset: (\d+)/ || die;
 			my $offset = $1;
 
-			my $cutoff_pct = $start_time / $cutoff;
 			open(my $fh, "<$file") || die;
 			undef $/;
 			my $text = <$fh>;
 			close($fh);
-			substr($text, 0, $offset + int($cutoff_pct * length($text))) = "";
+			my $cut_pct = $start_time / $cutoff;
+			my $cut_len =  int((length($text) - $offset) * $cut_pct);
+			substr($text, $offset, $cut_len) = "";
 			$tmpfile = "/tmp/jjplay.tmp.mp3";
 			open(my $ofh, ">$tmpfile") || die;
 			print $ofh $text;
