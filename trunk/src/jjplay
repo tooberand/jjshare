@@ -20,7 +20,7 @@ sub main
 	chomp $start_volume;
 	my $volume = $start_volume;
 	# afplay args: vhtrqd
-	GetOptions("start|s=i" => \$start_time);
+	GetOptions("start|s=f" => \$start_time);
 	GetOptions("volume|v=i" => \$volume);
 	GetOptions("CountdownOff|C" => \$no_countdown);
 	GetOptions("countdown|c" => \$countdown);
