@@ -4419,6 +4419,10 @@ The lead guitar part (you'll know where it fits in the song) is as follows:
 |---------------------|---------------------|
 |---------------------|---------------------|
 
+       EADGbe
+C#m    x46654
+Dmaj7  x57675
+
 Intro:
 A D A E (4x)
 A D A E    oh no, god damn / I missed the last tram
