@@ -819,21 +819,21 @@ G C       Pale green things, pale green things
 ======================================================================
 Broom People
 
-12345678(x3)   12345678
-d  dudu        d d d d
+123456789012345678901234
+D xyxyD xyxyD xyxyD D D  
 
 
 E C#m A E
 
-E C#m  '36 hudson in the garage,
+E C#m  '36 hudson / in the garage,
 A E    all sorts of junk in the unattached spare room,
 E C#m  dishes in the kitchen sink,
 A B    used straw for the old broom,
 A E    friends who don't have a clue,
 A E    well meaning teachers,
 A C#m  but down in your arms,
-A B    in your arms,
-B E    i am a wild creature.
+A-B    in your arms,
+E E    i am a wild creature.
 
 A E A E 
 A E A E
@@ -845,20 +845,20 @@ A B    fresh fuel for the sodium flare,
 A E    i write down good reasons to freeze to death
 A E    in my spiral-ring notebook
 A C#m  but in the long tresses
-A B    of your hair,
-B E    i am a babbling brook.
+A-B    of your hair,
+E E    i am a babbling brook.
 
 A E A E 
 A E A
 
 
+======================================================================
+Old College Try
+
 Asus2
 x o o o o o
 | | | | | |
 | | 1 2 | |
-
-======================================================================
-Old College Try
 
 12345678
 DDdudDdu
@@ -1148,6 +1148,12 @@ Monkey - C G Am F
 (does not sound right)
 Yam, the King of Crops - E C Am Am7
 ==========================================
+
+
+
+       EADGBe
+Asus2  002200
+
 
 A B C D E F G
 C#m Em F#m
@@ -3887,6 +3893,9 @@ terhorst-gmail (you supply the rest)
 Standard Tuning
 Key of G
 
+12345678
+DU U X
+
 He uses palm muting throughout. Also, the pair of eighth notes
 after each dead chord are upstrokes.
 
@@ -4886,7 +4895,87 @@ E--3--3s7-----------------|-----------|
 |-----------o-|
 
 ======================================================================
+Flake
+1234567890123456
+D  UDYXUXUXUDYXY
+
 ======================================================================
+Wagon Wheel
+Bob Dylan
+
+G D Em C
+12345678
+D D  ud
+D D   D
+D D  du
+D D  ud
+0:10
+G D C C
+D D  udu
+D D  udu
+D D  udu
+dudu udu
+0:18
+G D Em C
+D Du udu
+D Du udu (1st u is Dsus4 (xx0233))
+D Du udu
+D Du udu (slide two frets on 1st u)
+0:25
+G D C C
+D Du udu
+D Du udu (1st u is Dsus4 (xx0233))
+D Du udu
+dudu udu
+
+
+G D      I'm HEADED down South to the land of THE pines
+Em	C     I'm THUMBIN' my way to NORTH Caroline
+G D C C  StaRING at the road and PRAY to God I see HEADLIGHTS  	
+
+G D      I MADE it down the coast in seventeen hours	
+Em	C     PICKIN' me a bouquet of DOGWOOD flowers
+G D C C  And I'm HOPING for Raleigh; *I* can see my baby TONIGHT  	
+
+(Chorus)
+
+G D       So, ROCK me mama like a WAGON wheel
+Em	C      ROCK me mama any WAY you feel
+G D C C   HEEEEEEEEE EEEEY mama ROCK me    	
+G D       ROCK me mama like the wind and THE rain
+Em	C      ROCK me mama like a SOUTH bound train
+G D C C   HEEEEEEEEE EEEEY mama ROCK me    	
+G D Em C
+G D C
+ 	 	 	
+Runnin' from the cold, up in New England
+I was born to be a fiddler in an old town string band
+My baby plays the guitar; I pick a banjo now
+Ahh, the North Country winters keep a gettin' me down
+Lost my money playin' poker so I had'a'up and leave town
+But I ain't a turning back, to livin' that old life no more
+
+(Chorus)
+
+ 	G	D	Em	C
+ 	 	 	 	
+ 	G	D	C
+ 	 	 	
+ 	G	D	Em	C
+ 	 	 	 	
+ 	G	D	C
+ 	 	 	
+
+Walkin' to the South out of Roanoke
+I caught a trucker out of Phillie; had a nice long toke
+But he's a headed west from the Cumberland Gap
+Johnson City, Tennessee
+Now I gotta get a move on, before the sun
+I hear my baby callin' my name and I know that she's the only one
+And if I die in Raleigh, least I will die free
+
+(Chorus)
+
 ======================================================================
 ======================================================================
 ======================================================================
