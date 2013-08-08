@@ -1,3 +1,71 @@
+Imagine
+
+Strummed slowly with accent at first of every chord change
+
+12
+Du
+
+Intro
+C C C Cmaj7 F F F Friff (3x)
+
+Verse
+C C C Cmaj7 F F F Friff (3x)
+C C C Cmaj7 F F F F
+F F Am Am Dm Dm Dm Dm
+G G G G G7(whole)
+
+Bridge
+F F G G C C E7 E7 (3x)
+F F G G C C
+
+Cmaj7 (x32000)
+E7 (0201000)
+
+Friff
+e-----------------
+B--------0--------
+G--2--3-----------
+D-----------------
+A-----------------
+E-----------------
+
+======================================================================
+Authority Song
+
+12345678
+d du udu
+D
+12345678
+d dud du
+G   A
+
+======================================================================
+Sweet Caroline
+
+d d d d (cut off)
+or
+d d dudu(cut off)
+
+verse (2x each cut off)
+A D A E
+A D A E
+
+pre-chorus (2x each ringing)
+A A6 E D E
+
+chorus
+d d dudu
+
+A(1) D(3) E(2)
+A(1) D(3) E(whole) D(whole) C#m(whole) Bm(whole) 
+
+A6 (xx2222)
+C#m (44654)
+Bm (x2432)
+
+Solo?
+E7 E7/E  E/E7 E E7 A
+
 ======================================================================
 Summer of '69
 
@@ -600,9 +668,9 @@ Pink Houses
 e-----------------
 B-----------------
 G-----------------
-D-----------0----- G      | C    G    |
-A----------------- ^ ^v ^ | ^    ^    |
-E--3--3s7-----------------|-----------|
+D-----------0----- G      | C   G       |
+A----------------- ^ ^v ^ | ^v ^v  v ^  |
+E--3--3s7-----------------|----o--------|
 
 
   F   C        
