@@ -4544,6 +4544,109 @@ Ending (?)
 |-------------|-------------|-------------|
 
 ======================================================================
+Pink Houses
+======================
+e-----------------
+B-----------------
+G-----------------
+D-----------0----- G      | C    G    |
+A----------------- ^ ^v ^ | ^    ^    |
+E--3--3s7-----------------|-----------|
+
+
+  F   C        
+| ^  ^v  v ^v |
+|-----------o-|
+
+======================================================================
+Flake
+1234567890123456
+D  UDYXUXUXUDYXY
+
+======================================================================
+Wagon Wheel
+Bob Dylan
+
+http://www.youtube.com/watch?v=9MRPzN4iYxQ
+
+1st downstrum of chord change is pick of top string of chord
+
+G D Em C
+12345678
+D D  ud
+D D   D
+D D  du
+D D  ud
+0:10
+G D C C
+D D  udu
+D D  udu
+D D  udu
+dudu udu
+0:18
+G D Em C
+D Du udu
+D Du udu (1st u is Dsus4 (xx0233))
+D Du udu
+D Du udu (slide two frets on 1st u)
+0:25
+G D C C
+D Du udu
+D Du udu (1st u is Dsus4 (xx0233))
+D Du udu
+dudu udu
+
+
+G D      I'm HEADED down South to the land of THE pines
+Em	C     I'm THUMBIN' my way to NORTH Caroline
+G D C C  StaRING at the road and PRAY to God I see HEADLIGHTS  	
+
+G D      I MADE it down the coast in seventeen hours	
+Em	C     PICKIN' me a bouquet of DOGWOOD flowers
+G D C C  And I'm HOPING for Raleigh; *I* can see my baby TONIGHT  	
+
+(Chorus)
+
+G D       So, ROCK me mama like a WAGON wheel
+Em	C      ROCK me mama any WAY you feel
+G D C C   HEEEEEEEEE EEEEY mama ROCK me    	
+G D       ROCK me mama like the wind and THE rain
+Em	C      ROCK me mama like a SOUTH bound train
+G D C C   HEEEEEEEEE EEEEY mama ROCK me    	
+G D Em C
+G D C
+ 	 	 	
+Runnin' from the cold, up in New England
+I was born to be a fiddler in an old town string band
+My baby plays the guitar; I pick a banjo now
+
+Ahh, the North Country winters keep a gettin' me down
+Lost my money playin' poker so I had'a'up and leave town
+But I ain't a turning back, to livin' that old life no more
+
+(Chorus)
+
+ 	G	D	Em	C
+ 	 	 	 	
+ 	G	D	C
+ 	 	 	
+ 	G	D	Em	C
+ 	 	 	 	
+ 	G	D	C
+ 	 	 	
+
+Walkin' to the South out of Roanoke
+I caught a trucker out of Phillie; had a nice long toke
+But he's a headed west from the Cumberland Gap
+Johnson City, Tennessee
+
+Now I gotta get a move on, before the sun
+I hear my baby callin' my name and I know that she's the only one
+And if I die in Raleigh, least I will die free
+
+(Chorus)
+
+======================================================================
 We Are Going To Be Friends
 
   G
@@ -4723,109 +4826,6 @@ E--3-- instead of the normal G you have there
 
 
 ======================================================================
-Pink Houses
-======================
-e-----------------
-B-----------------
-G-----------------
-D-----------0----- G      | C    G    |
-A----------------- ^ ^v ^ | ^    ^    |
-E--3--3s7-----------------|-----------|
-
-
-  F   C        
-| ^  ^v  v ^v |
-|-----------o-|
-
-======================================================================
-Flake
-1234567890123456
-D  UDYXUXUXUDYXY
-
-======================================================================
-Wagon Wheel
-Bob Dylan
-
-http://www.youtube.com/watch?v=9MRPzN4iYxQ
-
-1st downstrum of chord change is pick of top string of chord
-
-G D Em C
-12345678
-D D  ud
-D D   D
-D D  du
-D D  ud
-0:10
-G D C C
-D D  udu
-D D  udu
-D D  udu
-dudu udu
-0:18
-G D Em C
-D Du udu
-D Du udu (1st u is Dsus4 (xx0233))
-D Du udu
-D Du udu (slide two frets on 1st u)
-0:25
-G D C C
-D Du udu
-D Du udu (1st u is Dsus4 (xx0233))
-D Du udu
-dudu udu
-
-
-G D      I'm HEADED down South to the land of THE pines
-Em	C     I'm THUMBIN' my way to NORTH Caroline
-G D C C  StaRING at the road and PRAY to God I see HEADLIGHTS  	
-
-G D      I MADE it down the coast in seventeen hours	
-Em	C     PICKIN' me a bouquet of DOGWOOD flowers
-G D C C  And I'm HOPING for Raleigh; *I* can see my baby TONIGHT  	
-
-(Chorus)
-
-G D       So, ROCK me mama like a WAGON wheel
-Em	C      ROCK me mama any WAY you feel
-G D C C   HEEEEEEEEE EEEEY mama ROCK me    	
-G D       ROCK me mama like the wind and THE rain
-Em	C      ROCK me mama like a SOUTH bound train
-G D C C   HEEEEEEEEE EEEEY mama ROCK me    	
-G D Em C
-G D C
- 	 	 	
-Runnin' from the cold, up in New England
-I was born to be a fiddler in an old town string band
-My baby plays the guitar; I pick a banjo now
-
-Ahh, the North Country winters keep a gettin' me down
-Lost my money playin' poker so I had'a'up and leave town
-But I ain't a turning back, to livin' that old life no more
-
-(Chorus)
-
- 	G	D	Em	C
- 	 	 	 	
- 	G	D	C
- 	 	 	
- 	G	D	Em	C
- 	 	 	 	
- 	G	D	C
- 	 	 	
-
-Walkin' to the South out of Roanoke
-I caught a trucker out of Phillie; had a nice long toke
-But he's a headed west from the Cumberland Gap
-Johnson City, Tennessee
-
-Now I gotta get a move on, before the sun
-I hear my baby callin' my name and I know that she's the only one
-And if I die in Raleigh, least I will die free
-
-(Chorus)
-
-======================================================================
 Dust In The Wind
 by: Kansas
 
@@ -4943,6 +4943,9 @@ Asus2 Asus4 Am Asus2
 Cadd9 C Cmaj7 Cadd9
 Am Asus2 Asus4 Am (in the last Am play directly alteration "@")
 
+Dm7       (xx0211)
+D/F#      (2x023x)
+Am/G      (3x221x)
 
 (1st paragraph)
     C   G/B Am     Am
