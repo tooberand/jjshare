@@ -22,7 +22,7 @@ G A D G @ strum 2
 D A D G D A @ strum 1
 
 123456789012345678901
-d d  udud  d  ud  udu
+d d  udud  d  ud  dud
 D    D  D  G      AAAsus4
      sus4         sus2
 
