@@ -1,3 +1,37 @@
+======================================================================
+Jenny
+
+12345678 (strum 1)
+d x   dy
+D
+12345678
+d x   dy
+Bm
+12345678
+d x duxu
+G      A
+12345678
+ ux dudy
+A
+
+12345678 (strum 2)
+d du uxy
+
+G A D G @ strum 2
+
+D A D G D A @ strum 1
+
+123456789012345678901
+d d  udud  d  ud  udu
+D    D  D  G      AAAsus4
+     sus4         sus2
+
+D (557775)
+Bm (799777)
+G (355433)
+A (577655)
+
+======================================================================
 Imagine
 
 Strummed slowly with accent at first of every chord change
