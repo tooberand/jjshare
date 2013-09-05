@@ -1,26 +1,31 @@
+Jolene
+
+1234567890123456
+D  y  x dudyx 
+G#m     E       
+B       F#
+
+G#m (466444)
+F# (244322)
+
 ======================================================================
 Jenny
 
-12345678 (strum 1)
-d x   dy
-D
-12345678
-d x   dy
-Bm
-12345678
-d x duxu
+1234567890123456 (strum 1)
+d x   dyd x   dy
+D       Bm
+1234567890123456 (strum 1v)
+d x duxu ux dudy
 G      A
-12345678
- ux dudy
-A
 
 12345678 (strum 2)
 d du uxy
 
 G A D G @ strum 2
 
-D A D G D A @ strum 1
+D A D G D A(open) @ strum 1
 
+riff
 123456789012345678901
 d d  udud  d  ud  dud
 D    D  D  G      AAAsus4
@@ -31,6 +36,34 @@ Bm (799777)
 G (355433)
 A (577655)
 
+D Bm   You roared into the driveway
+G A    Of our southwestern ranch-style house (#1v)
+D Bm   On a new Kawasaki
+G A    All yellow and black (#1v)
+
+D Bm   Fresh out of the showroom
+G A    Our house faced west (#1v)
+D Bm   So the big orange sun
+G A    Positioned at your back (#1v)
+
+G A    Lit up your magnificent silhouette (#2)
+D G    How much better, how much better can my life get? (#2)
+D A D  900 cubic centimeters of raw, whining power, no outstanding warrants for my arrest
+G D A  Whoa, whoa, whoa, whoa, whoa, the pirate's life for me (open A)
+
+riff
+
+D Bm   I hopped on the back of the bike, wrapped my arms around you
+G A    And I sank my face into your hair
+D Bm   And then I inhaled as deeply as I possibly could
+G A    You were as sweet and delicious as the warm desert air
+
+G A    And you pointed your headlamp toward the horizon (#2)
+D G    We were the one thing in the galaxy God didn't have his eyes on (#2)
+D A D  900 cc's of raw, whining power, no outstanding warrants for my arrest
+G D A  Hi diddle dee dee, goddamn, the pirate's life for me (open A)
+
+riff
 ======================================================================
 Imagine
 
