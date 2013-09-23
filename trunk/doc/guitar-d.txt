@@ -36,6 +36,10 @@ Bm (799777)
 G (355433)
 A (577655)
 
+Asus2     (x02200)
+Asus4     (x02230)
+Dsus4     (xx0233)
+
 D Bm   You ROARED into the DRIVEway
 G A    Of our ___ southwestern ranch-style HOUSE (#1v)
 D Bm   On a NEW KawasaKI

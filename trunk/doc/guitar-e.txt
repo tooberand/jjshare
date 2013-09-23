@@ -860,16 +860,26 @@ x o o o o o
 | | | | | |
 | | 1 2 | |
 
-12345678
-DDdudDdu
+(1)
+1234567890123456
+D   D yxy D  xy
 
-A C#m D E-D
-A F#m D E
+(2)
+1234567890123456
+D D D   D D D du
 
-A C#m  From the housetops to the gutters
-D E-D  From the ocean to the shore
-A F#m  The warning signs have all been bright and garish
-D E    Far too great in number to ignore
+(3)
+1234567890123456
+D   D xyd d d d
+
+
+A C#m D E-D (1,1,1,2)
+A F#m D E   (1,1,3,1)
+
+A C#m  From the housetops to the gutters (1,1)
+D E-D  From the ocean to the shore (1,2)
+A F#m  The warning signs have all been bright and garish (1,1)
+D E    Far too great in number to ignore (3,1)
 
 A C#m  From the cities to the swamplands
 D E-D  From the highways to the hills
