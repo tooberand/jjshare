@@ -855,11 +855,6 @@ A E A
 ======================================================================
 Old College Try
 
-Asus2
-x o o o o o
-| | | | | |
-| | 1 2 | |
-
 (1)
 1234567890123456
 D   D yxy D  xy
@@ -1161,7 +1156,7 @@ Yam, the King of Crops - E C Am Am7
 
 
        EADGBe
-Asus2  002200
+Asus2  x02200
 G7     320001
 
 A B C D E F G
