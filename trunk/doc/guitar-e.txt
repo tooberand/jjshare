@@ -1,3 +1,47 @@
+
+       EADGBe
+Asus2  x02200
+G7     320001
+
+A     577655
+Am7   x02010
+Am    x02210
+Asus2 x02200
+Asus4 x02230
+B     x24442
+B     799877
+Bb    x13331
+Bm    x24432
+B5    024400
+B7    021202
+C#m   x46654
+Cadd9 032030
+Cmaj7 032000
+D     x57775
+Dm    xx0231
+Dmaj7 xx0222
+Dmaj7 057675
+E     x79997
+Eb    xx1343
+Eb    x65343
+E6sus2 004420
+F     133211
+Fm    133111
+F#m   244222
+G#m   466444
+
+======================================================================
+
+Guitar - G C D Dsus4
+Friend Is A Four Letter Word Am C F D7 Em
+Sad Songs and Waltzes A E A D B E7
+Holland 1945 (The only girl I've ever loved...) - C G D 
+We Are Going to Be Friends - G C D 
+Jackson - C	F G7 C7
+lover like you
+
+303.819.1139 Jon Sousa
+
 ======================================================================
 Grendel's Mother
 
@@ -1139,205 +1183,6 @@ E E A A E E A A x 2
 ======================================================================
 
 ======================================================================
-
-======================================================================
-
-Guitar - G C D Dsus4
-Friend Is A Four Letter Word Am C F D7 Em
-Sad Songs and Waltzes A E A D B E7
-Holland 1945 (The only girl I've ever loved...) - C G D 
-We Are Going to Be Friends - G C D 
-Jackson - C	F G7 C7
-lover like you
-
-303.819.1139 Jon Sousa
-
-==========================================
-Monkey - C G Am F
-==========================================
-(does not sound right)
-Yam, the King of Crops - E C Am Am7
-==========================================
-
-
-
-       EADGBe
-Asus2  x02200
-G7     320001
-
-A B C D E F G
-C#m Em F#m
-
-A:
-o o o o o o
-| | | | | |
-1 | | | 1 1   5th fr
-| | | 2 | |
-| 3 4 | | |
-
-Am7:
-x o o o o o
-| | | | 1 |
-| | 2 | | |
-| | | | | |
-
-Am:
-x o o o o o
-| | | | 1 |
-| | 2 3 | |
-| | | | | |
-
-Asus2
-x o o o o o
-| | | | | |
-| | 1 2 | |
-
-Asus4
-x o o o o o
-| | | | | |
-| | 1 2 | |
-| | | | 4 |
-
-B:
-x o o o o o
-| | | | | |
-| 1 | | | 1
-| | | | | |
-| | 2 3 4 |
-
-B:
-o o o o o o
-| | | | | |
-1 | | | 1 1   7th fr
-| | | 2 | |
-| 3 4 | | |
-
-Bb:
-x o o o o o
-| 1 | | | 1
-| | | | | |
-| | 2 3 4 |
-
-Bm:
-x o o o o o
-| | | | | |
-| 1 | | | 1
-| | | | 2 |
-| | 3 4 | |
-
-B5:
-o o o o o o
-| | | | | |
-| 1 | | | |
-| | | | | |
-| | 3 4 | |
-
-B7:
-o o o o o o
-| | 1 | | |
-| 2 | 3 | 4
-
-C#m: (x46654)
-x o o o o o
-| | | | | |
-| 1 | | | 1  4th fr
-| | | | 2 |
-| | 3 4 | |
-
-Cadd9:
-x o o o o o
-| | | | | |
-| | 1 | | |
-| 2 | | 3 |
-
-Cmaj7
-x o o o o o
-| | | | | |
-| | 1 | | |
-| 2 | | | |
-
-D:
-x o o o o o
-| | | | | |
-| 1 | |   1   5th fr
-| | | | | |
-| | 2 3 4 |
-
-Dm:
-x x o o o o
-| | | | | 1
-| | | 1 | |
-| | | | 1 |
-
-Dmaj7:
-x x o o o o
-| | | | | |
-| | | 1 1 1
-
-Dmaj7:
-x o o o o o
-| | | | | |
-| x | | | x   5th fr
-| | | x | |
-| | x | x |
-
-E:
-x o o o o o
-| | | | | |
-| 1 | |   1   7th fr
-| | | | | |
-| | 2 3 4 |
-
-Eb:
-x x o o o o
-| | 1 | | |
-| | | | | |
-| | | 1 | 1
-| | | | 1 |
-
-Eb:
-x o o o o o
-| | | | | |
-| | | | | |
-| | | 1 | 1
-| | | | 2 |
-| | 3 | | |
-| 4 | | | |
-
-E6sus2:
-o o o o o o
-| | | | | |
-| | | | 1 |
-| | | | | |
-| | 3 4 | |
-
-F:
-o o o o o o
-1 | | | 1 1
-| | | 2 | |
-| 3 4 | | |
-
-Fm:
-o o o o o o
-1 | | 1 1 1
-| | | | | |
-| 3 4 | | |
-
-F#m
-o o o o o o
-| | | | | |
-1 | | 1 1 1
-| | | | | |
-| 3 4 | | |
-
-G#m:
-x o o o o o
-| | | | | |
-| | | | | |
-| | | | | |
-1 | | 1 1 1
-| | | | | |
-| 3 4 | | |
 
 
 ======================================================================
