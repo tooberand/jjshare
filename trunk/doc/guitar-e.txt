@@ -253,19 +253,6 @@ d d  d      d d ddd
 1234567890123456 
 d d  d d du dudu
 
-Dsus4:
-x o o o o o
-| | | | |(2)
-| | | 1 | |
-| | | | 3 4
-
-F#m
-x o o o o o
-| 1 1 1 1 1
-| | | | | |
-| 3 4 | | |
-
-
 Chords used
 
 G     320033
@@ -901,7 +888,7 @@ Old College Try
 
 play open chords
 C#m x46654
-F#m x44222
+F#m 244222
 
 (1)
 1234567890123456
