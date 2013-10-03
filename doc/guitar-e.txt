@@ -855,6 +855,10 @@ A E A
 ======================================================================
 Old College Try
 
+play open chords
+C#m x46654
+F#m x44222
+
 (1)
 1234567890123456
 D   D yxy D yxy
@@ -883,7 +887,6 @@ A C#m  From the cities to the swamplands
 D E-D  From the highways to the hills (1,2)
 A F#m  Our love has never had a leg to stand on
 D E    From the aspirins to the cross-tops to the Elevils
-
 D E A D   But I will walk down to the end with you 
 A E A A   If you will come all the way down with me
 
@@ -902,7 +905,7 @@ A E A A   If you will come all the way down with me
 
 A C#m D E-D (1,1,1,2)
 A F#m D E (1,1,3,1)
-D E A Asus2 D (1,1,4,1)
+D E A-Asus2 D (1,1,4,1)
 A E A.
 
 ======================================================================
@@ -1234,7 +1237,7 @@ o o o o o o
 | | 1 | | |
 | 2 | 3 | 4
 
-C#m:
+C#m: (x46654)
 x o o o o o
 | | | | | |
 | 1 | | | 1  4th fr
