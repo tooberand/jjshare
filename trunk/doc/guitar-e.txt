@@ -857,7 +857,7 @@ Old College Try
 
 (1)
 1234567890123456
-D   D yxy D  xy
+D   D yxy D yxy
 
 (2)
 1234567890123456
@@ -867,25 +867,28 @@ D D D   D D D du
 1234567890123456
 D   D xyd d d d
 
+(4)
+1234567890123456
+D   D D D DUD DU
 
 A C#m D E-D (1,1,1,2)
 A F#m D E   (1,1,3,1)
 
-A C#m  From the housetops to the gutters (1,1)
+A C#m  From the housetops to the gutters
 D E-D  From the ocean to the shore (1,2)
-A F#m  The warning signs have all been bright and garish (1,1)
-D E    Far too great in number to ignore (3,1)
+A F#m  The warning signs have all been bright and garish
+D E    Far too great in number to ignore
 
 A C#m  From the cities to the swamplands
-D E-D  From the highways to the hills
+D E-D  From the highways to the hills (1,2)
 A F#m  Our love has never had a leg to stand on
 D E    From the aspirins to the cross-tops to the Elevils
 
-D E A D   But I will walk down to the end with you
+D E A D   But I will walk down to the end with you 
 A E A A   If you will come all the way down with me
 
 A C#m     From the entrance to the exit
-D E-D     Is longer than it looks from where we stand
+D E-D     Is longer than it looks from where we stand (1,2)
 A F#m     I want to say I'm sorry for stuff I haven't done yet
 D E       Things will shortly get completely out of hand
 A C#m     I can feel it in the rotten air tonight
@@ -894,13 +897,13 @@ A F#m     In the weak last gasp of the evening's dying light
 D E       In the way those eyes I've always loved illuminate this place
 D E       Like a trashcan fire in a prison cell
 A D       Like the searchlights in the parking lots of hell
-A E A D   I will walk down to the end with you
+A E A D   I will walk down to the end with you (???)
 A E A A   If you will come all the way down with me
 
-A C#m D E-D 
-A F#m D E
-D E A Asus2 D
-A E A. 
+A C#m D E-D (1,1,1,2)
+A F#m D E (1,1,3,1)
+D E A Asus2 D (1,1,4,1)
+A E A.
 
 ======================================================================
 
