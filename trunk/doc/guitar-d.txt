@@ -10,7 +10,7 @@ Duxuduxu
 
 1234567890123456 (chorus Em strum override)
 dudu udu udu udu
-Em C   C#  C
+Em C   C#  C     (see below)
 
 (softly)
 G D Am7 Am7  Drove downtown
@@ -67,6 +67,12 @@ Am7 (x02010)
 E7 (020100)
 Bmaj7 (224232)
 Cmaj7 (x32000)
+
+Em Em/C Em/C# Em/C * Just keep adding fingers
+
+Em (011000)
+Em/C (021000)
+Em/# (031000)
 
 ======================================================================
 Dragonfly
