@@ -12,6 +12,7 @@ B     x24442
 B     799877
 Bb    x13331
 Bm    x24432
+Bm7   x24232
 B5    024400
 B7    021202
 C#m   x46654
@@ -378,41 +379,105 @@ And we all fall down
 ======================================================================
 Going to Scotland:
 
-basic:       held:                 rocking:
-12345678     12345678 12345678     12345678 12345678    
-d d  udu     d d  d d   d  udu     ???????? ????????
+(0)
+jjplay -r 0.8 -t 3.8 "goats.*scotland"
+1.2.3.4.5.6.7.8.
+D D  Du D D  D 
+
+(1)
+jjplay -s7.0 -r 0.8 -t 3.5 "goats.*scotland"
+1.2.3.4.5.6.7.8.
+D DuuDuuD DuuDuu
+
+(2)
+jjplay -s3.5 -r 0.8 -t 3.8 "goats.*scotland"
+1.2.3.4.5.6.7.8.
+D DuuDuDuuDuuDud
+
+(3)
+jjplay -s23.1 -r 0.8 -t 3.7 "goats.*scotland"
+1.2.3.4.5.6.7.8.
+D DuuDuDuuDuuDDD
+
+(4)
+jjplay -s29.0 -r 0.8 -t 7 "goats.*scotland"
+1.2.3.4.5.6.7.8.
+D DuuDuDuuDuuDdu
+
+(5)
+jjplay -s54.1 -r 0.8 -t 3.8 "goats.*scotland"
+1.2.3.4.5.6.7.8.
+D D Dd D Dd Dddd
+
+(6)
+jjplay -s7.0 -r 0.8 -t 3.5 "goats.*scotland"
+1.2.3.4.5.6.7.8.
+D DuuDuuD DuuDDD
+
+(7)
+jjplay -s79.1 -r 0.8 -t 4 "goats.*scotland"
+1...2...3...4...5...6...7...8...
+D   D   D D   D   D d  du d dud
+
+(8)
+jjplay -s104 -r 0.6 -t 3.7 "goats.*scotland"
+1...2...3...4...5...6...7...8...
+D   D D D D Dud Dud D Dud D Dud
+
+(9)
+jjplay -s107.4 -r 0.6 -t 3.5 "goats.*scotland"
+1...2...3...4...5...6...7...8...
+D   D Duu D   D   D u Dud D Dud
+
+(a)
+jjplay -s110.5 -r 0.6 -t 3.5 "goats.*scotland"
+1...2...3...4...5...6...7...8...
+D   D Dud D duD Dud D Dud D Dud
+
+(b)
+jjplay -s116.3 -r 0.6 -t 4 "goats.*scotland"
+1...2...3...4...5...6...7...8...
+D   D D D D duD D D D Dud D D D
+
+(c)
+jjplay -s119.5 -r 0.6 -t 3.5 "goats.*scotland"
+1...2...3...4...5...6...7...8...
+D   D Dud D Dud D   D dud d dud
+
+(d)
+12345678
+DDDDDDDD + D
 
 Standard tuning, capo 3
 
-AEAA   THERE was a BARN owl trapped in the RAFTERS.
-AEAA   THE ground underNEATH us was wet and COLD.
-AE     We HEARD the owl thrashing aBOUT,
-AD     Trying DESPERATELY to get OUT.
-AEAA   WE stood outSIDE and watched the night unFOLD.
+AEAA  THERE was a BARN owl trapped in the RAFTERS. (02)
+AEAA  THE ground underNEATH us was wet and COLD. (12)
+AEAD  We HEARD the owl thrashing aBOUT / Trying DESPERATELY to get OUT. (11)
+AEAA  WE stood outSIDE and watched the night unFOLD. (13)
 
-AEAA   WE watched the SUN go down on SCOTLAND,
-AAEE   AND I watched the MOON come up over YOU.
-AA     WHEN a pack of dogs went silently PASSED us,
-DD     WE knew we'd been given fair WARNING,
-AEAA   BUT that was the ONLY thing we KNEW.
+AEAA   WE watched the SUN go down on SCOTLAND, (14)
+AAEE   AND I watched the MOON come up over YOU. (24)
+AADD   WHEN a pack of dogs went silently PASSED us / (23)
+          WE knew we'd been given fair WARNING,
+AEAA   BUT that was the ONLY thing we KNEW. (13)
 
-AEAA   AND you threw all your LUGGAGE out onto the WATER.
-AEAA   AND I tore the SHIRT away from my BACK.
-AE     THE cold came on with a new found IN-tensity, 
-AD     AND you pressed your warm body AGAINST me.
-AEAA   AND I loved you so MUCH it was making me SICK.
+AEAA   AND you threw all your LUGGAGE out onto the WATER. (15)
+AEAA   AND I tore the SHIRT away from my BACK. (12)
+AEAD   THE cold came on with a new found IN-tensity, / (16)
+          AND you pressed your warm body AGAINST me.
+AEAA   AND I loved you so MUCH it was making me SICK. (13)
 
-AEAA   AND we watched the SUN go down on SCOTLAND,
-AAEE   WE were glad that we'd LEFT Oklahoma beHIND.
-AA     I took your hips in my hands and I THREW you down
-DD     TO the new found rich brown DEEP wet ground.
-AEAA   HAD a vision of you, BURNing on my MIND.
+AEAA   AND we watched the SUN go down on SCOTLAND, (17)
+AAEE   WE were glad that we'd LEFT Oklahoma beHIND. (24)
+AADD   I took your hips in my hands and I THREW you down / (23)
+          TO the new found rich brown DEEP wet ground.
+AEAA   HAD a vision of you, BURNing on my MIND. (13)
 
-AEAA   WE watched the SUN go down on SCOTLAND,
-AAEE   AND I watched the MOON come up over YOU.
-AA     WHEN a pack of dogs went silently PAST us,
-DD     WE knew we'd been given fair WARNING,
-AEAA   BUT that was the ONLY thing we KNEW.
+AEAA   WE watched the SUN go down on SCOTLAND, (18)
+AAEE   AND I watched the MOON come up over YOU. (9a)
+AADD   WHEN a pack of dogs went silently PAST us, / (1b)
+          WE knew we'd been given fair WARNING,
+AEAA   BUT that was the ONLY thing we KNEW. (cd)
 
 ======================================================================
 Elijah
@@ -705,19 +770,28 @@ end on B
 
 Color In Your Cheeks
 
+(1)
+12345678
+D   D DU
+(2)
+12345678
+D D D DU
+(33)
+1234567890123456
+D D D DUDUD D DU
+
 (He plays all barre chords in the mini desk concert video.)
 
 tabbed by russ sweetser (yarzrevenge@yahoo.com)
 
-C#m G# A B   she came in on the redeye to dallas-fort worth.
-E G# A B     all the way from sunny taipei.
-C#m G# A B   skin the color of a walnut shell,
-E G# A B     and a baseball cap holding down her black hair.
-A A B B      and she came here after midnight.
-E E A A      the hot weather made her feel right at home.
-
-E E A A      come on in, we haven't slept for weeks.
-E E A B      drink some of this. it'll put color in your cheeks.
+C#m G# A B   she came in on the redeye to dallas-fort worth. (1111)
+E G# A B     all the way from sunny taipei. (1112)
+C#m G# A B   skin the color of a walnut shell, (1111)
+E G# A B     and a baseball cap holding down her black hair. (1112)
+A A B B      and she came here after midnight. (2233)
+E E A A      the hot weather made her feel right at home. (2222)
+E E A A      come on in, we haven't slept for weeks. (2222)
+E E A B      drink some of this. it'll put color in your cheeks. (2222)
 
 C#m G# A B   he drove in from mexicali, no worse for wear.
 E G# A B     money to burn, time to kill.
@@ -729,7 +803,9 @@ E E A A      SIlence that's our trademark MAKE its presence felt.
 E E A A      come on in, we haven't slept for weeks.
 E E A B      drink some of this. it'll put color in your cheeks.
 
-C#m G# A B E B
+C#m G# A B (2222)
+C#m G# A B (2222)
+E E B B    (3322)
 
 C#m G# A B   they came in by the dozens, walking or crawling.
 E G# A B     some were bright-eyed.  some were dead on their feet.
