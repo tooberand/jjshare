@@ -410,7 +410,7 @@ jjplay -s54.1 -r 0.8 -t 3.8 "goats.*scotland"
 D D Dd D Dd Dddd
 
 (6)
-jjplay -s7.0 -r 0.8 -t 3.5 "goats.*scotland"
+jjplay -s58.1 -r 0.8 -t 3.5 "goats.*scotland"
 1.2.3.4.5.6.7.8.
 D DuuDuuD DuuDDD
 
