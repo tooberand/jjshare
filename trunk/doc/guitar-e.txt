@@ -1,35 +1,35 @@
 
-       EADGBe
-Asus2  x02200
-G7     320001
+EADGBe
+------
+577655  A
+x02010  Am7
+x02210  Am
+x02200  Asus2
+x02230  Asus4
+x24442  B
+799877  B
+x13331  Bb
+x24432  Bm
+x24232  Bm7
+024400  B5
+021202  B7
+x46654  C#m
+032030  Cadd9
+032000  Cmaj7
+x57775  D
+xx0231  Dm
+xx0222  Dmaj7
+057675  Dmaj7
+x79997  E
+xx1343  Eb
+x65343  Eb
+004420  E6sus2
+133211  F
+133111  Fm
+244222  F#m
+466444  G#m
+320001  G7
 
-A     577655
-Am7   x02010
-Am    x02210
-Asus2 x02200
-Asus4 x02230
-B     x24442
-B     799877
-Bb    x13331
-Bm    x24432
-Bm7   x24232
-B5    024400
-B7    021202
-C#m   x46654
-Cadd9 032030
-Cmaj7 032000
-D     x57775
-Dm    xx0231
-Dmaj7 xx0222
-Dmaj7 057675
-E     x79997
-Eb    xx1343
-Eb    x65343
-E6sus2 004420
-F     133211
-Fm    133111
-F#m   244222
-G#m   466444
 
 ======================================================================
 
@@ -52,30 +52,30 @@ d   d  du d  du
 d   d     d  du 
 
 flair1 x4
-12345678901234567890123456789012
+1...2...3...4...5...6...7...8...
 d   d  du d  du d   d  du d d d 
 
 flair2 x1
-12345678901234567890123456789012
+1...2...3...4...5...6...7...8...
 d   d dud d d dud   d  du d   du
 
 tabbed by kevin ricker.
 
 D - G  A - D
 
-D G D G   the cave mouth shines / by pure force of will
-D G D G   i look down on the world / from the top of this lonesome hill
-D A D G   and you can run, and run some more / from here all the way to singapore
-D A D     but i will carry you home in my teeth
+DGDG   the cave mouth shines / by pure force of will
+DGDG   i look down on the world / from the top of this lonesome hill
+DADG   and you can run, and run some more / from here all the way to singapore
+DADD   but i will carry you home in my teeth
 
 
-D G D G   in the great hall you drink red wine / you chew meat off the bone
-D G D G   i beat down the new path to the castle / i come naked and alone
-D A D G   i laid my son on the bier, i burned the wreath /
-            fire overhead, water underneath
-D A D G   you can stand up or you can run / you and i both know what you've done
-D A D G   and i will carry you home / i will carry you home
-D A D     i will carry you home in my teeth
+DGDG   in the great hall you drink red wine / you chew meat off the bone
+DGDG   i beat down the new path to the castle / i come naked and alone
+DADG   i laid my son on the bier, i burned the wreath /
+         fire overhead, water underneath
+DADG   you can stand up or you can run / you and i both know what you've done
+DADG   and i will carry you home / i will carry you home
+DAD    i will carry you home in my teeth
 
 ======================================================================
 
@@ -402,50 +402,43 @@ D DuuDuDuuDuuDDD
 (4)
 jjplay -s29.0 -r 0.8 -t 7 "goats.*scotland"
 1.2.3.4.5.6.7.8.
-D DuuDuDuuDuuDdu
+D DuuDuDuuDuuDDu
 
 (5)
 jjplay -s54.1 -r 0.8 -t 3.8 "goats.*scotland"
 1.2.3.4.5.6.7.8.
-D D Dd D Dd Dddd
+D D Du D Du Duuu
 
 (6)
 jjplay -s58.1 -r 0.8 -t 3.5 "goats.*scotland"
 1.2.3.4.5.6.7.8.
 D DuuDuuD DuuDDD
 
-(7)
-jjplay -s79.1 -r 0.8 -t 4 "goats.*scotland"
+(7) jjplay -s79.1 -r 0.8 -t 4 "goats.*scotland"
 1...2...3...4...5...6...7...8...
-D   D   D D   D   D d  du d dud
+D   D   D D   D   D d  du D udu
 
-(8)
-jjplay -s104 -r 0.6 -t 3.7 "goats.*scotland"
+(8) jjplay -s104 -r 0.6 -t 3.7 "goats.*scotland"
 1...2...3...4...5...6...7...8...
-D   D D D D Dud Dud D Dud D Dud
+D   D u u D udu udu D udu D udu
 
-(9)
-jjplay -s107.4 -r 0.6 -t 3.5 "goats.*scotland"
+(9) jjplay -s107.4 -r 0.6 -t 3.5 "goats.*scotland"
 1...2...3...4...5...6...7...8...
-D   D Duu D   D   D u Dud D Dud
+D   D udu D   D   u D udu D udu
 
-(a)
-jjplay -s110.5 -r 0.6 -t 3.5 "goats.*scotland"
+(a) jjplay -s110.5 -r 0.6 -t 3.5 "goats.*scotland"
 1...2...3...4...5...6...7...8...
-D   D Dud D duD Dud D Dud D Dud
+D   D udu D u D udu D udu D udu
 
-(b)
-jjplay -s116.3 -r 0.6 -t 4 "goats.*scotland"
+(b) jjplay -s116.3 -r 0.6 -t 4 "goats.*scotland"
 1...2...3...4...5...6...7...8...
-D   D D D D duD D D D Dud D D D
+D   D u u D duD u u D udu D D D
 
-(c)
-jjplay -s119.5 -r 0.6 -t 3.5 "goats.*scotland"
+(c) jjplay -s119.5 -r 0.6 -t 3.5 "goats.*scotland"
 1...2...3...4...5...6...7...8...
-D   D Dud D Dud D   D dud d dud
+D   D udu D udu D   D udu D udu
 
-(d)
-12345678
+(d) 12345678
 DDDDDDDD + D
 
 Standard tuning, capo 3
@@ -453,19 +446,19 @@ Standard tuning, capo 3
 AEAA  THERE was a BARN owl trapped in the RAFTERS. (02)
 AEAA  THE ground underNEATH us was wet and COLD. (12)
 AEAD  We HEARD the owl thrashing aBOUT / Trying DESPERATELY to get OUT. (11)
-AEAA  WE stood outSIDE and watched the night unFOLD. (13)
+AEAA  WE stood outSIDE and watched the night unFOLD. (13) DDD
 
-AEAA   WE watched the SUN go down on SCOTLAND, (14)
-AAEE   AND I watched the MOON come up over YOU. (24)
-AADD   WHEN a pack of dogs went silently PASSED us / (23)
+AEAA   WE watched the SUN go down on SCOTLAND, (14) DDu
+AAEE   AND I watched the MOON come up over YOU. (24) DDu
+AADD   WHEN a pack of dogs went silently PASSED us / (23) DDD
           WE knew we'd been given fair WARNING,
-AEAA   BUT that was the ONLY thing we KNEW. (13)
+AEAA   BUT that was the ONLY thing we KNEW. (13) DDD
 
-AEAA   AND you threw all your LUGGAGE out onto the WATER. (15)
+AEAA   AND you threw all your LUGGAGE out onto the WATER. (15) D D Du D Du Duuu
 AEAA   AND I tore the SHIRT away from my BACK. (12)
-AEAD   THE cold came on with a new found IN-tensity, / (16)
+AEAD   THE cold came on with a new found IN-tensity, / (16) D DuuDuuD DuuDDD
           AND you pressed your warm body AGAINST me.
-AEAA   AND I loved you so MUCH it was making me SICK. (13)
+AEAA   AND I loved you so MUCH it was making me SICK. (13) DDD
 
 AEAA   AND we watched the SUN go down on SCOTLAND, (17)
 AAEE   WE were glad that we'd LEFT Oklahoma beHIND. (24)
@@ -479,6 +472,15 @@ AADD   WHEN a pack of dogs went silently PAST us, / (1b)
           WE knew we'd been given fair WARNING,
 AEAA   BUT that was the ONLY thing we KNEW. (cd)
 
+     1...2...3...4...5...6...7...8...
+(7)  D   D   D D   D   D d  du D udu
+(8)  D   D u u D udu udu D udu D udu
+(9)  D   D udu D   D   u D udu D udu
+(a)  D   D udu D u D udu D udu D udu
+(1)
+(b)  D   D u u D duD u u D udu D D D
+(c)  D   D udu D udu (x2)
+(d)  DDDDDDDDD
 ======================================================================
 Elijah
 
@@ -501,7 +503,7 @@ A A D E       I bet they're hungry, I know I'm starving half to death
 F#m F#m D E   I know you're waiting, I know you've been wtg for a long long time 
 A A D E       and I'm coming home
 
-C#m C#m D E   Set the table, those three extra spaces, one for 
+C#m C#m D E   Set the table, those three extra places, one for 
 A A D E       me, one for your doubts, one for God
 
 A A D E       Let the incense burn in every room
@@ -575,9 +577,14 @@ You've Got Her In Your Pocket - The White Stripes
 
 Standard tuning.
 
-D      G      C      A      Amin   Asus4   F
-EADGBe EADGBe EADGBe EADGBe EADGBe EADGBe  EADGBe
-xx0232 320033 x32010 x03330 x03320 x02210  133211
+EADGBe
+xx0232 D      
+320033 G
+x32010 C
+x03330 A
+x03320 Amin
+x02210 Asus4
+133211 F
 
 The rhythm is pretty easy, so just listen to the song.
 
@@ -832,15 +839,9 @@ E
 all of the Es here are x7999x
 
 ======================================================================
-Bb:
-x o o o o o
-| 1 | | | 1
-| | | | | |
-| | 2 3 4 |
 
 1234567890123456  1234567890123456
 d d d dud d dud   d d dud d d dudu
-
 
 Neutral Milk Hotel - The King of Carrot Flowers Pt. 1
 
@@ -967,19 +968,19 @@ C#m x46654
 F#m 244222
 
 (1)
-1234567890123456
+1.2.3.4.5.6.7.8.
 D   D udu D udu
 
 (2)
-1234567890123456
+1.2.3.4.5.6.7.8.
 D D D   D D D du
 
 (3)
-1234567890123456
+1.2.3.4.5.6.7.8.
 D   D duD D D D
 
 (4)
-1234567890123456
+1.2.3.4.5.6.7.8.
 D   D D D DUD DU
 
 A C#m D E-D (1,1,1,2)
