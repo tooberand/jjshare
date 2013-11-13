@@ -5030,39 +5030,7 @@ by John Lennon
 
 ======================================================================
 
-The Replacements
-
-This was originally posted by Francois Rousseau last week.  Merci.
 http://www.youtube.com/watch?v=QDWE35stb7g
-
-Skyway
-
-Tricky fingerpicking:
-
-To get the feeling try playing the D chord and alternate the way you
-play the last string between the 2nd fret (as in a D) and the open
-string (D9). Do the same with the GM7 chord (alternate on the little
-string between the second fret and the open string). I fingerpick the
-whole song and it sounds ok.
-
-For the D: easy to play for everybody...
-
-1 E: 2  (alternate with open string (e))
-2 B: 3
-3 G: 2
-4 D: 0
-5 A: 0
-6 E: X
-
-
-For the GM7: hard to play for beginners...
-
-1 E: 2  (alternate with open string (e))
-2 B: 0
-3 G: 0
-4 D: 0
-5 A: 2
-6 E: 3
 
                          Skyway
                    (The Replacements)
