@@ -19,11 +19,15 @@ sub main
 		`osascript -e 'get output volume of (get volume settings)'`;
 	chomp $start_volume;
 	my $volume = $start_volume;
+	my $duration = 0;
+	my $loops = 1;
 	# afplay args: vhtrqd
 	GetOptions("start|s=f" => \$start_time);
 	GetOptions("volume|v=i" => \$volume);
 	GetOptions("CountdownOff|C" => \$no_countdown);
 	GetOptions("countdown|c" => \$countdown);
+	GetOptions("duration|d=i" => \$duration);
+	GetOptions("loops|l=i" => \$loops);
 
 	my $tmpfile;
 	$_end_sub = sub
@@ -89,7 +93,33 @@ sub main
 			close($ofh);
 			$file = $tmpfile;
 		}
-		esystem("afplay", @ARGV, $file);
+
+		while ($loops)
+		{
+			print "$loops left\n";
+			--$loops;
+
+			my $pid = fork();
+			if ($pid)
+			{
+				eval
+				{
+					local $SIG{'ALRM'} = sub { die "Duration of $duration over" };
+					alarm $duration;
+					waitpid($pid, 0);
+					alarm 0;
+				};
+				if ($@)
+				{
+					print $@;
+					kill(15, $pid);
+				}
+			}
+			else
+			{
+				exec("afplay", @ARGV, $file);
+			}
+		}
 
 		if ($start_volume != $volume)
 		{
