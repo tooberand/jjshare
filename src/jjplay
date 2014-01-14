@@ -21,6 +21,7 @@ sub main
 	my $volume = $start_volume;
 	my $duration = 0;
 	my $loops = 1;
+	my $rate = 1;
 	# afplay args: vhtrqd
 	GetOptions("start|s=f" => \$start_time);
 	GetOptions("volume|v=i" => \$volume);
@@ -28,6 +29,7 @@ sub main
 	GetOptions("countdown|c" => \$countdown);
 	GetOptions("duration|d=i" => \$duration);
 	GetOptions("loops|l=i" => \$loops);
+	GetOptions("rate|r=f" => \$rate);
 
 	my $tmpfile;
 	$_end_sub = sub
@@ -105,7 +107,7 @@ sub main
 				eval
 				{
 					local $SIG{'ALRM'} = sub { die "Duration of $duration over" };
-					alarm $duration;
+					alarm $duration / $rate;
 					waitpid($pid, 0);
 					alarm 0;
 				};
@@ -117,6 +119,7 @@ sub main
 			}
 			else
 			{
+				push(@ARGV, ("-r", $rate));
 				exec("afplay", @ARGV, $file);
 			}
 		}
