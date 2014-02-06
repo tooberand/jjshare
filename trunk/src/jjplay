@@ -41,6 +41,7 @@ sub main
 		esystem("rm $tmpfile") if $tmpfile;
 		exit;
 	};
+	$SIG{'INT'} = $_end_sub;
 
 	my $search_str = pop @ARGV || die "usage error";
 	$search_str =~ s/\+/\.\*/g;
