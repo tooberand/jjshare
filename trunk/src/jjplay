@@ -123,11 +123,6 @@ sub main
 				exec("afplay", @ARGV, $file);
 			}
 		}
-
-		if ($start_volume != $volume)
-		{
-			esystem("osascript -e 'set volume output volume $start_volume'");
-		}
 	}
 	else
 	{

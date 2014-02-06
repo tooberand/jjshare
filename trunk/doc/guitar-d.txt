@@ -1,3 +1,25 @@
+Jack and Diane
+
+Clean
+A: xx222x
+D: xx324x
+E: xx546x
+
+Distort
+     1 1
+A: x0190x
+D: x0777x
+E: x0999x
+     1 1
+?: x0192x
+
+Intro (Distort)
+123456781234567812345678
+A       E   A E D        oo  ooo  (x3)
+
+A ? A E E E D D E E E A ? A E E E D E A A A
+
+----------------------
 Crazy Little Thing Called Love
 12345678
 dudu udu
