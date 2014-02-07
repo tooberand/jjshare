@@ -21,8 +21,8 @@ D: x0777x
 E: x0999x
 
 Intro (Distort)
-123456781234567812345678
-A       E   A E D        oo  oo  (x3)
+1234567812345678123456781234567812345678
+A       E   A E D           oo      oo   (x3)
 
 Verse (High)
 A ? A E E E D D E E E   Little ditty about Jack and Diane
@@ -49,8 +49,8 @@ A ? A E E E D E A       Long after the thrill of livin' is gone
 They walk on
 
 Intro (Distort)
-123456781234567812345678
-A       E   A E D        oo  oo  (x2)
+1234567812345678123456781234567812345678
+A       E   A E D           oo      oo   (x2)
 
 Verse (High)
 A ? A E E E D D E E E   Jackie sits back reflects his thoughts for the moment
@@ -86,7 +86,10 @@ A ? A E E E D E A       Long after the thrill of livin' is gone
 Little ditty about Jack and Diane
 Two American kids done the best they can
 
-Intro (x4 fade)
+Intro (Distort)
+1234567812345678123456781234567812345678
+A   E   E   A E D           oo     oo    (x4)
+
 
 ----------------------
 Crazy Little Thing Called Love
