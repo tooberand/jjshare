@@ -1,18 +1,18 @@
 Jack and Diane
 
+All down strums
+
 Low
 A: xx222x
 D: xx423x
 E: xx645x
-?: xx647x
+?: xx647x (just add pinky to 2nd string)
 
 High
-     1 1
-A: xx190x
+A: xx 11 9 10 x
 D: xx777x
 E: xx999x
-     1 1
-?: xx192x
+?: xx 11 9 12 x (just add pinky to 2nd string)
 
 Distort
      1 1
@@ -20,7 +20,7 @@ A: x0190x
 D: x0777x
 E: x0999x
 
-Intro (Distort)
+Intro (Distort): 'oo' part is picking the 3rd string while still on the D chord.
 1234567812345678123456781234567812345678
 A       E   A E D           oo      oo   (x3)
 
@@ -31,7 +31,7 @@ A ? A E E E D D E E E   Jackie gonna be a football star
 A ? A E E E D E A A A   Diane debutante backseat of Jackie's car
 
 Bridge (Low)
-A D A D/E E E D D E ? E
+A D A D/E E E D D E ? E  (D/E -> slide)
 A D A D/E E E D D A
 
 Verse (High)
