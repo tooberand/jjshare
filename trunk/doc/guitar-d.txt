@@ -1,24 +1,92 @@
 Jack and Diane
 
-Clean
+Low
 A: xx222x
-D: xx324x
-E: xx546x
+D: xx423x
+E: xx645x
+?: xx647x
+
+High
+     1 1
+A: xx190x
+D: xx777x
+E: xx999x
+     1 1
+?: xx192x
 
 Distort
      1 1
 A: x0190x
 D: x0777x
 E: x0999x
-     1 1
-?: x0192x
 
 Intro (Distort)
 123456781234567812345678
-A       E   A E D        oo  ooo  (x3)
+A       E   A E D        oo  oo  (x3)
 
-A ? A E E E D D E E E
-A ? A E E E D E A A A
+Verse (High)
+A ? A E E E D D E E E   Little ditty about Jack and Diane
+A ? A E E E D E A A A   Two American kids growin' up in the heartland
+A ? A E E E D D E E E   Jackie gonna be a football star
+A ? A E E E D E A A A   Diane debutante backseat of Jackie's car
+
+Bridge (Low)
+A D A D/E E E D D E ? E
+A D A D/E E E D D A
+
+Verse (High)
+A ? A E E E D D E E E   Suckin' on chili dogs outside the tastee freeze
+A ? A E E E D E A A A   Diane's sittin' on Jackie's lap he's got his hand between her knees
+A ? A E E E D D E E E   Jackie say, hey, Diane let's run off behind a shady trees
+A ? A E E E D E A A A   Dribble off those Bobby Brooks let me do what I please
+
+Chorus (High)
+A ? A E E E D D E E E   Say a oh yeah, life goes on
+A ? A E E E D D E A E   Long after the thrill of livin' is gone
+A ? A E E E D D E E E   Say a oh yeah, life goes on
+A ? A E E E D E A       Long after the thrill of livin' is gone
+
+They walk on
+
+Intro (Distort)
+123456781234567812345678
+A       E   A E D        oo  oo  (x2)
+
+Verse (High)
+A ? A E E E D D E E E   Jackie sits back reflects his thoughts for the moment
+A ? A E E E D E A A A   Scratches his head and does his best James Dean
+A ? A E E E D D E E E   Well you know, Diane we oughta run off to the city
+A ? A E E E D E A A A   Diane says, baby you ain't missin' nuth-in
+
+Chorus (High)
+A ? A E E E D D E E E   Jackie, say-a oh yeah, life goes on
+A ? A E E E D D E A E   Long after the thrill of livin' is gone
+A ? A E E E D D E E E   Say a oh yeah, life goes on
+A ? A E E E D E A       Long after the thrill of livin' is gone
+
+(Durm Solo) ???
+Gonna let it rock
+Let it roll
+Let the Bible Belt come
+And save my soul
+Hold on to sixteen as long as you can
+Changes come around real soon
+Make us women and men
+
+Bridge (Low)
+A D A D/E E E D D E ? E
+A D A D/E E E D D A
+
+Chorus (High)
+A ? A E E E D D E E E   Oh yeah, life goes on
+A ? A E E E D D E A E   Long after the thrill of livin' is gone
+A ? A E E E D D E E E   Say a oh yeah, life goes on
+A ? A E E E D E A       Long after the thrill of livin' is gone
+
+Little ditty about Jack and Diane
+Two American kids done the best they can
+
+Intro (x4 fade)
 
 ----------------------
 Crazy Little Thing Called Love
