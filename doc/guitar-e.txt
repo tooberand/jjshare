@@ -1,4 +1,3 @@
-
 EADGBe
 ------
 577655  A
@@ -52,6 +51,9 @@ Hallelujah
 Imagine
 3am
 Carriage Clock
+Ballad of Love and Hate
+
+judy and the dream of horses has interesting strum pattern and mute
 
 ======================================================================
 Grendel's Mother
@@ -6200,35 +6202,6 @@ capo on 3rd (can be played anywhere but if you want to match the
 song) not perfect but it will work for playing it alone. I
 learned this by ear so bear with.
 
-If I get murdered in the city
-Don't go revenging in my name
-One person dead from such is plenty
-No need to go get locked away
-When I leave your arms
-The things I think of
-No need to get over alarmed
-I'm coming home
-
-I wonder which brother is better
-Which one our parents loved the most
-I sure did get in lots of trouble
-They seemed to let the other go
-A tear fell from my father's eye
-I wondered what my dad would say
-He said, "I love you and I'm proud of you both,
-In so many different ways"
-
-If I get murdered in the city
-Go read the letter in my desk
-Don't bother with all my belongings
-Pay attention to the list
-Make sure my sister knows I love her
-Make sure my mother knows the same
-Always remember there was nothing worth sharing
-Like the love that let us share our name
-Always remember there was nothing worth sharing
-Like the love that let us share our name
-
 -----------------------------------------------------------------------------
 
 Intro:
@@ -6240,6 +6213,7 @@ D :-------------------2---2-----0h2-----------3---3-2-2-------2-|  X2
 A :---3---------------3---------------3-------3---3-3-3---------|
 E :---------------------------------------------------0---------|
 
+
 Verse 1:
       C       Em     Am       G      F        G     C
 e :-------0-------0--------0----3----------1------1-------0-----0--|
@@ -6249,88 +6223,468 @@ D :----------------------------------------------------------------| X2
 A :-3-------2--------0------------------------------3--------------|
 E :---------------------------3------1--------3--------------------|
 
- Am      G         C
-When I leave your arms.......
- Am     G         F       C  Am   G
-No need to get over alarmed, I'm coming-
+pluck bass note
+pluck B string
+strum from base note (2/3 strings)
+pluck E string
+at G strum whole chord
+at small F strum wholee
+wnd G is just high 
 
+Try a slow strum on Am and then pick G
+or try strum Am then strum base note of G and pick rest of G
+try strum Am and strum G and pick C
+(define joan notes?)
+
+
+same strum pattern for A, G, C
   home
-e :---------0-------------------------------0-----------0-------|
-B :-----1-------1---1-------------------1-------------1---1-----|
-G :-------0---4---4-----0---0-0-----0-2---2-----2-2-0-0-----0---|
-D :-------------------2---2-----0h2-----------3---3-2-2-------2-|  X2
-A :---3---------------3---------------3-------3---3-3-3---------|
-E :---------------------------------------------------0---------|
-
-Verse 2:
-      C       Em     Am       G      F        G     C
-e :-------0-------0--------0----3----------1------1-------0-----0--|
-B :---1-------0--------1----------0----1--------0-----1-----1------|
-G :-----0-------0--------2---------------2--------0-----0-----0----|
-D :----------------------------------------------------------------| X2
-A :-3-------2--------0------------------------------3--------------|
-E :---------------------------3------1--------3--------------------|
+e :-----0---0---0---0--0-------0---0---0--0----------0-0---0-0--|
+B :-----1---1---1---1--1-------1---1---1--1----------1-----1----|
+G :-----------4---4-------0------2---2-------0--------0-----0---|
+D :-------------------2-2----------------3-3----------2-----2---|  X2
+A :---3---3-------------------------------------------3-3---3---|
+E :---------------------------------------------------0-----0---|
 
 
+If I get murdered in the city / Don't go revenging in my name
+One person dead from such is plenty / No need to go get locked away
+When I leave your arms / The things I think of
+No need to get over alarmed, / I'm coming home
 
+I wonder which brother is better / Which one our parents loved the most
+I sure did get in lots of trouble / They seemed to let the other go
 
-Am     G                   C
 A tear fell from my father's eyes
-Am         G                 C
 I wondered what my dad would say
-Am        G
 He said I love you
-         F           C            Am     G
 And I'm proud of you both, in so many different-
 
-ways
-e :---------0-------------------------------0-----------0-------|
-B :-----1-------1---1-------------------1-------------1---1-----|
-G :-------0---4---4-----0---0-0-----0-2---2-----2-2-0-0-----0---|
-D :-------------------2---2-----0h2-----------3---3-2-2-------2-|  X2
-A :---3---------------3---------------3-------3---3-3-3---------|
-E :---------------------------------------------------0---------|
+If I get murdered in the city / Go read the letter in my desk
+Don't bother with all my belongings / Pay attention to the list
 
-Verse 3:
-      C       Em     Am       G      F        G     C
-e :-------0-------0--------0----3----------1------1-------0-----0--|
-B :---1-------0--------1----------0----1--------0-----1-----1------|
-G :-----0-------0--------2---------------2--------0-----0-----0----|
-D :----------------------------------------------------------------| X2
-A :-3-------2--------0------------------------------3--------------|
-E :---------------------------3------1--------3--------------------|
-
-Am           G               C
 Make sure my sister knows I loved her
-Am           G                C
 Make sure my mother knows the same
-Am       G                F             C
 Always remember, there is nothing worth sharing
-Am                       G            C
 Like the love that let us share our name
-Am       G                F             C
 Always remember, there is nothing worth sharing
-Am                       G
-Like the love that let us share our-
-
-name
-e :---------0-------------------------------0-----------0-------|
-B :-----1-------1---1-------------------1-------------1---1-----|
-G :-------0---4---4-----0---0-0-----0-2---2-----2-2-0-0-----0---|
-D :-------------------2---2-----0h2-----------3---3-2-2-------2-|
-A :---3---------------3---------------3-------3---3-3-3---------|
-E :---------------------------------------------------0---------|
-
-e :---------0-------------------------------0-------|
-B :-----1-------1---1-------------------1-----------|
-G :-------0---4---4-----0---0-0-----0-2---2-----2-2-|
-D :-------------------2---2-----0h2-----------3---3-|
-A :---3---------------3---------------3-------3---3-|
-E :-------------------------------------------------|
+Like the love that let us share our name
 
 Finish with a strong C
 
 
+======================================================================
+The Ballad of Love and Hate
+Capo III
+
+lesson
+https://www.youtube.com/watch?v=gl1HC-Z3K3g
+flair from seth avett
+https://www.youtube.com/watch?v=AOP3tk5TxTk
+
+B/C x20010
+CCGC
+FFCC
+FGC (B/C)  Am
+CGFF
+
+fancy C
+
+e :----------------------------------------|
+B :----------------------------0-----------|
+G :------0-0------0-0----0-0-0h2----0------|
+D :-----2-2--0h2-2-2----2-2-------0h2--0---|
+A :---3---------------3--------------------|
+E :----------------------------------------|
+
+C-B/C-Am transition
+
+e :---------------------|
+B :---------------------|
+G :------0-0------------|
+D :-----2----0----------|
+A :---3---2-------------|
+E :---------------------|
+pick A
+light dudu strum DG
+strum DG hammer D 2nd fret
+light dudu strum DG
+pick A
+light dudu strum DG
+strum GB hammer G 2nd fret
+strum DG hammer D 2nd fret
+pick open D
+repeat at pick A
+
+string count starts at Low E 1
+pick 5th
+subtle dudu strum of 4/3 strings  (no 1st stirng)
+play strong quick 4/3 AD string strum, hammer middle finger D string 2nd fret
+strum dudu
+play strong quick 3/2 DG string strum, hammer middle finger G string 2nd fret
+strum dudu
+AD hammer
+DG hammer
+
+(CC)Love writes a letter and (G)sends it to (C)hate.
+My (FFF)vacations ending. I'm coming home (C)late.
+The (F)weather was (G)fine and the (C)ocean was (Am)great
+and I (C)can't wait to (G)see you (FF)again.
+
+Hate reads the letter and throws it away.
+"No one here cares if you go or you stay.
+I barely even noticed that you were away.
+I'll see you or I won't, whatever."
+
+Love sings a song as she sails through the sky.
+The water looks bluer through her pretty eyes.
+And everyone knows it whenever she flies,
+and also when she comes down.
+
+Hate keeps his head up and walks through the street.
+Every stranger and drifter he greets.
+And shakes hands with every loner he meets
+with a serious look on his face.
+
+Love arrives safely with suitcase in tow.
+Carrying with her the good things we know.
+A reason to live and a reason to grow.
+To trust. To hope. To care.
+
+Hate sits alone on the hood of his car.
+Without much regard to the moon or the stars.
+Lazily killing the last of a jar
+of the strongest stuff you can drink.
+
+Love takes a taxi, a young man drives.
+As soon as he sees her, hope fills his eyes.
+But tears follow after, at the end of the ride,
+cause he might never see her again.
+
+Hate gets home lucky to still be alive.
+He screams o'er the sidewalk and into the drive.
+The clock in the kitchen says 2:55,
+And the clock in the kitchen is slow.
+
+Love has been waiting, patient and kind.
+Just wanting a phone call or some kind of sign,
+That the one that she cares for, who's out of his mind,
+Will make it back safe to her arms.
+
+Hate stumbles forward and leans in the door.
+Weary head hung, eyes to the floor.
+He says "Love, I'm sorry", and she says, "What for?
+I'm your and that's it, Whatever.
+I should not have been gone for so long.
+I'm yours and that's it, forever."
+
+You're mine and that's it, forever.
+
+
+
+C                        G           C
+Love writes a letter and sends it to hate.
+   F                                 C
+My vacations ending. I'm coming home late.
+    F           G            C     B/C Am
+The weather was fine and the ocean was great
+      C             G       F        
+and I can't wait to see you again.
+
+C                         G         C
+Hate reads the letter and throws it away.
+F                                   C
+"No one here cares if you go or you stay.
+  F           G            C        B/C Am
+I barely even noticed that you were a---way.
+     C            G      F 
+I'll see you or I won't, whatever."
+
+C                        G                 C
+Love sings a song as she sails through the sky.
+    F                                    C
+The water looks bluer through her pretty eyes.
+    F        G            C    B/C Am
+And everyone knows it whenever she flies,
+    C         G         F 
+and also when she comes down.
+
+C                          G                 C
+Hate keeps his head up and walks through the street.
+F                             C
+Every stranger and drifter he greets.
+    F                 G     C     B/C Am
+And shakes hands with every loner he  meets
+       C       G           F 
+with a serious look on his face.
+
+C                        G           C
+Love arrives safely with suitcase in tow.
+F                                    C
+Carrying with her the good things we know.
+  F         G          C      B/C Am
+A reason to live and a reason to  grow.
+   C         G        F 
+To trust. To hope. To care.
+
+C                      G           C
+Hate sits alone on the hood of his car.
+    F                                  C
+Without much regard to the moon or the stars.
+F      G           C       B/C Am
+Lazily killing the last of a   jar
+       C         G             F 
+of the strongest stuff you can drink.
+
+C                    G         C
+Love takes a taxi, a young man drives.
+   F                                   C
+As soon as he sees her, hope fills his eyes.
+    F            G             C      B/C Am
+But tears follow after, at the end of the ride,
+         C           G        F 
+cause he might never see her again.
+
+C                       G         C
+Hate gets home lucky to still be alive.
+   F                                      C
+He screams o'er the sidewalk and into the drive.
+    F            G            C      B/C Am
+The clock in the kitchen says two fifty  five,
+        C            G          F 
+And the clock in the kitchen is slow.
+
+C                      G           C
+Love has been waiting, patient and kind.
+     F                                    C
+Just wanting a phone call or some kind of sign,
+         F            G                C      B/C Am
+That the one that she cares for, who's out of his mind,
+     C            G           F 
+Will make it back safe to her arms.
+
+C                         G            C
+Hate stumbles forward and leans in the door.
+F                            C
+Weary head hung, eyes to the floor.
+         F         G           C          B/C  Am
+He says "Love, I'm sorry", and she says, "What for?
+    C               G   F 
+I'm your and that's it, Whatever.
+
+
+  F               G    C        B/C  Am
+I should not have been gone for so   long.
+    C                 G   F
+I'm yours and that's it, forever."
+       C               G   F
+You're mine and that's it, forever.
+
+======================================================================
+How to Play Save Tonight by Eagle Eye Cherry on Guitar
+
+D D du
+
+solos:
+http://tabs.ultimate-guitar.com/e/eagle_eye_cherry/save_tonight_tab.htm
+
+======================================================================
+
+----------------------
+Brian Wilson
+
+Em Em/C Em/C# Em/C * Just keep adding fingers
+
+Em (011000)
+Em/C (021000)
+Em/# (031000)
+
+x24232  Bm7
+x02010  Am7
+797777  Bm7
+575555  Am7
+355433  G
+x57775  D
+
+Capo on 3rd fret
+
+12345678 (default strum)
+D du udu
+
+12345678 (strum 2)
+Duxuduxu
+
+1234567890123456 (chorus Em strum override)
+dudu udu udu udu
+Em C   C#  C     (see below)
+
+(softly)
+G D Am7 Am7  Drove downtown in the rain, nine-thirty on a Tuesday night
+G D Bm7 Am7  Just to check out the late-night record shop.
+G D Am7 Am7  Call it impulsive, call it compulsive, call it insane;
+G D Bm7 Am7  But when I'm surrounded I just can't stop.
+
+(softly)
+G D Am7 Am7  It's a matter of instinct, it's a matter of conditioning, it's a matter of fact.
+G D Bm7 Am7  You can call me Pavlov's dog
+G D Am7 Am7  Ring a bell and I'll salivate- how'd you like that?
+G D Bm7 Am7  Dr. Landy tell me you're not just a pedagogue, cause right now I'm
+
+Chorus:
+G D Am7 Am7  Lying in bed just like Brian Wilson did
+G D          Well I'm lying in bed just like Brian Wilson did
+chorus strum (x4)
+
+(Strum pattern 2)
+G D Am7 Am7  So I'm lying here, just staring at the ceiling tiles.
+G D Bm7 Am7  and I'm thinking about what to think about.
+G D Am7 Am7  Just listening and relistening to Smiley Smile,
+G D Bm7 Am7  and I'm wondering if this is some kind of creative drought because I am
+
+Chorus
+G D Am7 Am7  Lying in bed just like Brian Wilson did
+G D          Well I'm lying in bed just like Brian Wilson did
+chorus strum (x4)
+
+Am7 D F Em  And if you want to find me I'll be out in the sandbox,
+Am7 D G F   Just wondering where the hell all the love has gone.
+Am7 D F Em  Playing my guitar and building castles in the sun,
+Am7 D       and signing "Fun, Fun, Fun."
+
+Chorus
+G D Am7 Am7  Lying in bed just like Brian Wilson did
+G D          Well I'm lying in bed just like Brian Wilson did
+chorus strum (x4)
+
+(regular strum, slow roll second down)
+Am E7 Am E7  I had a dream that I was three hundred pounds
+Am E7 Am E7  And though I was very heavy,
+Am E7 Am E7  I floated 'til I couldn't see the ground
+Am E7 Am E7  I floated 'til I couldn't see the ground
+Am E7 Am E7  Somebody help me, I couldn't see the ground
+Am E7 Am E7  Somebody help me, I couldn't see the ground
+Am E7 Am E7  Somebody help me becuase I'm
+E7
+
+Chorus with chorus strum only x2
+G D Am7 Am7  Lying in bed just like Brian Wilson did
+G D          Well I'm lying in bed just like Brian Wilson did
+
+G D Am7 Am7  Drove downtown in the rain nine-thirty on a Tuesday night.
+G D Bm7 Am7  Just to check out the late-night record shop.
+G D Am7 Am7  Call it impulsive, call it compulsive, call it insane;
+G D Bm7 Bm7  but when I'm surrounded I just can't stop.
+Cmaj7(whole)
+
+chorus strum x8
+
+Am7 (x02010)
+E7 (020100)
+Bmaj7 (224232)
+Cmaj7 (x32000)
+
+Em Em/C Em/C# Em/C * Just keep adding fingers
+
+Em (011000)
+Em/C (021000)
+Em/# (031000)
+
+======================================================================
+22. Abigail, Belle of Kilronan
+
+G:320033 
+C:032010
+
+Abigail
+
+G G G G      ABIGAIL (GG) CAN you feel my
+C G D D D D  HEART in the PALM of your HAND (DD) AND do you
+Em C G G     UNDERSTAND (CG) WHY I can't stay 
+D D D D
+
+G G G G      ABIGAIL (GG) AN evil
+C G D D D D  WIND is BLOWing through the LAND (DD) AND they need 
+Em C G G     EVERY man (CG) to DRIVE it away
+D D D D
+
+C C Em Em  When I come home if I come home
+G G D D    you'll be a grown woman
+C C Em Em  When I come home if I come home
+C C G D    don't be alone,
+G G G G    Abigail, belle of Kilronan.
+
+G G G G      Abigail's 
+C G D D D D  gonna be the beauty of County Galway 
+Em C G G     and she will live always in a world of love
+D D D D
+
+G G G G    Abigail
+
+C C Em Em  I'm off to the war but you can be sure
+G G D D    I will know you're what I'm fighting for 
+C C Em Em  I'm off to the war but you can be sure
+G G D D    I will know you're what I'm fighting for 
+C C Em Em  I'm off to the war but you can be sure
+G G D D    I will know you're what I'm fighting for 
+C C Em Em  When I come home if I come home
+C C G D    don't be alone,
+G G G G    Abigail, belle of Kilronan.
+
+
+======================================================================
+All My Little Words
+
+Capo on the 1st Fret.
+
+G        320033
+C        032033
+Em       022000
+Em/Cmaj7 022010
+D        xx0212
+                        
+VERSE 1:     
+
+G    You are a splendid butterfly
+Em   It is your wings that make you beautiful
+D    And I could make you fly away
+G    But I could never make you stay
+
+You said you were in love with me
+Both of us know that that's impossible
+And I could make you rue the day
+But I could never make you stay
+
+                       
+CHORUS:           
+D C     Not for all the tea in China
+G       Not if I could sing like a bird
+D C     Not for all North Carolina
+G       Not for all my little words
+D C     Not if I could write for you
+G       The sweetest song you ever heard
+D C     It doesn't matter what I'll do
+G C G   Not for all my little words
+
+VERSE 2 (tablature the same as verse 1)
+
+Now that you've made me want to die
+You tell me that you're unboyfriendable
+And I could make you pay and pay
+But I could never make you stay
+
+
+----
+https://www.youtube.com/watch?v=hdhkXT9ndUk
+Sorry, no tabs on this one. Figured it out by ear. Though it's
+fairly simple. Essentially: verse chords = G (add C on 2nd
+string, then back to open B), e minor (add C on 2nd string, then
+back to open B), then D (with that little riff), C, and
+G. Chorus chords = G, D (with riff), C. If you want to play
+along with the CD, then it's capo on the 1st fret (key of
+Ab). For this vid, I tuned down a whole step (DGCFAD = key of F
+for this song). Cheers
+
+======================================================================
 ======================================================================
 ======================================================================
 ======================================================================
