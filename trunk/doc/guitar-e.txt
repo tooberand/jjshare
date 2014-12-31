@@ -486,6 +486,7 @@ AEAA   BUT that was the ONLY thing we KNEW. (cd)
 
      1...2...3...4...5...6...7...8...
 (7)  D   D   D D   D   D d  du D udu
+(1)
 (8)  D   D u u D udu udu D udu D udu
 (9)  D   D udu D   D   u D udu D udu
 (a)  D   D udu D u D udu D udu D udu
@@ -496,7 +497,7 @@ AEAA   BUT that was the ONLY thing we KNEW. (cd)
 ======================================================================
 Elijah
 
-01234567
+12345678
 D dD dD
 D dD dDd
 
@@ -5755,8 +5756,8 @@ E|---------------------------------------------------------------------|
                                                 G
 e|------------------------1--0---------------------------3-------------|
 B|--1---------1-----------------1-------3--1---------------------------|
-G|--2---0h2-----2------------------------------------------------------|
-D|--3----------------3--------------0-----------0----------------------|
+G|--2---0h2-----2-------------------0----------------------------------|
+D|--3----------------3--------------------------0----------------------|
 A|--3---------------------------3---------------2---2------------------|
 E|----------------------------------------------3----------------------|
 
@@ -5953,6 +5954,46 @@ enjoy!!
 // D|------------------------2-----2------------0-------------------------|
 // A|------------------------3------------------2----------0h2p0h2--------|
 // E|---------------5----3----------------------3-----0h3------------3--3~|
+
+
+
+Well, it's 3AM again, like it always seems to be
+Driving northbound, driving homeward, driving wind is driving me.
+and It just seems so funny how I always end up here
+Walking outside in a storm while looking way up past the treeline
+It's been some time
+
+Give me darkness when I'm dreaming, give me moonlight when I'm leaving,
+Give me shoes that weren't made for standing.
+Give me treeline, give me big sky, give me snowbound, give me rainclouds,
+give me a bedtime just sometimes
+
+Now you're talking in my room, there ain't nobody here
+Cause I've been driving like a trucker, I've been wearing through the gears
+I've been training like a soldier, I've been burning through this sorrow
+The only talking lately is a background radio
+
+   You are my friend and I was the same
+   Riding that hope was like catching some train
+   Well now I just walk, well I don't mind the rain
+   But I've been singing so much softer than I did back then
+
+the night, I think, is darker than we can really say,
+God's been living in that ocean, sending us all the big waves
+And I wish I was a sailor so I could know just how to trust
+Maybe I could bring some grace back home to dry land for all of us
+
+Say what you see, you say it so well
+Just say you will wait like snow on the rail
+Combing that train yard for some kind of sign
+Even my own self, it just don't seem mine
+
+Give me darkness when I'm dreaming, give me moonlight when I'm leaving
+Give me mustang horse and muscle, 'cause I won't be going gentle
+Give me slant-eye looks when I'm lying, give me fingers when I'm crying
+I ain't out there to cheat you, see I killed that damn coyote in me
+
+
 
 ======================================================================
 
@@ -6382,97 +6423,6 @@ You're mine and that's it, forever.
 
 
 
-C                        G           C
-Love writes a letter and sends it to hate.
-   F                                 C
-My vacations ending. I'm coming home late.
-    F           G            C     B/C Am
-The weather was fine and the ocean was great
-      C             G       F        
-and I can't wait to see you again.
-
-C                         G         C
-Hate reads the letter and throws it away.
-F                                   C
-"No one here cares if you go or you stay.
-  F           G            C        B/C Am
-I barely even noticed that you were a---way.
-     C            G      F 
-I'll see you or I won't, whatever."
-
-C                        G                 C
-Love sings a song as she sails through the sky.
-    F                                    C
-The water looks bluer through her pretty eyes.
-    F        G            C    B/C Am
-And everyone knows it whenever she flies,
-    C         G         F 
-and also when she comes down.
-
-C                          G                 C
-Hate keeps his head up and walks through the street.
-F                             C
-Every stranger and drifter he greets.
-    F                 G     C     B/C Am
-And shakes hands with every loner he  meets
-       C       G           F 
-with a serious look on his face.
-
-C                        G           C
-Love arrives safely with suitcase in tow.
-F                                    C
-Carrying with her the good things we know.
-  F         G          C      B/C Am
-A reason to live and a reason to  grow.
-   C         G        F 
-To trust. To hope. To care.
-
-C                      G           C
-Hate sits alone on the hood of his car.
-    F                                  C
-Without much regard to the moon or the stars.
-F      G           C       B/C Am
-Lazily killing the last of a   jar
-       C         G             F 
-of the strongest stuff you can drink.
-
-C                    G         C
-Love takes a taxi, a young man drives.
-   F                                   C
-As soon as he sees her, hope fills his eyes.
-    F            G             C      B/C Am
-But tears follow after, at the end of the ride,
-         C           G        F 
-cause he might never see her again.
-
-C                       G         C
-Hate gets home lucky to still be alive.
-   F                                      C
-He screams o'er the sidewalk and into the drive.
-    F            G            C      B/C Am
-The clock in the kitchen says two fifty  five,
-        C            G          F 
-And the clock in the kitchen is slow.
-
-C                      G           C
-Love has been waiting, patient and kind.
-     F                                    C
-Just wanting a phone call or some kind of sign,
-         F            G                C      B/C Am
-That the one that she cares for, who's out of his mind,
-     C            G           F 
-Will make it back safe to her arms.
-
-C                         G            C
-Hate stumbles forward and leans in the door.
-F                            C
-Weary head hung, eyes to the floor.
-         F         G           C          B/C  Am
-He says "Love, I'm sorry", and she says, "What for?
-    C               G   F 
-I'm your and that's it, Whatever.
-
-
   F               G    C        B/C  Am
 I should not have been gone for so   long.
     C                 G   F
@@ -6672,6 +6622,26 @@ Em   You tell me that you're unboyfriendable
 D    And I could make you pay and pay
 G    But I could never make you stay
 
+1 G   d dud d*d* d d
+2 Em        d*d* d d
+3 D   d dud d*d* d d
+4 G   d dud d*d* d d
+
+  1                    2
+|-----------------|  |---------------------|
+|-1-1-0---1-1---0-|  |-1-1-0---1-1-----0---|
+|-------2-----2---|  |-------2-----2-2---0-|
+|-----------------|  |---------------------|
+|-----------------|  |---------------------|
+|-----------------|  |---------------------|
+
+  3                    4
+|-----------------|  |-----------------|
+|-1-1-0---1-1-----|  |-1-1-0---1-1-----|
+|-------2-----0-2-|  |-------2-----2-0-|
+|-----------------|  |-----------------|
+|-----------------|  |-----------------|
+|-----------------|  |-----------------|
 
 ----
 https://www.youtube.com/watch?v=hdhkXT9ndUk
@@ -6685,7 +6655,94 @@ Ab). For this vid, I tuned down a whole step (DGCFAD = key of F
 for this song). Cheers
 
 ======================================================================
+Handlebars
+
+e|-----5-------0----------1------3---------6-----10---------8-----------------|
+B|---6---6---1---1------3------5---5-----6-----11--11----10--10----8-10-------|
+G|-7-------2----------3------5---------7-----12--------10--------9------------|
+D|------------------3----------------8----------------------------------7-----|
+A|----------------------------------------------------------------------------|
+E|----------------------------------------------------------------------------|
+
+e|-----5-----------------------------------6----6-10-6----5-8-5------5--------|
+B|---6---6-----5----------6----5-8-5-----6----8---------6--------5-8----------|
+G|-7---------5---5------7----5---------7--------------------------------------|
+D|---------7----------8--------------8---------------------------------7------|
+A|------------------8---------------------------------------------------------|
+E|----------------------------------------------------------------------------|
 ======================================================================
+
+Cadd9 vs. Gsus?
+
+======================================================================
+I just can't seem to get it right today
+C       C.E.G
+G      B.D
+Am    A.C.E
+F   F.A.C
+
+C        C........E.G
+Am     A........C.E
+G     G........B.D
+Gsus  G.........CD
+F    F........A.C
+
+CCCC     GGGG           I just can't seem to get it right today
+AmAmAmAm FFFF           I just can't seem to get it right today
+AmAmAmAm GGGG           I just can't seem to get it right today
+CC FF GG GsusGsus       I guess I'm gonna give up
+CC FF GGGG GsusGsusGG  Oh, I guess I'm gonna give up
+
+CCCC GGGG               It's nearly been a year since he's been gone
+AmAmAmAm FFFF           We still sing his good-bye songs
+AmAmAmAm GGGG           The Mrs. knows she should move on
+CC FF GGGG              But she just can't let him go
+CC FF GGGG GsusGsusGG  No, she just can't let him go
+
+CCCC GGGG       I'm sorry if I made you wanna cry
+AmAmAmAm FFFF   I'm sorry if I made you wanna cry
+AmAmAmAm GGGG   But you know I never meant to hide
+CC FF GGGG      I just hate bringing you down
+CC FF GGGG      Oh, I just hate bringing you down
+GsusGsus GG
+
+
+C                                    G
+I just can't seem to get it right today
+Am                                   F
+I just can't seem to get it right today
+Am                                   G
+I just can't seem to get it right today
+C             F         G
+I guess I'm gonna give up
+    C             F        G     Cadd9   G
+Oh, I guess I'm gonna give up
+
+Instrumental C, G, Am, F, Am, G, C, F, G, C, G, C
+C                                 G
+And I drop my paintbrush in the dirt
+Am                                  F
+Still reminds me just how much it hurt
+          Am                    G
+I cut my hand, wait for it to work
+C                     F        G       
+But I just couldn't bring him back
+    C                 F        G     Cadd9    G       
+No, I just couldn't bring him back
+C                                    G
+I just can't seem to get it right today
+    Am                                   F
+Oh, I just can't seem to get it right today
+Am                                   G
+I just can't seem to get it right today
+C             F        G
+I guess I'm gonna give up
+C             F        G
+I guess I'm gonna give up
+
+Repeat until end
+
+
 ======================================================================
 ======================================================================
 ======================================================================
