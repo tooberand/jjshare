@@ -69,6 +69,7 @@
 
 ; Modes
 (load-library "fit-mode")
+(load-library "php-mode")
 (load-library "status-mode")
 
 ; Printing
