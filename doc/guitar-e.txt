@@ -17,6 +17,8 @@ x20202  Bm7
 021202  B7
 446664  C#
 x46654  C#m
+032010  C
+022010  C/B
 032030  Cadd9
 032000  Cmaj7
 x57775  D
@@ -1771,67 +1773,6 @@ but if you think i'll take a bullet for you - you're dreaming.
 
 Song: Autoclave
 Artist: The Mountain Goats
-
-C Cmaj7 Am G X2
-
-C            Cmaj7        Am           G
-Hand me your hand let me look in your eyes 
-C                         Cmaj7  Am           G
-as my last chance to feel human begins to vaporize 
-C              Cmaj7        Am             G
-maybe it's the heat in here maybe it's the pressure 
-F
-you ought to head for the exits the sooner the better
-
-          C      Cmaj7    Am                G
-I am this great, unstable mass of blood and foam 
-C             Cmaj7      Am                 G
-And no in her right mind would make my home her home
-F
-My heart is an autoclave
-F
-My heart is an autoclave
-
-C                  Cmaj7     Am               G
-When I try to open up to you I get completely lost
-C                Cmaj7        Am                 G
-Houses swallowed by the earth windows thick with frost
-C                     Cmaj7      Am                     G
-And I reach deep down within but the pathways twist and turn
-F
-And there's no light anywhere and nothing left to burn
-
-                          C     Cmaj7    Am                G
-And I am this great unstable mass of blood and foam
-C              Cmaj7               Am                    G
-And no emotion that's worth having can call my heart its home
-F
-My hearts an autoclave
-F
-My hearts an autoclave
-
-C                    Cmaj7          Am              G
-I dream't that I was perched atop a throne of human skulls
-C                    Cmaj7         Am                 G
-On a cliff above the ocean howling wind and shrieking seagulls
-C                     Cmaj7       Am           G
-And the dream went on forever one single static frame
-F
-Sometimes you want to go where everybody knows your name
-
-          C      Cmaj7    Am                G
-I am this great, unstable mass of blood and foam 
-C             Cmaj7      Am                 G
-And no in her right mind would make her home my home
-F
-My heart is an autoclave
-F
-My heart is an autoclave
-
--------------------
-
-Autoclave
-
 --tabbed by mike/howardfinkel483
 
 Can switch up the Fs at the 8th fret 5th string shape if you'd like.
@@ -1876,34 +1817,6 @@ And I am this great, unstable mass of blood and foam
 And no one in her right mind would make her home my home
 My heart's an autoclave
 My heart's an autoclave
-
-======================================================================
-True love will find you in the end
-
-G
-true love will find you in the end
-C
-you'll find out just who was your friend
-E                                         Am
-don't be sad i know you will
-C
-but dont give up until true love will find you in the end
-G
-this is a promise with a catch
-C                                                  G
-only if your looking can it find you
-G
-cause true love is searching too
-C
-but how can it recognise you
-G
-unless you step out into the light, the light
-E                                          Am
-don't be sad i know you will
-C
-don't give up until true love finds you in the end
-G
-
 
 ======================================================================
 Ultra Violet
@@ -8290,9 +8203,477 @@ A|--------------------------------------------------------------------|
 E|--3-------3------------3---------3-----------3--------3-------------|
 
 ======================================================================
+ukelele tuning
+
+A|---------0-0-----|-----------------|-----------------|-----------------|
+E|-----------------|-1-1-0-0---------|-----1-1-0-0-----|-----1-1-0-0-----|
+C|-0-0-------------|---------2-2-0---|-------------2---|-------------2---|
+G|-----0-0-----0---|-----------------|-0-0-------------|-0-0-------------|
+
 ======================================================================
+ukelele
+
+Am  2000
+C   0003
+D   2220
+Dm7 2213
+E7  1202
+Em  0432
+F   2010
+G   0232
+
+Intro:
+    |C   G   |Am   F  |C   G   |
+    |Am      |F       |
+ 
+    C        Em       F        C
+    ooo-ooo  ooo-ooo  ooo-ooo  ooo-ooo
+    F        E7       Am       F
+    ooo-ooo  ooo-ooo  ooo-ooo  ooo-ooo
+ 
+ 
+C         Em                F       C
+Somewhere over the rainbow, way up high
+F       C                        G            Am   F
+And the dreams that you dream of once in a lullaby...
+   C         Em                F          C
+Oh somewhere over the rainbow, blue birds fly
+F       C                         G                   Am   F
+And the dreams that you dream of, dreams really do come true...
+ 
+ 
+    C
+Someday i'll wish upon a star
+G                                Am   F
+Wake up where the clouds are far behind me
+      C
+Where trouble melts like lemon drops
+G                                  Am           F
+High above the chimney tops that's where you'll find me
+ 
+ 
+   C         Em               F           C
+Oh somewhere over the rainbow, blue birds fly
+F       C                           G               Am   F
+And the dreams that you dare to, oh why, oh why can't I?...
+ 
+ 
+           C        Em        F         C
+Well I see trees of green and Red roses too
+F                C         E7     Am
+ I'll watch then bloom for me and you
+      F                G                Am   F
+And I think to myself: what a wonderful world
+           C        Em             F         C
+Well I see skies of blue and I see clouds of white
+        F              C   E7         Am
+And the brightness of day, I like the dark
+      F                G                C    F   C
+And I think to myself: what a wonderful world 
+ 
+ 
+    G                      C
+The colours of the rainbow so pretty in the sky
+    G                    C
+Are also on the faces of people passing bye
+    F               C      F              C
+See friends shaking hands, saying 'how do you do?'
+F               C       Dm7             D
+ They're really saying, I...I love you
+ 
+ 
+       C      Em        F          C
+I hear babies cry and I watch them grow
+F                   C    E7         Am
+ They'll learn much more than we'll know
+     F                 G                Am   F
+And I think to myself: what a wonderful world 
+ 
+ 
+C
+Someday i'll wish upon a star
+G                                Am   F
+Wake up where the clouds are far behind me
+       C
+Where trouble melts like lemon drops
+G                                  Am           F
+High above the chimney tops that's where you'll find me
+ 
+ 
+   C         Em                F      C
+Oh somewhere over the rainbow, way up high
+F       C                        G                 Am   F
+And the dreams that you dare to, why, oh why can't I?...
+ 
+ 
+C        Em       F        C
+ooo-ooo  ooo-ooo  ooo-ooo  ooo-ooo
+F        E7       Am      F
+ooo-ooo  ooo-ooo  ooo-a-eh-a-a-a-a-a-a    
+
+
 ======================================================================
+ukelele vance joy riptide
+
+Am  2000
+C   0003
+G   0232
+
+Intro: Am  G  C
+ 
+Am              G                 C
+I was scared of dentists and the dark
+I was scared of pretty girls and starting conversations
+Oh all my friends are turning green
+       Am              G               C
+You're the magicians assistant in their dreams
+ 
+ 
+  Am     G         C     C
+Uh oooh oh oooh oooh
+Am         G               C           C
+Oh oooh oh oooh and they come unstuck
+Am     G                     C
+Lady, runnin' down to the riptide
+C                  Am
+Taken away to the dark side
+G               C              C    
+I wanna be your left hand man
+       Am       G                         C
+And I love you when you're singin' that song and
+C                     Am
+I gotta lump in my throat cos
+G                          C
+You're gonna sing the words wrong
+ 
+ 
+Am                 G                   C
+There's this movie that I think you'll like
+     Am             G                C
+This guy decides to quit his job and head to New York City
+      Am       G           C
+This cowboy's running from himself
+Am                G              C
+She's been living on the highest shelf
+ 
+ 
+  Am     G         C
+Uh oooh oh oooh oooh
+Am         G               C 
+Oh oooh oh oooh and they come unstuck
+Am     G                     C
+Lady, runnin' down to the riptide
+C                  Am
+Taken away to the dark side
+G               C
+I wanna be your left hand man
+       Am       G                         C
+And I love you when you're singin' that song and
+                      Am
+I gotta lump in my throat cos
+G                          C
+You're gonna sing the words wrong
+ 
+ 
+Am           G               C
+I just gotta, I just gotta know
+Am             G                C
+If you're gonna, if you're gonna stay
+Am          G              C
+I just gotta, I just gotta know
+Am              G                 C 
+I can't have it, I can't have it any other way
+ 
+ 
+   Am         G               C 
+I swear she's destined for the screen
+Am               G                C    
+Closest thing to Michelle Phipher that you've ever seen oh
+ 
+ 
+Am     G                     C
+Lady, runnin' down to the riptide
+C                  Am
+Taken away to the dark side
+G               C
+I wanna be your left hand man
+       Am       G                         C
+And I love you when you're singin' that song and
+                      Am
+I gotta lump in my throat cos
+G                          C
+You're gonna sing the words wrong
+ 
+ 
+Am     G                     C
+Lady, runnin' down to the riptide
+C                  Am
+Taken away to the dark side
+G               C
+I wanna be your left hand man
+       Am       G                         C
+And I love you when you're singin' that song and
+                      Am
+I gotta lump in my throat cos
+G                          C
+You're gonna sing the words wrong
+                    Am        G                           C 
+I gotta lump in my throat cos you're gonna sing the words wrong
+ 
+Outro: Db
+
 ======================================================================
+HOTEL YORBA
+
+D.D..UDU
+
+LYRICS
+
+INTRO
+
+    G (with riff)
+
+VERSE
+
+          G 
+    I was watching 
+             C 
+    With one eye on the other side
+          D 
+    I had fifteen people telling me to move
+          G 
+    I got moving on my mind
+
+    I found shelter
+    In some thoughts turning wheels around
+    I said 39 times that I love you
+    To the beauty that I had found
+
+CHORUS
+
+                  G 
+        Well, its one two three four take the elevator
+               C 
+        At the Hotel Yorba I'll be glad to see ya later
+       D                            G-> F-> G 
+        All they got inside is vacancy...   (hey!)
+
+    (verse chords x1)
+
+    I've been thinking
+    Of a little place down by the lake
+    They got a dirty old road leading up to the house
+    I wonder how long it will take
+
+    'Till we're alone
+    Sitting on the front porch of that home
+    Stomping our feet on the wooden floors
+    Never gotta worry about locking the doors
+
+        Well, its one two three four take the elevator
+        At the Hotel Yorba I'll be glad to see ya later
+        All they got inside is vacancy
+    
+    (verse chords x1, let ring)
+
+    (let chords ring)
+    It might sound silly
+    For me to think childish thoughts like this
+    But I'm so tired of acting tough
+    And I'm gonna do what I please
+
+    (back to normal strumming)
+    Let's get married
+    In a big cathedral by a priest
+    Cause if I'm the man that you love the most
+    You could say "I do" at least
+
+        Well, its one two three four take the elevator
+        At the Hotel Yorba I'll be glad to see ya later
+       D                            G 
+        All they got inside is vacancy
+
+        And its four five six seven grab your umbrella
+        A-grab a hold of me cause I'm you better fella
+       D                            G   C   G -> D -> G (let ring)
+        All they got inside is vacancy
+NOTES & TABS
+
+Chords Used
+
+This song uses these chords:
+
+e-|----3----0----2----1----
+B-|----0----1----3----1----
+G-|----0----0----2----2----
+D-|----0----2----0----3----
+A-|----2----3---------3----
+E-|----3--------------1----
+       G    C    D    F 
+Intro Riff
+
+The intro riff, based on the G chord, can be played like this. Specifically, note the hammer-on and pull-offs. Listen along to get the strumming pattern correct.
+
+e-|------3--------------------------------------3---
+B-|------0---0-0-0------------------------------0---
+G-|------0---0-0-0------------------------------0---
+D-|------0---0-0-0--------0-------0-------------0---
+A-|------2---2-2-2----0h2-----0h2-----0h2p0-----2--- 
+E-|---3--3-----------------------------------3--3---
+         G 
+The ending of the chorus...
+
+Note that the chords used at the end of the chorus are slightly
+different at the end of the song (they don't repeat the typical
+G -> F -> G progression). See the lyrics section above for the
+exact chords -- it isn't anything too tricky.
+
+CHORD PROGRESSIONS
+
+Intro
+G (with riff)
+Verse
+"I was watching, with one eye on the other side..."
+| G . . . | C . . . | D . . . | G . . . |
+Chorus
+"Well, its one two three four take the elevator..."
+| G . . . | C . . . | D . . . | G F G . |
+SONG INFO
+
+Song: Hotel Yorba
+Artist: The White Stripes
+Album: White Blood Cells
+Year: 2001
+Label: XL
+
+
+======================================================================
+TRUE LOVE WILL FIND YOU IN THE END
+DANIEL JOHNSTON
+
+from the album
+1990
+released in
+1990
+
+
+JUMP TO: LYRICS / NOTES & TABS / VIDEOS / CHORD PROGRESSIONS / SONG INFO
+
+LYRICS
+
+INTRO
+
+    G ... G ... G ... G ...
+
+VERSE #1
+
+    G 
+    ...True love will find you in the end
+    C                                    G 
+    ...You'll find out just who was your friend
+
+CHORUS
+
+        Em                          Am 
+        ...Don't be sad, I know you will
+        C 
+        ...But don't give up until
+                                       G 
+        True love will find you in the end
+    
+VERSE #2
+
+    G 
+    ...This is a promise with a catch
+    C                                G 
+    ...Only if you're looking can it find you
+    G 
+    ...'Cause true love is searching too
+    C 
+    ...But how can it recognize you
+               G 
+    Unless you step out into the light, the light?
+
+CHORUS
+
+        Em                          Am 
+        ...Don't be sad, I know you will
+        C 
+        ...But don't give up until
+                                       G 
+        True love will find you in the end
+NOTES & TABS
+
+Guitar Chords Used
+
+Here is how you play the guitar chords used in this song. Pretty damn straightforward. You can throw in an Am7 if you like, in place of the Am chord (leave the G string open, and/or add your pinky to the 3rd fret of the high E chord). Otherwise, there is room for feeling in this one -- don't feel too boxed in and just roll with it.
+
+e-|---3---0---0---0---
+B-|---0---1---0---1---
+G-|---0---0---0---2---
+D-|---0---2---2---2---
+A-|---2---3---2---0---
+E-|---3-------0-------
+      G   C   Em  Am 
+VIDEOS
+
+Songnotes Guitar Lesson
+
+Here is a video I made showing how to play this song, using the chords and tabs shown on this page. If this is helpful, subscribe to the Songnotes YouTube channel for more tutorials and lessons like this.
+
+
+
+
+Official Album Version
+
+Want to hear the official album version of the song? Watch and listen to this. Handy for reference if you don't have the recording on hand.
+
+
+
+
+CHORD PROGRESSIONS
+
+Intro
+| G . . . | G . . . | G . . . | G . . . |
+Verse #1
+"True love will find you in the end..."
+| G . . . | G . . . | G . . . | G . . . |
+| C . . . | C . . . | G . . . | G . . . |
+Verse #2
+"This is a promise with a catch..."
+| G . . . | G . . . | G . . . | G . . . |
+| C . . . | C . . . | G . . . | G . . . |
+"'Cause true love is searching too..."
+| G . . . | G . . . | G . . . | G . . . |
+| C . . . | C . . . | G . . . | G . . . |
+Chorus
+"Don't be sad, I know you will..."
+| Em . . . | Em . . . | Am . . . | Am . . . |
+| C  . . . | C  . . . | C  . . . | C  . . . |
+| G  . . . | G  . . . |
+SONG INFO
+
+walks:
+   G to Em       Am to C
+E|------------|-----------|
+B|------------|-----------|
+G|------------|-----------|
+D|------------|-----------|
+A|------------|---0-2-3---|
+E|--3-2-0-----|-----------|
+
+strum:
+D.D..UDU  
+pluck bass note on first D
+
+
+Song: True Love Will Find You In The End
+Artist: Daniel Johnston
+Album: 1990
+Year: 1990
+Label: Shimmy Disc
+
+
 ======================================================================
 ======================================================================
 ======================================================================
