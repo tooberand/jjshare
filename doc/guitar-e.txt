@@ -8127,39 +8127,17 @@ Still I wish there was somethin' you would do or say
    / To try and make me change my mind and stay
 We never did too much talkin' anyway / But don't think twice, it's alright
 
-      C               G              Am         /g
-So it ain't no use in callin' out my name, gal
-F                   C          G
-Like you never done before
-       C               G               Am         /g
-An' it ain't no use in callin' out my name, gal
-D7/f#               G  (G6-G7)
-I can't hear you anymore
-      C                        C7
+So it ain't no use in callin' out my name, gal / Like you never done before
+An' it ain't no use in callin' out my name, gal / I can't hear you anymore
 I'm a-thinkin' and a-wond'rin' walkin' down the road
-F                       D7/f#
-I once loved a woman, a child I'm told
-  C           G             Am   /g       F
-I give her my heart but she wanted my soul
-    C           G            C
-But don't think twice, it's alright
+   / I once loved a woman, a child I'm told
+I give her my heart but she wanted my soul / But don't think twice, it's alright
 
-C  G           Am    /g
-So long, honey babe
-F                        C       G
-Where I'm bound, I can't tell
-C          G          Am       /g
-Goodbye is too good a word, babe
-   D7/f#                   G  (G6-G7)
-So I'll just say fare thee well
-  C                        C7
+So long, honey babe / Where I'm bound, I can't tell
+Goodbye is too good a word, babe / So I'll just say fare thee well
 I ain't sayin' you treated me unkind
-F                              D7/f#
-You could have done better but I don't mind
-C                     G  Am       /g   F
-You just kinda wasted my precious time
-    C           G            C
-But don't think twice, it's alright
+   / You could have done better but I don't mind
+You just kinda wasted my precious time / But don't think twice, it's alright
 
 Enjoy!
 
@@ -8221,6 +8199,8 @@ E7  1202
 Em  0432
 F   2010
 G   0232
+
+https://ukutabs.com/i/israel-kamakawiwoole/somewhere-over-the-rainbow-what-a-wonderful-world/?transpose=0#point
 
 Intro:
     |C   G   |Am   F  |C   G   |
@@ -8551,6 +8531,8 @@ Label: XL
 TRUE LOVE WILL FIND YOU IN THE END
 DANIEL JOHNSTON
 
+http://www.songnotes.cc/songs/154-daniel-johnston-true-love-will-find-you-in-the-end
+
 from the album
 1990
 released in
@@ -8674,6 +8656,154 @@ Year: 1990
 Label: Shimmy Disc
 
 
+======================================================================
+Edelwess
+
+http://www.poloniamusic.com/Ukulele_Fingerpicking_Free_Lesson.html
+
+
+Fingerpicking Pattern Ukulele Tab 
+                                              4/4 Time
+
+                            C chord
+
+Pattern #1
+
+l---------------1------------1----------------l
+l---------------------0----------------0------l
+l---------------2----------------2------------l
+l--------3----------------3-------------------l
+
+
+
+Pattern #1
+
+    C  
+ ---1------------3--------------
+ --------------0-----0-----0---
+ ----------0------------0-------
+ ---0----------------------------      
+    M             i   m   i       i         
+     T       t                   t            
+
+* Optional note 
+
+Did you know you can use this same fingerpicking pattern when
+playing the guitar? Did you know that ukulele chords are very
+similar to those of the guitar? (Playing the uke is like playing
+the guitar with a capo on the fifth fret, except with two fewer
+strings.)
+
+Check out my guitar tutorial:
+
+  C  
+ --------------3---------------3----
+ -----------0---------------0------
+ --------0---------------0---------
+ ----0---------------0-------------
+       t    t  m   i    t   t   m  i
+Arpeggio
+Reverse Roll (4/4 Time)
+Reverse Roll (3/4 Time)
+    C  
+ ---------3-----------3-----------3--
+ -------------0-----------0------------
+ ------------------0----------0-------
+ ----0--------------------------------
+      t    m   i    t    m  i    t    m
+    C  
+ ---------3-----------3--------
+ -------------0------------0---
+ ------------------0-----------
+ ----0-------------------------
+      t    m   i    t    m  i
+    C  
+ -----------------3--------------
+ -------------0------0----------
+ ---------0--------------0------
+ ----0---------------------------
+       t    t   m     i      t  
+Watch for the Reverse Roll (3/4 Time) and the following
+ fingerpicking paterns in the above Edelwess video:
+
+    C  
+ ---1------------3--------------
+ --------------0-----0-----0---
+ ----------0------------0-------
+ ---0----------------------------      
+    M             i   m   i       i         
+     T       t                   t            
+
+Am  2000
+C   0003
+C7  0001
+D   2220
+D7  2223
+Dm7 2213
+E7  1202
+Em  0432
+F   2010
+G   0232 4235
+G7  0212
+
+    C   G      C   F      C     Am          Dm7   G
+    Edelweiss, Edelweiss, every morning you greet me.
+
+    C         G      C         F
+    Small and white, clean and bright,
+
+    C        G             C
+    You look happy to meet me.
+
+    G           G7           C         C7
+    Blossoms of snow may you bloom and grow,
+
+    F         D7      G        G7
+    Bloom and grow forever. 
+
+    C   G      C   F      C        G7       C
+    Edelweiss, Edelweiss, bless my homeland forever.
+
+
+    C         G       C       F       C       Am      Dm7      G
+ --------3-|--5---5-|-3---0-|-0-----|-------|-------|-0---0--|--------
+ ----0-----|--------|-------|-----1-|-0---0-|-0-1-3-|----1-1-|-3---3-- 
+ -----0----|----2---|---0---|---0---|---0---|-0-----|---0----|---2-2--
+ ---0------|--0-----|-0-----|-2---2-|-0-----|-2-----|-2------|-0---0--      
+
+0:11
+    C        G         C       F       C       G        C       C
+ ----------|---5---5-|-3-----|-----0--|-------|---0-2-|-3---3--|-3-------
+ ---0------|-3-----3-|-----0-|-1--1-1-|-0---0-|-3---3-|----0-0-|-------- 
+ -----0----|-----2---|---0---|---0----|---0---|-2-----|---0----|---0----
+ ---0------|---0-----|-0-----|-2------|-0-----|-0---0-|-0------|-0------      
+
+0:22
+    G        G7         C       C7       F      D7      G        G7
+ ---5-5-----|-2-0----|-------|-3----1--|-0-----|-3-5---3-|-2---2---|---------
+ ---3-----3-|-----3--|-0---0-|---------|-1-----|-2-------|-----3---|--3------ 
+ -------2---|--------|---0---|----0----|-0-----|-----0---|---2-----|-2-------
+ -----0-----|-0------|-0-----|-0-------|-2-----|---2-----|-0-------|-0-------
+
+0:33
+    C        G         C       F       C       G7       C       C
+ ----------|---5---5-|-3-----|--------|-------|---0-2-|-3------|---------
+ ---0------|-3-----3-|-----0-|-1---1--|-0---0-|-3---3-|-----0--|-0h1-0------ 
+ -----0----|-----2---|---0---|---0----|---0---|-2-----|---0----|--------
+ ---0------|---0-----|-0-----|-2------|-0-----|-0---0-|-0------|-0---0---      
+
+
+
+
+======================================================================
+http://www.poloniamusic.com/Guitar_Fingerpicking_Lesson.html
+http://www.poloniamusic.com/Ukulele_Fingerpicking_Free_Lesson.html
+======================================================================
+Http://www.veluxusa.com/consumer/products/taxcredits.aspx?cache=0
+======================================================================
+======================================================================
+======================================================================
+======================================================================
 ======================================================================
 ======================================================================
 ======================================================================
