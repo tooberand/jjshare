@@ -18,8 +18,8 @@
 (global-set-key "\M-L" (function (lambda () (interactive) (other-frame 1))))
 
 ; f keys specifictions
-(load-library "spell")
-(global-set-key [f8] 'spell-word)
+;(load-library "spell")
+;(global-set-key [f8] 'spell-word)
 (global-set-key [f9] 'call-last-kbd-macro)
 (defvar compile-command "make")
 (global-set-key [f12] (function
