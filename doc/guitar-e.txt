@@ -9,6 +9,7 @@ x02230  Asus4
 x24442  B
 799877  B
 x13331  Bb
+688766  Bb
 x24432  Bm
 x24232  Bm7
 x20202  Bm7
@@ -22,6 +23,7 @@ x46654  C#m
 032030  Cadd9
 032000  Cmaj7
 x57775  D
+x68886  D#
 xx0231  Dm
 xx0222  Dmaj7
 057675  Dmaj7
@@ -41,8 +43,6 @@ x65343  Eb
 353333  GM7
 
 ======================================================================
-
-303.819.1139 Jon Sousa
 
 pick practice:
 Last Song for Jenny
@@ -156,10 +156,42 @@ D A G D    i had never loved anyone like i loved you
 ======================================================================
 the plague
 
-D Em G A  There will be blue skies above the green and verdant
-D Em G A  plain /
-D Em G A  Churns will swell with fresh butter There will be an abundance of sweet
-D Em G A  grain /
+INTRO: D G D G D A D D*
+
+intro:
+          12345678
+strum:    D DuuuDu
+D* strum: uuDuuuDu
+
+D-riff:
+D DDDDDD duduuddu
+  444 2
+
+There will ... plain
+D DuuuDu
+
+Churns ... grain
+DuDuuDDu
+
+And we will rise ... keep
+12345678
+D D  DDD
+
+lalalala
+D-riff
+
+team...
+G-riff D
+
+G G
+1234567812345678
+D D uuD uDD uDDu
+
+D Em G A  There will be blue skies above the green and verdant plain
+D-riff D-riff
+D Em G A  Churns will swell with fresh butter There will be an
+          abundance of sweet grain
+D-riff D-riff
 
 C Em    And we will rise from our sleep /
 D G     We won't have time to choose what things we'll keep /
@@ -171,6 +203,8 @@ G A     Through the countryside /
 D G     Lalalala /
 D G     Lalalala /
 D A D   La la la / La la la / La la la /
+
+D-riff once
 
 D Em G A  There will be cotton clouds Above the fields as white as 
 D Em G A  cream
@@ -335,7 +369,7 @@ G D C D G
 I       wish 
     G                            D
 our love could go the way of all flesh.
-             G                  C               G       G/F#        Em
+             G            x       C               G       G/F#        Em
 But it's not right, and it's not nice to try to kill the same thing twice.
                     G              D             G
 Would you pack your things, we are going to Marrakesh.
@@ -703,6 +737,9 @@ That's everything. Enjoy.
 
 ======================================================================
 Adair
+
+024400  B5
+004420  E6sus2
 
 12345678
 D Du udu
@@ -1176,11 +1213,12 @@ Soft Targets
 
 tabbed by howardfinkel483 Mike
 
+xx0231  Dm
 
 strum
 basic          hold chord            rocking hold chord
-12345678       12345678 1234578      12345678 123457 8
-d  d  du       d  d  d   d  d d      DddDddDd dDddDdudu
+12345678       123456781234578      12345678 123457 8
+d  d  du       d  d  d  d  d du     DddDddDd dDddDdudu
 
 Intro:
    C  D  E  F
@@ -4494,7 +4532,7 @@ dudu udu
 
 G D      I'm HEADED down South to the LAND of the pines
 Em	C     I'm THUMBIN' my way to NORTH Caroline
-G D C C  StaRING at the road and PRAY to God I see HEADLIGHTS  	
+G D C C  StaRING up the road and PRAY to God I see HEADLIGHTS  	
 
 G D      I MADE it down the coast in seventeen hours	
 Em	C     PICKIN' me a bouquet of DOGWOOD flowers
@@ -4502,14 +4540,10 @@ G D C C  And I'm HOPING for Raleigh; *I* can see my baby TONIGHT
 
 (Chorus)
 
-G D       So, ROCK me mama like a WAGON wheel
-Em	C      ROCK me mama any WAY you feel
-G D C C   HEEEEEEEEE EEEEY mama ROCK me    	
-G D       ROCK me mama like the wind and THE rain
-Em	C      ROCK me mama like a SOUTH bound train
-G D C C   HEEEEEEEEE EEEEY mama ROCK me    	
-G D Em C
-G D C
+So, ROCK me mama like a WAGON wheel / ROCK me mama any WAY you feel
+HEEEEEEEEE EEEEY mama ROCK me    	
+ROCK me mama like the wind and THE rain / ROCK me mama like a SOUTH bound train
+HEEEEEEEEE EEEEY mama ROCK me    	
  	 	 	
 Runnin' from the cold, up in New England
 I was born to be a fiddler in an old town string band
@@ -4520,11 +4554,6 @@ Lost my money playin' poker so I had'a'up and leave town
 But I ain't a turning back, to livin' that old life no more
 
 (Chorus)
-
- 	G	D	Em	C
- 	G	D	C
- 	G	D	Em	C
- 	G	D	C
  	 	 	
 Walkin' to the South out of Roanoke
 I caught a trucker out of Phillie; had a nice long toke
@@ -6233,12 +6262,15 @@ d   d u u   d u u   d u u   d du
 
 
 Capo 1.
-(This version's easier and I think it's the way he plays it himself. But at the end of 
-the day it makes no difference.)
+(This version's easier and I think it's the way he plays it
+himself. But at the end of the day it makes no difference.)
 
 E  022100
 A  x02220
-B7 x2120x
+B7 x21202
+B7 x24242
+B7 797877
+A7 x02020
 
 E      022100
 Bsus4  x24400
@@ -6653,6 +6685,15 @@ http://tabs.ultimate-guitar.com/e/eagle_eye_cherry/save_tonight_tab.htm
 ----------------------
 Brian Wilson
 
+
+Capo on 3rd fret
+
+12345678 (default strum)
+D du udu
+
+12345678 (strum 2)
+Duxuduxu
+
 Em Em/C Em/C# Em/C * Just keep adding fingers
 
 Em (011000)
@@ -6665,14 +6706,6 @@ x02010  Am7
 575555  Am7
 355433  G
 x57775  D
-
-Capo on 3rd fret
-
-12345678 (default strum)
-D du udu
-
-12345678 (strum 2)
-Duxuduxu
 
 1234567890123456 (chorus Em strum override)
 dudu udu udu udu
@@ -6709,7 +6742,7 @@ chorus strum (x4)
 Am7 D F Em  And if you want to find me I'll be out in the sandbox,
 Am7 D G F   Just wondering where the hell all the love has gone.
 Am7 D F Em  Playing my guitar and building castles in the sun,
-Am7 D       and signing "Fun, Fun, Fun."
+Am7 D       and singing "Fun, Fun, Fun."
 
 Chorus
 G D Am7 Am7  Lying in bed just like Brian Wilson did
@@ -7151,26 +7184,20 @@ E|-----------------|-----------------|--3-------3------|--3-------3------|
 
                      Guitar Break
                                                          
- |--3---------0---------|-----------------------|
- |----------------------|--3---------1-------1--|
- |----------------------|-----------------------|
- |-------2---------2----|-------2---------2-----|
- |--3---------3---------|--3---------3----------|
- |----------------------|-----------------------|
-
-------------3---------|--1-------------------|--3----------1---------|
---0-------------------|----------------------|-----0-----------------|
-----------------------|----------------------|-----------------------|
--------0---------0----|-------0---------0----|--------0---------0----|
-----------------------|----------------------|-----------------------|
---3---------3---------|--3---------3---------|--3----------3---------|
+e|--3-------0------|-----------------|----------3------|--1--------------|
+B|-----------------|--3-------1-----1|--0--------------|-----------------|
+G|-----------------|-----------------|-----------------|-----------------|
+D|------2-------2--|------2-------2--|------0-------0--|------0-------0--|
+A|--3-------3------|--3-------3------|-----------------|-----------------|
+E|-----------------|-----------------|--3-------3------|--3-------3------|
                                                          
---0-------------------|------------3----------|--0--------------------|
-------------3---------|--1-----------------1--|-----------------------|
-----------------------|-----------------------|--------------------0--|
--------0---------0----|-------2---------2-----|-------2---------2-----|
-----------------------|--3---------3----------|--3--------------------|
---3---------3---------|-----------------------|------------3----------|
+ |--3-------1------|--0--------------|----------3------|--0--------------|
+ |----0------------|----------3------|--1-------------1|-----------------|
+ |-----------------|-----------------|-----------------|----------------0|
+ |------0-------0--|------0-------0--|------2-------2--|------2-------2--|
+ |-----------------|-----------------|--3-------3------|--3--------------|
+ |--3-------3------|--3-------3------|-----------------|----------3------|
+                                                         
 
 -----0--------0----1----|--0--------0-------------|------------------------|
 ------------------------|-----0-----------3-------|-----1-----1--1----3----|
@@ -8774,7 +8801,7 @@ G7  0212
 0:11
     C        G         C       F       C       G        C       C
  ----------|---5---5-|-3-----|-----0--|-------|---0-2-|-3---3--|-3-------
- ---0------|-3-----3-|-----0-|-1--1-1-|-0---0-|-3---3-|----0-0-|-------- 
+ ---0----3-|-------3-|-----0-|-1--1-1-|-0---0-|-3---3-|----0-0-|-------- 
  -----0----|-----2---|---0---|---0----|---0---|-2-----|---0----|---0----
  ---0------|---0-----|-0-----|-2------|-0-----|-0---0-|-0------|-0------      
 
@@ -8788,7 +8815,7 @@ G7  0212
 0:33
     C        G         C       F       C       G7       C       C
  ----------|---5---5-|-3-----|--------|-------|---0-2-|-3------|---------
- ---0------|-3-----3-|-----0-|-1---1--|-0---0-|-3---3-|-----0--|-0h1-0------ 
+ ---0----3-|-------3-|-----0-|-1---1--|-0---0-|-3---3-|-----0--|-0h1-0------ 
  -----0----|-----2---|---0---|---0----|---0---|-2-----|---0----|--------
  ---0------|---0-----|-0-----|-2------|-0-----|-0---0-|-0------|-0---0---      
 
@@ -8801,8 +8828,136 @@ http://www.poloniamusic.com/Ukulele_Fingerpicking_Free_Lesson.html
 ======================================================================
 Http://www.veluxusa.com/consumer/products/taxcredits.aspx?cache=0
 ======================================================================
+
+
+D     2220
+Dsus4 2230
+G     0232 4235
+Gsus2 0230
+
+G*  0230(h2) 0232
+CP1  0003 0023 0033 0023
+CP2  0003 0023 0033 0053
+
+G* G G* G CP1   Such is the way of the world, You can never know
+G* G G* G CP1   Just where to put all your faith And how will it grow
+D G CP1         Gonna rise up, Burning black holes in dark memories
+D G CP2         Gonna rise up, Turning mistakes into gold
+ 
+Interlude -x2-: GGDD CP1 CP1 G*GDD CP1 CP2
+ 
+G* G G* G CP1  Such is the passage of time, Too fast to fold
+G* G G* G CP1  And suddenly swallowed by signs, Lo and behold
+D G CP1        Gonna rise up, Find my direction magnetically
+D G CP2 CP2    Gonna rise up, Throw down my ace in the hole
+ 
+D G CP1 (x2)
+G Gsus4 G Gsus4 (x2)
+D Dsus4 CP1 G 
+ 
 ======================================================================
+
+My house in Budapest / My, my hidden treasure chest
+Golden grand piano / My beautiful Castillo
+
+You / Ooh, you / Ooh, I'd leave it all
+
+My acres of a land / That I've achieved
+It may be hard for you to / Stop and believe
+
+But for you / Ooh, you / Ooh, I'd leave it all
+Ooh, for you / Ooh, you / Ooh, I'd leave it all
+
+And give me one good reason / Why I should never make a change
+Baby if you hold me / Then all of this will go away
+
+My many artifacts / The list goes on
+If you just say the words / I, I'll up and run
+
+Oh, to you / Ooh, you / Ooh, I'd leave it all
+Oh, to you / Ooh, oh / Ooh, I'd leave it all
+
+And give me one good reason / Why I should never make a change
+Baby if you hold me / Then all of this will go away
+
+Give me one good reason / Why I should never make a change
+Baby if you hold me / Then all of this will go away
+
+My friends and family / They don't understand
+They fear they'd lose so much / If you take my hand
+
+But, for you / Ooh, you / Ooh, I'd lose it all
+Oh, for you / Ooh, you / Ooh, I'd lose it all
+
+And give me one good reason / Why I should never make a change
+Baby if you hold me / Then all of this will go away
+
+Give me one good reason / Why I should never make a change
+Baby if you hold me / Then all of this will go away
+
+My house in Budapest / My, my hidden treasure chest
+Golden grand piano / My beautiful Castillo
+
+You / Ooh, you / Ooh, I'd leave it all
+Oh, for you / Ooh, you / Ooh, I'd leave it all
+
 ======================================================================
+
+x68886  D#
+799877  B
+688766  Bb
+466544  G#
+transposed -> E C B A
+
+123456781235678
+pdudud  d d udu
+dudud ud d udu
+dudud ud d udud
+dudud ud dudu
+
+123456781235678
+d uud ud u d uu
+d uud ud u u du
+
+FM
+
+tabbed by matador breckle.
+
+D#   B-Bb
+D#               B     Bb
+Hurry the bottle mama
+                D#    B   Bb
+It's grapefruit wine
+Dis                       B         Bb
+Kick off your high-heeled sneakers
+           D#    B  Bb                  
+It's party time
+                        D#         Bb
+The girls don't seem to care what's on
+   G#                     D#
+As long as it plays 'till dawn
+             Bb    G#    D#    B  Bb
+No static at all
+
+D#                      B      Bb
+Give her some fucked-up music
+               D#       B  Bb
+She treats you nice
+D#                      B
+Feed her some hungry reggae
+Bb              D#      B 
+She'll love you twice
+Bb                      D#    Bb
+The girls don't seem to care tonight
+   G#                  D# 
+As long as the mood is right
+             Bb
+No static at all
+G#          D#       Bb
+No static at all
+     D#   B  Bb (3x)  D#...
+Hey
+
 ======================================================================
 ======================================================================
 ======================================================================
