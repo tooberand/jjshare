@@ -16,7 +16,7 @@ x20202  Bm7
 797777  Bm7
 024400  B5
 021202  B7
-446664  C#
+446664  C# C#maj
 x46654  C#m
 032010  C
 022010  C/B
@@ -24,6 +24,7 @@ x46654  C#m
 032000  Cmaj7
 x57775  D
 x68886  D#
+668886  D#maj
 xx0231  Dm
 xx0222  Dmaj7
 057675  Dmaj7
@@ -37,8 +38,7 @@ x65343  Eb
 244322  F#
 244222  F#m
 355433  G
-466544  G#
-466444  G#m
+466544  G# G#m G#maj
 320001  G7
 353333  GM7
 
@@ -60,10 +60,75 @@ judy and the dream of horses has interesting strum pattern and mute
 ======================================================================
 Grendel's Mother
 
-basic
-1234567890123456
-d   d  du d  du 
-d   d     d  du 
+
+    1234567890123456
+D:  D   D  du D  D     last down is A=x022xx
+G:  D      D dud D     last D is treble
+D:  D   D  du D  D
+G:  D    u D dud D  
+repeat or more variation?  listen
+
+     1234567812345678
+D:   D   D  du D dud     Cave mouth shines 
+G:   D   D   du D
+D:   D   D  du D dud     by pure force of will
+G:   D   D  dud D
+D:   D   D  du D dud     I look down on the world
+G:   D   D   du D
+D:   D   D  du D dud     from the top of this lonesome hill
+G:   D       D   u D
+D:   D   D  du D dud     and you can run and run some more
+A:   D   D  du D dud    
+D:   D       D   D       from here all the way to singaport
+G:   D   D  du D dud    
+D:   D   D  du D dud     but I will carry you home in my teeth
+A:   D   D  du D dud    
+     12345678123456781234567812345678
+D:   D   D dud D duD dud D dud D dud    
+
+
+     1234567812345678
+D:   D   D  du D dud    In the great halls
+G:   D       D  D     
+D:   D   D  du D dud    chew
+G:   D   D dud  D    
+D:   D u D  du D dud    I beat
+G:   D   D   D  D      
+D:   D u D  du D dud    i come
+G:   D   D dud D dud    
+D:   D   D  du D D u    i laid
+A:   D   D  du D dud    
+D:   D   u D  u D du    fire
+G:   D   D dud D dud
+D:   D   D dud D dud    you can stand
+A:   D   D dud D dud
+D:   D   u D  u D du    you and I
+G:   D   D dud D dud
+D:   D   D  du D dud    and i will
+A:   D   D  du D D D
+D:   D   D  du D dud    i will
+G:   D    dudud D       trebley dudud, treble G
+D:   D u D  du D dud    i will
+A:   D   D  du D dud    
+     12345678123456781234567812345678
+D:   D   D dud D  ud  ud D dud D dud    
+
+     1234567812345678
+D:   D   D   dud D u 
+G:   D    u D dud D     first two D are treble
+D:   D u D  dud D du 
+G:   D    u D dud D     
+D:   D u D  dud D du 
+G:   D    u D dud D     
+D:   D u D  dud D d  jjplay -s115 -r.9 grendel 
+G:   D   u  D   u D     
+D:   D dud  D D dud
+
+
+
+
+
+jjplay -s48 -4.7 grendel
 
 flair1 x4
 1...2...3...4...5...6...7...8...
@@ -3235,6 +3300,14 @@ D -----------0---------
 A -0-7-7-7-7---3-0---0-
 E------------------3--
 
+A -> G#maj
+D -> C#maj
+E -> D#maj
+
+466544 G#maj 
+x46664 C#maj 9bba99
+x68886 D#maj bddcbb
+
 Lots and lots (and lots!) of palm mutes in this one.
 
 INTRO: A
@@ -3253,6 +3326,19 @@ A A A A D D  there were singers there were dancers there was glittering gold
 E E D D      it was not that long ago but the memory's kinda dying out 'cha know
 A E D Dm     like a flower caught in the overgrowth falling falling to pieces
 A
+
+pluck A string 6th string or 5th?
+
+12345678
+  d x
+12345678
+d x x
+12345678
+d dududu
+12345678
+d dududu
+1234567812345678
+d   d dud dududu
 
 ======================================================================
 pigs that ran straightway into the water, triumph of
@@ -8170,44 +8256,6 @@ Enjoy!
 
 
 ======================================================================
-Bloom by Paper Kites
-
-I had been looking for the tabs for this song but I couldnt find one so I ended up 
-tabbing it out from a tutorial on youtube. Hope this helps :)
-Here is the video is want to try with it
-http://www.youtube.com/watch?v=ne1jXZZmVVA
-
-
-Capo on 6
-
-
-(/) Slide Up  (\) Slide Down  (h) Hammer On  (p) Pull Off  (b) Bend (r) Release (v) Vibrato
-
-
-E|----------------------------------------------------|
-B|--1-------------1--------------------1--------------|
-G|---------0------------0------------------------0----|
-D|------2------------2-------------2-----------0------|
-A|--0----------0------------0*--------------0h2-------|
-E|----------------------------------------------------|
-
-*There is a rest for a second before you do to the next note
-
-E|--------------------------------------------------|
-B|-----------1-----------1----------1---------------|
-G|-----------------0-------------0--------0---------|
-D|--------0-----------0------0h2-------2----0-------|
-A|--2h3--------3------------------------------------|
-E|--------------------------------------------------|
-
-E|--------------------------------------------------------------------|
-B|--3-----------3--------1------------1--------0-----------0----------|
-G|--------0----------0-----------0---------0---------0-----------0----|
-D|-----0----------0-----------0---------0---------0-----------0-------|
-A|--------------------------------------------------------------------|
-E|--3-------3------------3---------3-----------3--------3-------------|
-
-======================================================================
 ukelele tuning
 
 A|---------0-0-----|-----------------|-----------------|-----------------|
@@ -8909,6 +8957,8 @@ x68886  D#
 466544  G#
 transposed -> E C B A
 
+D# B-Bb
+
 123456781235678
 pdudud  d d udu
 dudud ud d udu
@@ -8923,43 +8973,177 @@ FM
 
 tabbed by matador breckle.
 
-D#   B-Bb
-D#               B     Bb
-Hurry the bottle mama
-                D#    B   Bb
-It's grapefruit wine
-Dis                       B         Bb
-Kick off your high-heeled sneakers
-           D#    B  Bb                  
-It's party time
-                        D#         Bb
+Hurry the bottle mama / It's grapefruit wine
+Kick off your high-heeled sneakers / It's party time
 The girls don't seem to care what's on
-   G#                     D#
 As long as it plays 'till dawn
-             Bb    G#    D#    B  Bb
 No static at all
 
-D#                      B      Bb
-Give her some fucked-up music
-               D#       B  Bb
-She treats you nice
-D#                      B
-Feed her some hungry reggae
-Bb              D#      B 
-She'll love you twice
-Bb                      D#    Bb
+Give her some fucked-up music / She treats you nice
+Feed her some hungry reggae / She'll love you twice
 The girls don't seem to care tonight
-   G#                  D# 
 As long as the mood is right
-             Bb
 No static at all
-G#          D#       Bb
 No static at all
      D#   B  Bb (3x)  D#...
 Hey
 
+
+D# Bb G# D# Bb G# D# B Bb
+
+D# Bb G# D# Bb G# D# Bb
+D#   B  Bb (3x)  D#
+
 ======================================================================
+(for C chord, the B string goes 1-0-1)
+
+intro:   C  F  C  C
+
+verse:   C  F  C  C
+
+chorus:  Dm  F  Am  Am
+
+bridge:  E  E  Am  Am
+
+I came to see you up there in intensive care
+They had handcuffed you to your bed
+There were tubes going into you and out from you
+Bright white gauze bandages at your head
+
+I am a mole
+Sticking his head above the surface of the earth
+I am a mole
+Sticking his head above the surface of the earth
+
+And they said "Lights out"
+And it was lights out
+And they gave you your medication
+I know what you want and you know what I want
+Information
+Information
+
+I am a mole
+Sticking his head above the surface of the earth
+I am a mole
+Sticking his head above the surface of the earth
+
+Out in the desert we'll have no worries
+Out in the desert just you and me
+I came to see you up there in intensive care
+Out in the desert we'll live carefree
+
+I am a mole
+Sticking his head above the surface of the earth
+I am a mole
+Sticking his head above the surface of the earth
+
 ======================================================================
+A quick note on chords.  The actual name of the Fmaj7* is Fmaj7b5, which looks like this:
+
+e| 0
+B| 1
+G| 2
+D| 3
+A| 0
+E| x
+
+As played here, you could call them C-Cmaj7-C (without a 3rd/5th for the C and no 3rd 
+for the Cmaj7) and F5-Fdim-F5 (no b3rd for the Fdim).
+
+As they're plucked here, it's easier to just make the C/Fmaj7 shape respectively and 
+lift up your index finger for the major 7th.  That also allows you to do John Darnielle's 
+cool little extra bits.  You can also choose to pluck the G string with a third finger.
+
+Here's the progression.  These progression is fingerpicked.
+e|--------------------------------------------------------------------------|
+B|---1--0--1----1--0--1----1--0--1----1--0--1-------------------------------|
+G|--(0)(0)(0)--(2)(2)(2)--(0)(0)(0)--(0)(0)(0)------------------------------|
+D|--------------3--3--3-----------------------------------------------------|
+A|---3--3--3---------------3--3--3----3--3--3-------------------------------|
+E|--------------------------------------------------------------------------|
+
+Simple enough, right?  Sir Darnielle throws in little flourishes that shouldn't be too 
+hard to do.  Just keep making that C-esque shape and pluck around some of the other 
+strings too.  If you can figure out a single note run that sounds good, do it.
+
+
+C-Cmaj7-C   Fmaj7-F*-Fmaj7   C-Cmaj7-C   C-Cmaj7-C
+I came to see you up there in intensive care,
+
+C-Cmaj7-C   Fmaj7-F*-Fmaj7   C-Cmaj7-C   C-Cmaj7-C
+They had handcuffed you to your bed.
+
+C-Cmaj7-C   Fmaj7-F*-Fmaj7   C-Cmaj7-C   C-Cmaj7-C
+There were tubes going into you and out from you,
+
+C-Cmaj7-C   Fmaj7-F*-Fmaj7   C-Cmaj7-C   C-Cmaj7-C
+Bright white gauze bandages at your head.
+
+Dm          F
+I am a mole,
+                Am
+Sticking his head above the surface of the earth.
+Dm          F
+I am a mole,
+                 Am  (here, a firm downward stroke for every beat)
+Sticking his head above the surface of the earth.
+
+C-Cmaj7-C   Fmaj7-F*-Fmaj7   C-Cmaj7-C   C-Cmaj7-C
+And they said "Lights out!",
+
+C-Cmaj7-C   Fmaj7-F*-Fmaj7   C-Cmaj7-C   C-Cmaj7-C
+And it was lights out.
+
+C-Cmaj7-C   Fmaj7-F*-Fmaj7   C-Cmaj7-C   C-Cmaj7-C
+And they gave you your medication.
+
+C-Cmaj7-C   Fmaj7-F*-Fmaj7   C-Cmaj7-C   C-Cmaj7-C
+I know what you want and you know what I want:
+
+C-Cmaj7-C   Fmaj7-F*-Fmaj7   C-Cmaj7-C   C-Cmaj7-C
+information, information.
+
+Dm          F
+I am a mole,
+                Am
+Sticking his head above the surface of the earth.
+Dm          F
+I am a mole,
+                 Am   (downward strokes on every beat)
+Sticking his head above the surface of the earth.
+
+E-Am x4
+
+C-Cmaj7-C   Fmaj7-F*-Fmaj7   C-Cmaj7-C   C-Cmaj7-C
+Out in the desert we'll have no worries,
+
+C-Cmaj7-C   Fmaj7-F*-Fmaj7   C-Cmaj7-C   C-Cmaj7-C
+Out in the desert just you and me.
+
+C-Cmaj7-C   Fmaj7-F*-Fmaj7   C-Cmaj7-C   C-Cmaj7-C
+I came to see you up there in intensive care,
+
+C-Cmaj7-C   Fmaj7-F*-Fmaj7   C-Cmaj7-C   C-Cmaj7-C
+Out in the desert we'll live carefree.
+
+Dm          F
+I am a mole,
+                Am
+Sticking his head above the surface of the earth.
+Dm          F
+I am a mole,
+                 Am
+Sticking his head above the surface of the earth.
+
+C-Cmaj7-C   Fmaj7-F*-Fmaj7   C-Cmaj7-C   C-Cmaj7-C
+
+C-Cmaj7-C   Fmaj7-F*-Fmaj7   C-Cmaj7-C   C-Cmaj7-C
+
+C-Cmaj7-C   Fmaj7-F*-Fmaj7   C-Cmaj7-C   C-Cmaj7-C
+
+C-Cmaj7-C-Cmaj7-C-Cmaj7  Fmaj7-F*-Fmaj7-F*-Fmaj7-F*
+
+C.
 ======================================================================
 ======================================================================
 ======================================================================
