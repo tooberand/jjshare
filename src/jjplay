@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl -w
+#!/usr/bin/perl -w
 
 use strict;
 
@@ -77,7 +77,9 @@ sub main
 		my $file = $matched_files[0];
 		if ($start_time)
 		{
-			my $d = qx"afinfo '$file'";
+			my $shell_file = $file;
+			$shell_file =~ s/'/'"'"'/g;
+			my $d = qx"afinfo '$shell_file'";
 			$d =~ /estimated duration: ([\d\.]+) sec/ || die;
 			my $cutoff = $1;
 			$d =~ /audio data file offset: (\d+)/ || die;
@@ -97,25 +99,54 @@ sub main
 			$file = $tmpfile;
 		}
 
-		while ($loops)
+		my $i = $loops;
+		while ($i)
 		{
-			print "$loops left\n";
-			--$loops;
+			print "$i left\n" if $loops != 1;
+			--$i;
 
 			my $pid = fork();
 			if ($pid)
 			{
-				eval
+				if ($duration)
 				{
-					local $SIG{'ALRM'} = sub { die "Duration of $duration over" };
-					alarm $duration / $rate;
-					waitpid($pid, 0);
-					alarm 0;
-				};
-				if ($@)
+					eval
+					{
+						local $SIG{'ALRM'} = sub { die "Duration of $duration over" };
+						alarm $duration / $rate;
+						waitpid($pid, 0);
+						alarm 0;
+					};
+					if ($@)
+					{
+						print $@;
+						kill(15, $pid);
+					}
+				}
+				else
 				{
-					print $@;
-					kill(15, $pid);
+					use Term::ReadKey;
+					use POSIX ":sys_wait_h";
+					use Time::HiRes qw(sleep);
+					while (1)
+					{
+						sleep(0.1);
+						my $res = waitpid($pid, WNOHANG);
+						if ($res == -1) {
+							print("waitpid error ", $? >> 8, "\n");
+							exit();
+						}
+						elsif ($res) {
+							# print("Child $res ended with ", $? >> 8, "\n");
+							last;
+						}
+						my $key = ReadKey(-1);
+						if (defined $key)
+						{
+							kill(15, $pid);
+							$i = 1;
+						}
+					}
 				}
 			}
 			else
