@@ -61,20 +61,20 @@ judy and the dream of horses has interesting strum pattern and mute
 Grendel's Mother
 
 
-    1234567890123456
+    1234567812345678
 D:  D   D  du D  D     last down is A=x022xx
-G:  D      D dud D     last D is treble
+G:  D   D dud D     last D is treble
 D:  D   D  du D  D
-G:  D    u D dud D  
+G:  D u D dud D  
 repeat or more variation?  listen
 
      1234567812345678
 D:   D   D  du D dud     Cave mouth shines 
-G:   D   D   du D
+G:   D   D  du D
 D:   D   D  du D dud     by pure force of will
-G:   D   D  dud D
+G:   D   D dud D
 D:   D   D  du D dud     I look down on the world
-G:   D   D   du D
+G:   D   D  du D
 D:   D   D  du D dud     from the top of this lonesome hill
 G:   D       D   u D
 D:   D   D  du D dud     and you can run and run some more
@@ -90,7 +90,7 @@ D:   D   D dud D duD dud D dud D dud
      1234567812345678
 D:   D   D  du D dud    In the great halls
 G:   D       D  D     
-D:   D   D  du D dud    chew
+D:   D   D  du D dud    you chew
 G:   D   D dud  D    
 D:   D u D  du D dud    I beat
 G:   D   D   D  D      
@@ -100,7 +100,7 @@ D:   D   D  du D D u    i laid
 A:   D   D  du D dud    
 D:   D   u D  u D du    fire
 G:   D   D dud D dud
-D:   D   D dud D dud    you can stand
+D:   D   D dud D dud    you can stand up or you can run
 A:   D   D dud D dud
 D:   D   u D  u D du    you and I
 G:   D   D dud D dud
@@ -114,18 +114,22 @@ A:   D   D  du D dud
 D:   D   D dud D  ud  ud D dud D dud    
 
      1234567812345678
-D:   D   D   dud D u 
-G:   D    u D dud D     first two D are treble
-D:   D u D  dud D du 
-G:   D    u D dud D     
-D:   D u D  dud D du 
-G:   D    u D dud D     
-D:   D u D  dud D d  jjplay -s115 -r.9 grendel 
-G:   D   u  D   u D     
-D:   D dud  D D dud
-
-
-
+D:   D   D dud D u    jjplay -s103 -r.8 grendel 
+G:   D u D dud D      first two D are treble
+D:   D u D dud D du 
+G:   D u D dud D     
+D:   D u D dud D du 
+G:   D u D dud D     
+D:   D u D dud D u    jjplay -s115 -r.9 grendel 
+G:   D u D  du D dud    
+D:   D   D dud D u
+A:   D u D  du D dudu
+D:   D   D dud D u
+G:   D u D dud D            treb
+D:   D u D dud D dudu
+A:   D   D dud D u
+D:   D u D  du D duduD
+ 
 
 
 jjplay -s48 -4.7 grendel
