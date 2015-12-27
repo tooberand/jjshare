@@ -21,6 +21,7 @@ x46654  C#m
 032010  C
 022010  C/B
 032030  Cadd9
+x32033  Cadd9
 032000  Cmaj7
 x57775  D
 x68886  D#
@@ -1228,16 +1229,16 @@ d   d  d d ududu
 outro                   
 d   d  d d ddudu    h  l  h h h hhh           jjplay -r.8 -s190 pinklon
 d   d  d d ddudu    
-d   d  d ddududu
-d   d ud d ududu   tone????
+d   d  d ddudu u
+d   d ud d ududu   last du pinky 6string fret 4
 
-d   du d udududu    h  l  h h h hhh           jjplay -r.8 -s200 pinklon
-d   dud d d dudu
-d   dududd ududu
-d   dudu d ududu   last du pinky 6string fret 3 then 4
+d   dudu dud udu    h  l  h h h hhh           jjplay -r.8 -s200 pinklon
+d   dudu d d udu
+d   dudu u ududu
+d   dudu d ududu   last du pinky 6string fret 4
 
-d   dud udud udu                              jjplay -r.8 -s200 pinklon
-d   d  d d d udu
+d   dudu dud udu                              jjplay -r.8 -s210 pinklon
+d   d  d d d udu   soften  Asus2  
 d   d  d d d udu
 d   d ud d ududu
 
@@ -9341,4 +9342,71 @@ asking for more again
 G Em D* C (x2)
 
 ======================================================================
+
+the Mountain Goats Wiki
+Thank You Mario But Our Princess Is In Another Castle
+This is the live version w/ guitar. Studio is 1/2 step down. (D --> C#)
+
+Cadd9 x32033
+G     320033
+
+D xu uxu
+
+1234567812345678
+D  D  D  D  D du
+   sus4  sus2
+
+D  Cadd9  A   G
+
+D Cadd9 A G    I waited here all by myself
+D Cadd9 A G    the room was dark and it smelled like sulfur
+G A D G        I heard the screams from way down in the darkness
+D A D D        felt pretty sure my life was over
+
+1234567812345678
+D  D  D  D  D du
+   sus4  sus2
+
+D Cadd9 A G    I kept my hat on just for luck
+D Cadd9 A G    sang simple tunes the whole night through
+G A D G        I wondered if I'd wake to find myself in flames
+D A D D        as I waited here for you
+
+12345678
+D D D D 
+
+               G    A
+yeah when you came in
+D                   G     D    A    D
+I could breathe again
+
+1234567812345678
+D  D  D  D  D D
+4        4  4 4
+
+D Cadd9 A G    I waited here all by myself
+D Cadd9 A G    the room was dark and it smelled like sulfur
+G A D G        I heard the screams from way down in the darkness
+D A D D        felt pretty sure my life was over
+
+D Cadd9 A G    I kept my hat on just for luck
+D Cadd9 A G    sang simple tunes the whole night through
+G A D G        I wondered if I'd wake to find myself in flames
+D A D D        as I waited here for you
+
+G A D G       yeah when you came in I could breathe again
+D A D D      
+
+D Cadd9 A G   I saw some guys dressed up like sorcerers
+D Cadd9 A G   blue robes that flowed above the ground
+G A D G       they came and went and I was frightened for my life
+D A D D       I tried not to make a sound
+
+D Cadd9 A G   just when my solitude was closing in
+D Cadd9 A G   I heard a howl like screeching tires
+G A D G       and I told you the one thing I know how to say
+D A D D       to the bright ringing drone of eight-bit choirs
+
+G A D G       yeah when you came in I could breathe again
+D A D D      
 ======================================================================
