@@ -44,6 +44,40 @@ x65343  Eb
 353333  GM7
 
 ======================================================================
+work on:
+Going to Marrakesh
+Pink And Blue
+Hello, Old Rabbit (i did not come here to suffer)
+Blues in Dallas (will i see you there when that final trumpet blows)
+Seed Song
+international small arms traffic blues
+old college try
+Soft Targets
+Stable Boy Song (start it, pretty cool)
+
+Yam, The King of Crops (felt sick, felt good ... plate of sweet potatoes)
+Alphonse Mambo
+Coroner's Gambit
+Moon over Goldsboro
+Thought about you a Little
+Your belgian things (acoustic guitar version)
+Chesire County
+going to queens
+
+interesting but has other instruments:
+Original Air Blue Gown
+Letter from Belgium
+hellhound on my trail
+night of the mules
+love cuts the strings
+Quito
+Alpha Incipiens
+in corolla
+
+fingerpick:
+it froze me
+the window song
+Third Snow Song (mutes)
 
 pick practice:
 Last Song for Jenny
@@ -387,6 +421,41 @@ G--0---4-4-2-0---4-4-2-0---4-4-2-0---4-4-2-0---|
 D----------------------------------------------|
 A----------------------------------------------|
 E----------------------------------------------|
+
+1234567812345678
+D DuuD D uDuuDuu   jjplay -r.8 -s4 marrakesh
+D D uD D uDuuDuu
+
+D DuuDuu
+D DuuDuu
+D D uD D uDuuDuu
+
+D DuuDuu   bells are sounding
+D DuuDuu
+D DuuD D uDu udu     12D is Dsus4
+
+D DuuDuu   
+D DuuDuu
+D D uduu  ???? our love is a monster
+D D uduu
+D D uduu ...
+
+rises...
+jjplay -r.8 -s70 marrakesh
+
+1234567812345678
+D D ud d ud dudu
+D D ud D ud dudu
+
+jjplay -r.8 -s80 marrakesh
+d du    Iiiiiiii
+d du
+d du
+d du
+1234567812345678
+d d ud d ud uudu
+d d ud d ud uudu
+
 
 
 Intro: G
@@ -1978,333 +2047,6 @@ and the stars fell on alabama
 
 but if you think i'll take a bullet for you - you're dreaming.
 
----------------------------------------------------------------
-
-Song: Autoclave
-Artist: The Mountain Goats
---tabbed by mike/howardfinkel483
-
-Can switch up the Fs at the 8th fret 5th string shape if you'd like.
-
-C  C/B  Am  G
-
-C            C/B          Am           G
-Hand me your hand, let me look in your eyes
-      C                    C/B    Am          G
-As my last chance to feel human begins to vaporize
-C              C/B           Am                 G
-Maybe it's the heat in here, maybe it's the pressure
-F
-You ought to head for the exits, the sooner the better
-
-
-          C         C/B   Am                 G
-I am this great, unstable mass of blood and foam
-    C              C/B             Am                G
-And no one in her right mind would make my home her home
-              F
-My heart's an autoclave
-              C
-My heart's an autoclave
-
-When I try to open up to you I get completely lost
-Houses swallowed by the earth, windows thick with frost
-And I reach deep down within, but the pathways twist and turn
-and there's no light anywhere, and nothing left to burn
-
-And I am this great, unstable mass of blood and foam
-And no emotion that's worth having could call my heart its home
-My heart's an autoclave
-My heart's an autoclave
-
-I dreamt that I was perched atop a throne of human skulls
-On a cliff above the ocean, howling wind and shrieking seagulls
-And the dream went on forever, one single static frame
-Sometimes you want to go where everybody knows your name
-
-And I am this great, unstable mass of blood and foam
-And no one in her right mind would make her home my home
-My heart's an autoclave
-My heart's an autoclave
-
-======================================================================
-Ultra Violet
-
-E A E A
-
-E
-down on the gulf coast, where they rock 'n' roll,
-A
-i leaned a little while up against a barber poll.
-E
-stood there like that 'til the sun went down.
-A
-lost a quart of blood since tuesday.
-F#m
-light in the doorways,
-A                           B
-light up the streets of this town.
-E
-ultraviolet.
-A
-ultraviolet.
-
-E
-and when they cut loose, you gotta stand back.
-A
-you gotta reinforce the places that they're likely to attack.
-E
-i spent the whole week down at st. vincent de paul,
-A                  B
-wholly immersed in prayer and
-E
-ultraviolet.
-A
-ultraviolet.
-
-E A
-
-E
-down where the river rushes into the sea,
-A
-i didn't let 'em get the best of me.
-E
-i didn't let 'em take the very best part --
-A                            B
-the last lone bit of light left flickering in my heart.
-E
-ultraviolet.
-A
-ultraviolet.
-
-E A B E
-
-======================================================================
-
-Cake
-"Sad Songs And Waltzes"
-*originally a Willy Nelson song, but I wrote this from the Cake version*
-
-
-Intro:  the same chords as the first verse
-
-    A         E    A
-I'm writing a song all about you
-
-  D                    A
-A true song as real as my tears
-
-           D                         A         D
-But you've no need to fear it 'cause no one will hear it
-
-A                            E           A
-Sad songs and waltzes aren't selling this year
-
-(2nd verse: same as first)
-
-
-Bridge: 
-       E                         A
-It's a good thing that I'm not a star
-
-    B                        E                E7
-You don't know how lucky you aaaaaaaaaaaaaaaa-re
-
-
-Last verse:
-          A                  D
-Though my record may say it, no one will play it
-
-A                            E            A 
-Sad songs and waltzes aren't selling this year.
-
-
-======================================================================
-
-Magnetic Fields
-Papa Was a Rodeo
-69 Love Songs
-
-The linked chord diagrams are a little funky, I wouldn't trust them. I think 
-you'll get the idea though.
-
-G/F#: 220033
-Em7:  x20000
-C/B:  x22010
-Am7:  x02010
-
-G           G/F#             Em         Em7
-I like your twisted point of view, Mike  
-C           C/B              Am7    D
-I like your questioning eyebrows 
-G              G/F#              Em       Em7
-You've made it pretty clear what you like 
-C         C/B              Am7    D
-It's only fair to tell you now  
-
-Em           Em7          C       C/B
-that I leave early in the morning 
-Am7                      D        Dsus  D
-and I won't be back till next year  
-Em         Em7            C      C/B
-I see that kiss-me pucker forming  
-Am7                                 D     Dsus  D
-but maybe you should plug it with a beer, cause 
-
-CHORUS
-G          G/F#    Em                      Em7          
-Papa was a rodeo - Mama was a rock'n'roll band                
-        G               G/F#         C                    D            
-I could play guitar and rope a steer before I learned to stand  
-G                      G/F#         C                     G
-Home was anywhere with diesel gas - Love was a trucker's hand  
-G                  G/F#              C         C/B      
-Never stuck around long enough for a one night stand 
-Am7                           G
-Before you kiss me you should know 
-C    D         G
-Papa was a rodeo 
-
-
-BRIDGE
-
-( G )| G/F# | Em | Em7 | C   | D - Dsus - D | 
-
-VERSE (1)
-
-The light reflecting off the mirror ball 
-looks like a thousand swirling eyes 
-They make me think I shouldn't be here at all 
-You know, every minute someone dies 
-
-
-VERSE(2)
-
-What are we doing in this dive bar 
-How can you live in a place like this 
-Why don't you just get into my car 
-and I'll take you away I'll take that kiss now, but 
-
-
-CHORUS
-
-
-BRIDGE (X2)
-
-
-VERSE (2)
-
-And now it's 55 years later 
-We've had the romance of the century 
-After all these years wrestling gators 
-I still feel like crying when I think of what you said to me 
-
-
-CHORUS
-
- C    D         G  G/F#
-Papa was a rodeo 
-
-
-OUTRO
-
-Em7       D               C         D     G
-What a coincidence, your Papa was a rodeo too.
-
-======================================================================
-Jackson
-Johnny Cash/June Cash
-
-C C C C     We got married in a fever / hotter than a pepper sprout
-C C C7 C7   We've been talking 'bout Jackson / ever since the fire went out
-F F C C     I'm going to Jackson / gonna mess around
-F G7 C C    yeah, I'm going to Jackson / look out Jackson town
-
-C C C C     Go on down to Jackson / go ahead and wreck your health
-C C C7 C7   Go play your hand, you big talking man / make a big fool of yourself
-F F C C     Yeah, go to Jackson / comb your hair
-F G7 C C    honey, I'm gonna snow ball Jackson / see if I care
-
-C C C C     When I breeze into that city / people goona stoop and bow(hah!)
-C C C7 C7   all them women gonna make me / teach 'em what they don't know how
-F F C C     aw, I'm going to Jackson / turn loose'a my coat,
-F G7 C C    cause, I'm going to Jackson / goodbye, that's all she wrote
-
-C C C C     but they'll laugh at you in Jackson/and I'll be dancin' on a pony keg
-C C C7 C7   they'll lead you 'roun' town like a scalded hound
-              with your tail tucked 'tween your legs
-F F C C     yeah, go to Jackson / you big talking  man
-F G7 C C    and I'll be waiting in Jackson / behind my jaypan fan
-
-C C C C     We got married in a fever / hotter than a pepper sprout
-C C C7 C7   We've been talking 'bout Jackson / ever since the fire went out
-F F C C     I'm going to  Jackson / and that's a fact
-F G7 C C    yeah, I'm going to Jackson / ain't never comin' back
-
-=======================================================================
-Where is my mind.
-
-G#m:
-x o o o o o
-| | | | | |
-| | | | | |
-| | | | | |
-1 | | | 1 1
-| | | 2 | |
-| 3 4 | | |
-
-[INTRO]
- 
-  E  C#m  G#  A (4x)
-     
-  lead
-E|-----4-----4-|----4-----4-|-----4-----4-|-0--0----0--
-B|--5-----5----|-5-----5----|--4-----4----|-5--5p4--5--
-G|-------------|------------|-------------|------------
-D|-------------|------------|-------------|------------
-A|-------------|------------|-------------|------------
-E|-------------|------------|-------------|------------
-
-
-[VERSE 1]
-E C#m G# A    With your feet in the air and yohowur head on the ground
-E C#m G# A    Try this trick and spin it, yeah
-E C#m G# A    Your head will collapse
-                 / But there's nothing in it, and you'll ask yourself
-
-[CHORUS]
-E C#m G# A   Where is my mind? / Where is my mind?  
-E C#m G# A   Where is my mind?
-
-E C#m G# A 
-
-E G# A Am C#m B      Way out in the water, see it swimming.
-
-
-E C#m G# A     I was swimmin' in the Carribean
-E C#m G# A     Animals were hiding behind the rock
-E C#m          Except the little fish
-G# A           But they told me, he swears / Tryin' to talk to me, to me, to me
-
--CHORUS-
-
-
-E|-------------------------------|-------------------------10--12--14^-
-B|--7---7---7--7-----------------|--------7--7\10--10--12--------------
-G|--9^--9^--------9--7--7--7-----|--7--9-------------------bend last---
-D|----------------------------9--|------------------------ note a few--
-A|-------------------------------|-------------------------times-------
-E|-------------------------------|-------------------------------------
-   ^ = bend
-   r = release bend
-   \ = slide
-  
--VERSE 1-
-
--CHORUS-
-
-(just repeat E  C#m  G#  A until the end)
-
 =========================================================================
                  Radiohead
                 No Surprises
@@ -2436,189 +2178,6 @@ A|----------------|
 E|----------------|
 
 Hope this makes the song easier to play acoustically ;-)
-
-================================================================================
-mewithoutYou
-Allah, Allah, Allah
-It's All Crazy! It's All False! It's All A Dream! It's Alright
-© 2009 Tooth and Nail
-Tuning - Standard: EADGBE
-
-Tabbed By: Jeremy Waterman
-Contact: jeremysexytime@gmail.com
-
-It may look like some of the chords are placed really strangely, however,
-I'm fairly certain everything is in the correct place. I listened through
-the whole song to place the chord changes in, but there's still probably
-a few small mistakes. As for the chords themselves, they're only basic
-chords, but they sound just fine.
-The other tab for this, which is what I based mine from, uses C7 instead
-of C. If you think that sounds better with this, use that.
-C7, in case you wanted to use it, is:
-e[--0--]
-B[--1--]
-G[--3--]
-D[--2--]
-A[--3--]
-E[--0--]
-
-
-
-Intro:
-G   D   D   G
-
-   G                      D
-In everywhere we look, In everywhere we look
-   D                      G
-In everywhere we look, In everywhere we look
-   G                      C
-In everywhere we look, In everywhere we look
-         G              D             G
-Allah, Allah, Allah, In everywhere we look
-
-   G                    D
-In everyone we meet, In everyone we meet
-   D                    G
-In everyone we meet, In everyone we meet
-   G                    C
-In everyone we meet, In everyone we meet
-         G              D           G
-Allah, Allah, Allah, In everyone we meet
-
-   G                        D
-In every blade of grass, In every blade of grass
-   D                        G
-In every blade of grass, In every blade of grass
-   G                        C
-In every blade of grass, In every blade of grass
-         G              D              G
-Allah, Allah, Allah, In every blade of grass
-
-
-Break 1:
-Chords
-G   G   G   G
-
-Trumpet Buildup
-e[--------------------------------------------------]
-B[--------------------------------------------------]
-G[--------------------------------------------------]
-D[--------------------------------------------------]
-A[--------------------------2--2--2--2--2--2--2--2--]
-E[--3--3--3--3--3--3--3--3--------------------------]
-
-e[--------------------------------------------------]
-B[--------------------------------------------------]
-G[--------------------------------------------------]
-D[--------------------------5--5--5--5--5--5--5--5--]
-A[--5--5--5--5--5--5--5--5--------------------------]
-E[--------------------------------------------------]
-
-Chords
-G   D   D   G
-G   C   G D G
-
-Trumpet Solo
-e[--------------------------------------------------]
-B[--------------------------------------------------]
-G[----4-5-7-----------------5-5p4-2-2--------0------]
-D[---------------------------------------------4-0--]
-A[--------------------------------------------------]
-E[--------------------------------------------------]
-
-e[--------------------------------------------------]
-B[-------------------------------------8------------]
-G[----0-2-4-5-----------4-5-4------------7----------]
-D[--4----------------------------5-5----------------]
-A[--------------------------------------------------]
-E[--------------------------------------------------]
-
-e[--------------------------------------------------]
-B[--------------------------------5--------------8--]
-G[----4-5-7-------------------5-7-------------------]
-D[-----------5----------5---------------------------]
-A[--------------------------------------------------]
-E[--------------------------------------------------]
-
-e[--------------------------------------------------]
-B[--------------------------------------------------]
-G[--7------9-7-5-4-2--------------------------------]
-D[------------------------5-4-5---------------------]
-A[--------------------------------------------------]
-E[--------------------------------------------------]
-
-   G                                D
-It doesn't matter what you done, It doesn't matter what you done
-   D                                  G
-   What effect is without a cause? It doesn't matter what you done
-    G                                  C
-Now lay your faithless head down, In necessities cotton hand
-                    G                 D               G  
-There's a love that never changes, No matter what you done
-
-        G                              D
-If your old man did you wrong, If your old man did you wrong
-     D                                   G
-     If your old man did you wrong, Well maybe his old man did him wrong
-       G                                    C
-If you care to sing forgiveness songs, Come down and join our band
-              G            D                   G  
-We'll cut you like sword, And sing forgiveness songs
-
-
-Break 2:
-Chords
-G   D   D   G
-G   C   G D C
-
-Guitar Solo
-e[--------------------------------------------------]
-B[--10h12-13--12--10--------------------------------]
-G[-------------------12--12-12p11-11p9-9p7-7-7p5-7--]
-D[--------------------------------------------------]
-A[--------------------------------------------------]
-E[--------------------------------------------------]
-
-e[--------------------------------------------------]
-B[--------------------------------------------------]
-G[--7-----------------------------------------------]
-D[------7h9-10-10/12------10p9--9p7--7--7h9--9------]
-A[--------------------------------------------------]
-E[--------------------------------------------------]
-
-e[--12p10-------------------------------------------]
-B[--------12p10--8-\--------------------------------]
-G[----------------------7h8-9---\---5---------------]
-D[--------------------------------------------------]
-A[--------------------------------------------------]
-E[--------------------------------------------------]
-
-e[--------------------------------------------------]
-B[--------------------------------------------------]
-G[-------------7------------------------------------]
-D[--9---------------8p7----5------------------------]
-A[--------------------------------------------------]
-E[--------------------------------------------------]
-
-   G                   D
-   Everywhere we look, Everywhere we look
-   D                   G
-   Everywhere we look, Everywhere we look
-   G                            C
-   Everywhere we look, It's all crazy, It's all false
-           G                   D              G
-It's all a dream, It's alright, Everywhere we look
-
-
-Bring it back now, one more time!
-
-Break 3:
-G   D   D   G
-G   C   G D C
-
-[Picking here (I believe) is simply picking of the power chords (5th chords)
-that go with the normal chords played, though high on the fretboard. Mess
-around with this one]
 
 ==============================================================================
 Lola
@@ -9252,97 +8811,6 @@ C-Cmaj7-C-Cmaj7-C-Cmaj7  Fmaj7-F*-Fmaj7-F*-Fmaj7-F*
 C.
 ======================================================================
 
-Minnesota Tab
-
-I just tried to edit the existing tab, which was close to correct
-but has a few problems.  The biggest thing is that it was missing 
-the Am during the chorus part, and just had a C.  You can hear he
-does a walkdown on the A string from C to Am.
-
-The D* means play a normal D but hammer on and off on the G string 
-a couple of times.  You also dont have to... I think it was labelled 
-a Dsus in the other tab but I don't think that's correct.
-
-Also I find the C sounds good if you play C9 - which makes for 
-an easier transition too.
-
-C9 = 3
-     3
-     0
-     2
-     3
-     x
-
-Enjoy.
-
-
-G                                    Em 
-   seeds came in the mail today from holland
-         D*                              C
-and the language on the package was wonderful and strange
-G                         Em 
-all sorts of flowers that grow up from the earth
-   D*                      C
-      in goodly colors gloriously arranged
-
-C                           D  
-i circled the house and i scattered them around
-        G                        C
-let the water sink down into the soil
-Am                           D  
-   stared a long time at the residue
-G                  C
-   blood, milk and oil
-Am                           D  
-god the humidity is something
-G                  C
-our shirts are soaked clean through
-Am                           D  
-the house is throbbing and the heat keeps coming
-G                  C
-and i keep looking at you
-
-G   Em   Dsus   C    
-
-G                              Em 
-    and then you're singing in dutch to me
-         D*                        C
-            and i recognize the song
-G                      Em 
-   it seems so old and so fragile 
-D*                              C
-   and i haven't heard it in so long
-Am                                 D  
-   we may throw the windows open later
-           G                      C
-but we are not as far west as you suppose we are
-Am                       D  
-hot wind coming off the water
-G                        C
-the sky gone crazy with stars
-Am                      D  
-while we stay here we imagine we're alive
-G                      C
-we see shadows on the walls
-Am                                       D  
-there's something waiting for us in the hot, wet air
-G                 C
-sweat, water and alcohol
-
-
-         G 
-just the old blood
-D*              
-rising up through the wooden floor again
-G 
-just the old love
-C
-asking for more again 
-
-G Em D* C (x2)
-
-======================================================================
-
 the Mountain Goats Wiki
 Thank You Mario But Our Princess Is In Another Castle
 This is the live version w/ guitar. Studio is 1/2 step down. (D --> C#)
@@ -9409,4 +8877,346 @@ D A D D       to the bright ringing drone of eight-bit choirs
 
 G A D G       yeah when you came in I could breathe again
 D A D D      
+======================================================================
+
+Minnesota Tab
+
+I just tried to edit the existing tab, which was close to correct
+but has a few problems.  The biggest thing is that it was missing 
+the Am during the chorus part, and just had a C.  You can hear he
+does a walkdown on the A string from C to Am.
+
+The D* means play a normal D but hammer on and off on the G string 
+a couple of times.  You also dont have to... I think it was labelled 
+a Dsus in the other tab but I don't think that's correct.
+
+Also I find the C sounds good if you play C9 - which makes for 
+an easier transition too.
+
+C9 = x32033
+jj
+Enjoy.
+
+intro
+
+     1234567812345678
+G    D  u  uD   d du
+Em   D  u  uD   d du   Hammer4
+D    D  u  uD  u  ud   hammer1            jjplay -s6 -r.8 minnesota
+C    d  d   d __ dud
+
+G    D  u  uD   d du   high on 2nd D
+Em   Dudu  uD   d du   Hammer4
+D    D  u  uD  u  udu  hammer1             jjplay  -s15 -r.8 minnesota
+C    d d u ud ud dud
+
+seeds came ...
+
+G    D  u  uD   d du
+Em   D  u  uD   d du   Hammer4
+D    D  u  uD  u u d   hammer1
+C    d  u  uD  u dud
+
+G Em   Seeds came in the mail today from Holland 
+D C    and the Language on the package / is Wonderful and strange
+G Em   All sorts of flowers / that Grow up from the earth
+D C    _ in goodly colors / Gloriously arranged
+
+C D    I circled the house and i Scattered them around
+G C    let the Water sink down into the Soil
+Am D   _ stared a long time at the Residue
+G C    _ blood, milk and Oil
+Am D   God the humidity is something
+G C    Our shirts are soaked clean through
+Am D   the House is throbbing and the Heat keeps coming
+G C    And i keep looking at You
+
+G Em Dsus C    
+
+G Em   and then you're singing in dutch to me
+D C    and i recognize the song
+G Em   it seems so old and so fragile 
+D C    and i haven't heard it in so long
+Am D   we may throw the windows open later
+G C    but we are not as far west as you suppose we are
+Am D   hot wind coming off the water
+G C    the sky gone crazy with stars
+Am D   while we stay here we imagine we're alive
+G C    we see shadows on the walls
+Am D   there's something waiting for us in the hot, wet air
+G C    sweat, water and alcohol
+
+G D    just the old blood rising up through the wooden floor again
+G C    just the old love asking for more again 
+
+G Em D* C (x2)
+
+======================================================================
+
+Duke Ellington
+
+    1234567890123456
+E   P                 P=xxxxx3
+
+E   D   P  du D  du   P=0xxxxx
+A   D   P  du D  du   P=x33000
+E   D   P  du D  du   P=0xxxxx
+B   D   D  du D dudu  
+
+E   D   P  du D  du   P=0xxxxx
+A   D   P  du D  du   P=x33000
+E   D   p  du D  du   p=xxxxx0
+B   D   p  du D dud   p=xxxxx2 
+
+"The light hit"
+E   D   D  du D  du   -s20
+A   D   D  du D  du   
+E   D   D  du D  du   
+B   D   D  du D dudu  
+
+E   D   D  du D dud    
+A   D   D  du D dud    
+E   D   O  du D dud   5/3xxxxx
+B   D   D  du D dudu  
+
+"His hands ..." 
+E   D   D  du D dud   -s38
+A*  D   D  du D dud   A*=Asus2 xx3300
+E*  D   D  du D dud   E*=xx2100 
+B   D   D  du D dudu  
+
+E   D   D  du D  uD   -s48
+E   du D  du D  dudu
+
+"The horns ..." 
+E   D   D  du D dud   -s52
+A   D   D  du D dudu    
+E   D   P  du D dud   P=3xxxxx
+B   D   D  du D dudu  
+
+E   D   P  du D dud   P=xxxx00 -s60
+A   D   P  du D dudu  P=xxxx10
+E   D   P  du D dud   P=0xxxxx
+B   D   D  du D dudu  
+
+"I saw the spotlight ..." 
+E   D   D  du D dud   -s68
+A*  D   D  du D dud   A*=Asus2 xx3300
+E*  D   D  du D dud   x22100 
+B   D   D  du D dud  
+
+A   D   D  du D dud  
+B   D   D  du D dud  
+
+"in 1962 ..."
+E   D   D  du D dud   
+A   D   D  du D dud
+E   D   D  du D dud
+B   D   D  du D dudu
+
+E   D   P  du P uP    P=xxxx00 -s92
+E    du P  ududududu  P=xxxx00
+
+E   D   D  du D dudu
+A   D   D  du P dud   P=xxxxx0
+E   D   D  du P pudu  P=xxxxx0
+B*  D   D  du D dud   B*=xxxooo
+
+E   D   p  D  D dudu  -s106
+A   D   p  p udududu  p=xxxxx0
+E   D   D  p udududu  p=xxxxx0
+B   D   D  du dududu
+
+E   D   D  du D dud   -s114
+A*  D   D  du D dudu  A*=xx2200
+E   D   D  du D dud   xx2100
+B   D   D  du D dudu
+
+E   D   D  du D U A   -s124
+A    U  D ud udududu
+E   D   D  du D U B
+B    U  D  ududududu
+
+E   D   D  du D U A
+A    U  D  ududududu
+E   D   D  ududududu
+E   D
+
+
+
+E A   _ the light hit the Rings
+E B   Glimmering on his Fingers
+E A   _ the light came Down
+E B
+E A   _ And his hands hit the Keys
+E B   It utterly wasted Me in sweden
+G G
+E A   _ The horns punched the Air
+E B   the aftermath fell around everywhere
+E A
+E B   _ _ i saw the 
+E A   Spotlight land on his Rings / and i'd had 
+E B   Just about enough Losing things
+E A   in sweden in Nineteen sixty-
+E B   Two / quite some Distance from you
+
+E A E B (until end. :)
+
+======================================================================
+1234567812345678
+D u u D u u D du
+D u u D u u D du
+
+Stable Boy Song
+
+GCGG   Here come the times of changing tide.
+GCDD   Here come the days of light and grace.
+GCGEm  Here come the hours of wordless wondrousness.
+GDGG   White light will fill this humble place.
+
+When you come, the stars will shine brighter than spun gold.
+When you come, the world will seem shiny and new.
+My mom told me that someday someone like you would come to set things right.
+'Til you come, I'll keep this place ready for you.
+
+I saw them riding up the road.
+And I swept and scrubbed the stable twice.
+Filled it with golden yellow straw, sweet and clean.
+I did my best to make things nice.
+
+When you come, the stars will shine brighter than spun gold.
+When you come, the world will seem shiny and new.
+My mom told me that someday someone like you would come to set things right.
+Until you come, I'll keep this place ready for you.
+
+======================================================================
+Taboo VI: The Homecoming - Going To Alaska
+
+For live versions, in standard tuning either go with above or:
+A D A E
+or
+E A E B
+
+for the main pattern
+
+G C G D  G C G D  
+
+
+   12345678
+G  D  D uDu
+C  Dudu udu
+G  DuuDuuDu
+D  DuuDuuDu
+
+G  DuuD uDu   4D is csplat
+C  dddd udu   dddd is cspat
+G  DuuDuuDu   1 & 4 D is cspat
+D  Du Du Du
+
+
+   D  D uDu
+   D uD uDu
+
+
+Taboo VI: The Homecoming - Going To Alaska
+G                C
+The jacaranda are wet with color,
+        G                            D
+and the heat is a great paint brush, lending color to our lives,
+     G                                C
+to the air, and to out faces; but I'm going to Alaska
+              G                         D
+where there's snow to suck the sound out from the air.
+
+C G
+
+G       C
+Up, yes, in the branches,
+G                       D
+the purple blossoms, go pale at the edges;
+         G                              C
+there is moaning in the shifting of the sap, and I see in them traces
+G                           D
+of last year, but then they hadn't grown so strong,
+G                                    C
+and their limbs were more like wires. Now they are cables.
+G                           D                    G
+thick and alive with alien electricity, and I am going to Alaska,
+     C                         G
+where you can go blind just by looking at the ground,
+D
+where fat is eaten by itself
+C                         G
+just to keep your body warm.
+
+G                         C
+Because from where we are now, it seems, really,
+    G                           D
+that everything is growing in a thousand different ways;
+G                                        C
+that the soil is soaked through with old blood and with relatives
+G                                           D
+who were buried here, or close to here, and they are giving rise
+G                                C
+to what is happening. Or can you tell me otherwise?
+     G                          D
+I am going to Alaska, where the animals can kill you,
+        G                     C
+but they do so in silence, as though if no-one hears them,
+        G                         D
+then it really won't matter. I am going to Alaska.
+C                                     G
+They tell me that it's perfect for my purposes.
+
+G C G D
+G C G D G
+
+======================================================================
+Blues in Dallas (will i see you there when that final trumpet blows)
+
+   1234567812345678
+   D Du uDu uDu uDu 
+
+Here's the melody, I've made no attempt to capture the rhythm, so you'll have to listen for that.
+
+E --0-1-0-----------------------0---------
+B --------3-1-1-3-1-3-1-0-1-1-3---3-1-1-3-
+G ----------------------------------------
+
+E -0-1-3-1-0-0-1-0---0---------0-----1-0---------0-1-0---0-----
+B -----------------3---3-3-3-3---3-1-----3-1-1-3-------3---3-1-
+G --------------------------------------------------------------
+
+| C | C | F | C | G | F | C G | C |
+
+C
+will i see you there when that final trumpet blows?
+F                              C
+will i see you there when that final trumpet blows?
+      G                           F                     
+if i don't see you there, i will run a comb through my hair.
+           C
+and i will wait.
+        G
+i will wait.
+        C 
+i will wait.
+
+
+will you walk on in when the angel summons you?
+will you walk on in when the angel summons you?
+if i don't see you go, i will let the minions flow.
+and i will wait.
+i will wait.
+i will wait.
+
+down in dealey plaza, the tourists mill about.
+down in dealey plaza, the tourists mill about.
+and i am far from where we live, and i have not learned how to forgive.
+but i will wait.
+i will wait.
+i will wait.
+yeah.
+
+======================================================================
 ======================================================================
