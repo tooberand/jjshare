@@ -1240,7 +1240,7 @@ d   d  d d ududu
 
 d   d  d udududu   Let the ticker tape ...
 
-instrumental break #2
+instrumental break #2 
                     
 d   d ud d ududu    l   l  h h hhhhh         jjplay -s82 pinklon
 d   d  d d ududu
@@ -1316,6 +1316,21 @@ d   d ud d ududu
 d   d  d d ududu
 d
 
+01 01 11 21 
+11 00 00 00 
+
+10 00 00 00 
+11 00 **
+11 01 00 10 
+10 10 10 10 
+
+10 10 00 00 
+10 00 00 00 
+
+03 03 **
+25 26 27 28
+25 01 01 10
+11 10 00 D
 ----------------------------------
 
 E
@@ -8900,22 +8915,119 @@ Enjoy.
 intro
 
      1234567812345678
-G    D  u  uD   d du
-Em   D  u  uD   d du   Hammer4
-D    D  u  uD  u  ud   hammer1            jjplay -s6 -r.8 minnesota
-C    d  d   d __ dud
+G    D  u uD   d du
+Em   D  u uD   d du   Hammer4
+D    D  u uD  u  ud   hammer1            jjplay -s6 -r.8 minnesota
+C    d  d  d __ dud
 
-G    D  u  uD   d du   high on 2nd D
-Em   Dudu  uD   d du   Hammer4
-D    D  u  uD  u  udu  hammer1             jjplay  -s15 -r.8 minnesota
+G    D  u uD   d du   high on 2nd D
+Em   Dudu uD   d du   Hammer4
+D    D  u uD  u  udu  hammer1             jjplay  -s15 -r.8 minnesota
 C    d d u ud ud dud
 
-seeds came ...
+"seeds came ..."
+G    D  u uD  u uD du   -s20
+Em   H    uD  u uD du Hammer4
+D    H  u uH  u uDudu  hammer1 -s25
+C    d  u uD  u uDud
 
-G    D  u  uD   d du
-Em   D  u  uD   d du   Hammer4
-D    D  u  uD  u u d   hammer1
-C    d  u  uD  u dud
+"all sorts ..."
+G    D  u uD    uD  u   -s30
+Em   D  _  D  u uD du Hammer4
+D    H  u uD     D    hammer1 -s35 weird
+C    D  u uD     D
+
+"I circled"
+C    D    uD     D     -s39
+D    D    uD    uD 
+G    D     D   u D     -44
+C    D  u uD  P uDudu  P=xxx013
+
+"stared..."
+Am   D  u uD  u uD du  -49
+D    D  u uD  vpvpvpv  vp=xx0233
+G    D  u uD d d d     -54
+C    D  u uD  u uD du
+
+"my god..."
+Am   D  u uD    uD     -58
+D    D  u uD  vpvpvpv  vp=xx0233
+G    D  u uD  u uD du  -63
+C    D  u uD  vpvpvpv  vp=xx2013
+
+"the House..."
+Am   D  u uD  u uD du  -s67
+D    Dududud  vpvpvpv  vp=xx0233
+G    D  u uD  u uD du  -s72
+C    P  u uD  D udud   vp=xx2010
+
+G    D  u uD     d du  -s76
+Em   Dudu uD     d du  x22000
+D    H  uduH  uduH u   H=hammer1             -s81
+C    d  u  D  udududu
+
+G    Dudu uD     d du
+Em   Dudu uD     d du
+D    H  u uH  uduD u   H=hammer1             -s90
+C    D  u uD  u uDudu
+
+"and then you're singing..."
+     1234567890123456
+G    D  u uD  u uD du         -s95
+Em   D  u uD  u uD du
+D    H udu H udu D du         -s99
+C    D  u uD  d uD du
+
+"it seemed so old..."
+G    D  u uD  u uD du         -s104
+Em   D  u uD  u uD du
+D    H  u uH  u uD du
+C    D  u uD  u uDudu
+
+"we may throw..."
+Am   D  u uD  u uD du     -s114
+D    D  u uD  u uD du
+G    D  u uD  u uD du
+C    D  u uD  u uDudu
+
+"hot wind coming off..."  -s124
+Am   D  u uD     D du
+D    D  u uD  vpvpvpv  vp=xx0233
+G    D  u uD  u uD du
+C    D  u uD  u uD du
+
+"while we stay here..."
+Am   D  u uD  u uD du    -s132
+D    D  u uD  u vpvpv  vp=xx0233
+G    D  ud D  ud D du    -s136
+C    Dudud dudud d du   revisit
+
+"there's something waiting for us..."
+Am   D  u uD  u uD du    -s141
+D    D  u uD  u vpvpv  vp=xx0233
+G    D  du D  uduD du    -s145
+C    D  du D  uduD du
+
+"just the old blood..."
+G    D  u uD     D du  -s150
+D    D  uduD  u uD du
+G    D  u uD  u uDudu
+C    D  u uD  u uDudu  P=xxx013
+
+G    D  u uD   d du   -s159
+Em   Dudu uD   d du  
+D    H  u uH  u uD d    hammer1            jjplay -s6 -r.8 minnesota
+C    d  u uD  u ududu
+
+G    Dudu uD     D du   -s168
+Em   Dudu uD     D du  
+D    H  u uH  u uD d
+C    D  u uD  uduDud
+
+G    D 
+
+
+
 
 G Em   Seeds came in the mail today from Holland 
 D C    and the Language on the package / is Wonderful and strange
@@ -8959,12 +9071,12 @@ Duke Ellington
 E   P                 P=xxxxx3
 
 E   D   P  du D  du   P=0xxxxx
-A   D   P  du D  du   P=x33000
+A   D   Q  du D  du   Q=x33000
 E   D   P  du D  du   P=0xxxxx
 B   D   D  du D dudu  
 
 E   D   P  du D  du   P=0xxxxx
-A   D   P  du D  du   P=x33000
+A   D   Q  du D  du   Q=x33000
 E   D   p  du D  du   p=xxxxx0
 B   D   p  du D dud   p=xxxxx2 
 
@@ -8976,7 +9088,7 @@ B   D   D  du D dudu
 
 E   D   D  du D dud    
 A   D   D  du D dud    
-E   D   O  du D dud   5/3xxxxx
+E   D   P  du D dud   P=3xxxxx
 B   D   D  du D dudu  
 
 "His hands ..." 
@@ -9020,16 +9132,16 @@ E    du P  ududududu  P=xxxx00
 E   D   D  du D dudu
 A   D   D  du P dud   P=xxxxx0
 E   D   D  du P pudu  P=xxxxx0
-B*  D   D  du D dud   B*=xxxooo
+B*  D   D  du D dud   B*=xxx442
 
-E   D   p  D  D dudu  -s106
+E   D   p  D  D dudu  p=xxxxx0 -s106
 A   D   p  p udududu  p=xxxxx0
 E   D   D  p udududu  p=xxxxx0
 B   D   D  du dududu
 
 E   D   D  du D dud   -s114
 A*  D   D  du D dudu  A*=xx2200
-E   D   D  du D dud   xx2100
+E*  D   D  du D dud   E*=xx2100
 B   D   D  du D dudu
 
 E   D   D  du D U A   -s124
