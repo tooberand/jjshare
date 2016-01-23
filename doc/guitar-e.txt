@@ -46,14 +46,15 @@ x65343  Eb
 ======================================================================
 work on:
 Going to Marrakesh
+Seed Song
+Blues in Dallas (will i see you there when that final trumpet blows)
+
+Third Snow Song (that's a whole lot of water)
 Pink And Blue
 Hello, Old Rabbit (i did not come here to suffer)
-Blues in Dallas (will i see you there when that final trumpet blows)
-Seed Song
 international small arms traffic blues
 old college try
 Soft Targets
-Stable Boy Song (start it, pretty cool)
 
 Yam, The King of Crops (felt sick, felt good ... plate of sweet potatoes)
 Alphonse Mambo
@@ -77,7 +78,6 @@ in corolla
 fingerpick:
 it froze me
 the window song
-Third Snow Song (mutes)
 
 pick practice:
 Last Song for Jenny
@@ -90,7 +90,6 @@ Imagine
 Carriage Clock
 Ballad of Love and Hate
 
-judy and the dream of horses has interesting strum pattern and mute
 
 ======================================================================
 
@@ -526,12 +525,13 @@ outro
 d   d  d d ddudu    h  l  h h h hhh           jjplay -r.8 -s190 pinklon
 d   d  d d ddudu    
 d   d  d ddudu u
-d   d ud d ududu   last du pinky 6string fret 4
+d   dudu udupv     pv=421100
 
 d   dudu dud udu    h  l  h h h hhh           jjplay -r.8 -s200 pinklon
 d   dudu d d udu
 d   dudu u ududu
-d   dudu d ududu   last du pinky 6string fret 4
+d   dudu udupv     pv=421100
+
 
 d   dudu dud udu                              jjplay -r.8 -s210 pinklon
 d   d  d d d udu   soften  Asus2  
@@ -554,7 +554,7 @@ d
 10 10 00 00 
 10 00 00 00 
 
-03 03 **
+03 03 33 28
 25 26 27 28
 25 01 01 10
 11 10 00 D
@@ -673,31 +673,31 @@ intro
 
      1234567812345678
 G    D  u uD   d du
-Em   D  u uD   d du   Hammer4
-D    D  u uD  u  ud   hammer1            jjplay -s6 -r.8 minnesota
+Em   H  u uD   d du   H=hammer4
+D    H  u uH  u ud    H=hammer1            jjplay -s6 -r.8 minnesota
 C    d  d  d __ dud
 
 G    D  u uD   d du   high on 2nd D
-Em   Hudu uD   d du   Hammer4
+Em   Hudu uD   d du   hammer4
 D    H  u uH  u udu   hammer1             jjplay  -s15 -r.8 minnesota
-C    d d u ud ud dud
+C    d du ud ud dud
 
 "seeds came ..."
 G    D  u uD  u uD du   -s20
-Em   H    uD  u uD du Hammer4
+Em   H    uD  u uD du  hammer4
 D    H  u uH  u uDudu  hammer1 -s25
 C    d  u uD  u uDud
 
 "all sorts ..."
 G    D  u uD    uD  u   -s30
-Em   D  _  D  u uD du Hammer4
-D    H  u uD     D    hammer1 -s35 weird
-C    D  u uD     D
+Em   D  _  D  u uD du  hammer4
+D    H  u uD     D  u  hammer1 -s35 weird
+C    D  u uD     D  u
 
 "I circled"
-C    D    uD     D     -s39
-D    D    uD    uD 
-G    D     D   u D     -44
+C    D    uD     D  u  -s39
+D    D    uD    uD  u
+G    D     D   u D  u  -44
 C    D  u uD  P uDudu  P=xxx013
 
 "stared..."
@@ -707,7 +707,7 @@ G    D  u uD d d d     -54
 C    D  u uD  u uD du
 
 "my god..."
-Am   D  u uD    uD     -58
+Am   D  u uD    uD  u  -58
 D    D  u uD  vpvpvpv  vp=xx0233
 G    D  u uD  u uD du  -63
 C    D  u uD  vpvpvpv  vp=xx2013
@@ -826,15 +826,15 @@ Duke Ellington
     1234567890123456
 E   P                 P=xxxxx3
 
-E   D   P  du D  du   P=0xxxxx
-A   D   Q  du D  du   Q=x33000
-E   D   P  du D  du   P=0xxxxx
-B   D   D  du D dudu  
+E   D   P  __ D  du   P=0xxxxx
+A   D   Q  __ D  du   Q=x33000
+E   D   P  __ D  du   P=0xxxxx
+B   D   D  __ D dudu  
 
 E   D   P  du D  du   P=0xxxxx
 A   D   Q  du D  du   Q=x33000
-E   D   p  du D  du   p=xxxxx0
-B   D   p  du D dud   p=xxxxx2 
+E   D   H  du D  du   H=xxxxx0
+B   D   H  du D dud   H=xxxxx2 
 
 "The light hit"
 E   D   D  du D  du   -s20
@@ -862,8 +862,8 @@ A   D   D  du D dudu
 E   D   P  du D dud   P=3xxxxx
 B   D   D  du D dudu  
 
-E   D   P  du D dud   P=xxxx00 -s60
-A   D   P  du D dudu  P=xxxx10
+E   D   H  du D dud   H=xxxx00 -s60
+A   D   H  du D dudu  H=xxxx10
 E   D   P  du D dud   P=0xxxxx
 B   D   D  du D dudu  
 
@@ -886,13 +886,13 @@ E   D   P  du P uP    P=xxxx00 -s92
 E    du P  ududududu  P=xxxx00
 
 E   D   D  du D dudu
-A   D   D  du P dud   P=xxxxx0
-E   D   D  du P pudu  P=xxxxx0
+A   D   D  du H dud   H=xxxxx0
+E   D   D  du H pudu  H=xxxxx0
 B*  D   D  du D dud   B*=xxx442
 
-E   D   p  D  D dudu  p=xxxxx0 -s106
-A   D   p  p udududu  p=xxxxx0
-E   D   D  p udududu  p=xxxxx0
+E   D   H  D  D dudu  H=xxxxx0 -s106
+A   D   H  H udududu  H=xxxxx0
+E   D   D  H udududu  H=xxxxx0
 B   D   D  du dududu
 
 E   D   D  du D dud   -s114
@@ -931,17 +931,18 @@ E B   Two / quite some Distance from you
 E A E B (until end. :)
 
 ======================================================================
+Stable Boy Song
+
 1234567812345678
 D  u uD  u uD du
 D  u uD  u uD du
-
 D  u  D  u uD du
 D  u uD  u uD du   -s5
 
 "Here come the times ..."
     1234567812345678
-G   D  du D  du D
-C   D  du D  du D
+G   D  du D  du D u
+C   D  du D  du D u
 G   D  u uD  uduD du
 G   D  u uD  u uD du
 
@@ -958,7 +959,7 @@ G   D udu D  du D d
 Em  D  u uD  uduD du
 
 "Light light ..."
-G   D  du D udu D  u  -s29
+G   D  du D udu D du  -s29
 D   D  du D  u  D du
 G   D  u uD  u uD du
 G   D  u uD  uduD du
@@ -987,8 +988,6 @@ D   D  du D  u  D du
 G   D  u uD  u uD du
 G   D  u uD  u uD du
 
-
-Stable Boy Song
 
 GCGG   Here come the times of changing tide.
 GCDD   Here come the days of light and grace.
@@ -5132,42 +5131,134 @@ G C G D
 G C G D G
 
 ======================================================================
-Blues in Dallas (will i see you there when that final trumpet blows)
 
-   1234567812345678
-   D Du uDu uDu uDu 
+Blues in Dallas
 
-Here's the melody, I've made no attempt to capture the rhythm, so you'll have to listen for that.
+1234567812345678
+D Du uDu uDu uDu 
 
-E --0-1-0-----------------------0---------
-B --------3-1-1-3-1-3-1-0-1-1-3---3-1-1-3-
-G ----------------------------------------
 
-E -0-1-3-1-0-0-1-0---0---------0-----1-0---------0-1-0---0-----
-B -----------------3---3-3-3-3---3-1-----3-1-1-3-------3---3-1-
-G --------------------------------------------------------------
+intro: C C F C G F CG C
 
-| C | C | F | C | G | F | C G | C |
+C C   Will I see you there when that final trumpet blows?
+F C   Yeah, will I see you there when that final trumpet blows?
+G F   If I don't see you there, I will run a comb through my hair.
+CGC   And I will wait.  I will wait.  I will wait.
 
-C C   will i see you there when that final trumpet blows?
-F C   will i see you there when that final trumpet blows?
-G F   if i don't see you there, i will run a comb through my hair.
-CGCC  and i will wait.  i will wait.  i will wait.
+Will you walk on in when the angel summons you?
+Yeah, will you walk on in when the angel summons you?
+If I don't see you go, I will let the minions flow.
+And I will wait.  I will wait.  I will wait.
 
-will you walk on in when the angel summons you?
-will you walk on in when the angel summons you?
-if i don't see you go, i will let the minions flow.
-and i will wait.
-i will wait.
-i will wait.
+     1234567812345678
+C    D Du uDuDuDV udu   V=x32013 -s95 
+C    P Du uH J Du uDu   P=xxx010 H=x3200h10h1 J=x320h10
+C    D Du uP D P D T    P=x32011 T=x32030
+F    D Du uDu uDu uDu   P=xxx010
+C    D Du uD P D P D    
+G    D Du uDu uDu uDu    
+F    D Dw udw udw udu   w=xxxx11  -s118
+CG   D Du uDuD Du uDu
+C    D Du uDu uDu uDu    
 
-down in dealey plaza, the tourists mill about.
-down in dealey plaza, the tourists mill about.
-and i am far from where we live, and i have not learned how to forgive.
-but i will wait.
-i will wait.
-i will wait.
-yeah.
+Down in dealey plaza, the tourists mill about.
+Down in dealey plaza, the tourists mill about.
+And I am far from where we live, and I have not learned how to forgive.
+But I will wait.  I will wait.  I will wait.
+
+     1234567812345678
+C    D Du uDuDuDuDuDu  -s156
+C    D Du uDu uDu uDu
+C    D DuDuDuDuDuDuDu
+F    D Du uDu uDu uDu   P=xxx010
+C    D Du uDuDuDuDuDu
+CG   D Du uDuD Du uDu   -s175
+CF   D P Q P D Du uDu   P=x32011 Q=x32013
+CG   D Du uDuD Du uDu 
+C    DuDuDuDuDuDuDuDu
+C    D
 
 ======================================================================
+third snow song
+
+tabbed by mike/howardfinkel483
+
+tuned down one step for studio version.
+Played live in standard tuning or down a half step.
+
+
+E (run)
+e--0h2-4-5-7-5-4h5-4---
+B----------------------
+G----------------------
+D----------------------
+A----------------------
+E----------------------
+
+     1234567812345678
+riff
+E    D uD D D uDu udu   -s4
+riff
+E    D  uD uD D uDuDu   -s9
+E    D uuD uD D uDuDu
+
+"In January"
+E    D uuD uD uDuDuDu   -s13
+E    D uu u u uDuDuDu   -s17
+E    D uu uDuDuDuDuDu   -s19
+E    D uuD uD uDuDuDu
+A    D uuD uD D D uDu  -s26
+A    D DuDuDuDuDuDuDu
+E    D  uD uD uDuD Du
+E    D DuDuDuDuDuDuDu
+
+
+     1234567812345678
+E    DDD udu uD ududu  -s37
+E    DDD ud u u u u u
+E    DDD udu ud udud   -s42.5
+     uud uu u u ududu
+
+"That's a whole"
+A    D uD uD udududu   -s48
+A    uduDuDuDuDuDuDu
+E    D uD uD udududu   -s53
+E    D uDuDuDuDuDuDu
+
+"I took out the key"
+
+in january i took a short walk
+E
+down to the broadway bridge
+E
+two and a half blocks
+         A
+when you scrape the ice away
+A                 E
+you can read the bridge dedication
+
+
+E
+i can feel the cold air coming in through my teeth
+E
+i saw the bridge
+E
+i saw the water underneath
+           A 
+that's a whole lotta water
+           E
+that's a whole lotta water
+
+
+E
+i took out the key that i'd forgotten the function of
+A                                  E
+twisted it from the keyring as the bridge loomed above
+E                         B
+i hammered it against the ice
+B                        A 
+i hammered it against the ice
+
+E (run)
+
 ======================================================================
