@@ -158,7 +158,7 @@ sub main
 	}
 	else
 	{
-		if (@matched_files > 10)
+		if (@matched_files > 100)
 		{
 			print "ERROR: " . @matched_files . " matched files, truncating\n";
 			@matched_files = @matched_files[0..9];

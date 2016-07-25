@@ -39,14 +39,17 @@ x65343  Eb
 244322  F#
 244222  F#m
 355433  G
+355533  Gsus Gsus4
 466544  G# G#m G#maj
 320001  G7
 353333  GM7
 
 ======================================================================
 work on:
+going to port washington
 Going to Marrakesh
 Seed Song
+Come on in
 Pink And Blue
 Hello, Old Rabbit (i did not come here to suffer)
 international small arms traffic blues
@@ -54,27 +57,30 @@ old college try
 Soft Targets
 song for dennis brown
 
-Yam, The King of Crops (felt sick, felt good ... plate of sweet potatoes)
+Commandante
 Alphonse Mambo
 Coroner's Gambit
 Moon over Goldsboro
 Thought about you a Little
 Your belgian things (acoustic guitar version)
 Chesire County
-going to queens
+Going to Queens
+Coco Yam Song
+Cut Off Their Thumbs #1 (I'm gonna kill everybody in this room)
+
 
 interesting but has other instruments:
 Original Air Blue Gown
 Letter from Belgium
 hellhound on my trail
-night of the mules
+night of the mules "10 or 20 of us huddled together"
 love cuts the strings
 Quito
 Alpha Incipiens
 in corolla
+New World Emerging Blues
 
-fingerpick:
-it froze me
+http://www.mountain-goats.com/forums/read.php?2,120858
 
 pick practice:
 Last Song for Jenny
@@ -902,14 +908,14 @@ G Em D* C (x2)
 Duke Ellington
 
     1234567890123456
-E   P                 P=xxxxx3
+E   H                 H=xxxxx3
 
-E   D   P  __ D  du   P=0xxxxx
+E   D   L  __ D  du   L=0xxxxx
 A   D   Q  __ D  du   Q=x33000
-E   D   P  __ D  du   P=0xxxxx
+E   D   L  __ D  du   L=0xxxxx
 B   D   D  __ D dudu  
 
-E   D   P  du D  du   P=0xxxxx
+E   D   L  du D  du   L=0xxxxx
 A   D   Q  du D  du   Q=x33000
 E   D   H  du D  du   H=xxxxx0
 B   D   H  du D dud   H=xxxxx2 
@@ -922,7 +928,7 @@ B   D   D  du D dudu
 
 E   D   D  du D dud    
 A   D   D  du D dud    
-E   D   P  du D dud   P=3xxxxx
+E   D   L  du D dud   L=3xxxxx
 B   D   D  du D dudu  
 
 "His hands ..." 
@@ -937,12 +943,12 @@ E   du D  du D  dudu
 "The horns ..." 
 E   D   D  du D dud   -s52
 A   D   D  du D dudu    
-E   D   P  du D dud   P=3xxxxx
+E   D   L  du D dud   L=3xxxxx
 B   D   D  du D dudu  
 
 E   D   H  du D dud   H=xxxx00 -s60
 A   D   H  du D dudu  H=xxxx10
-E   D   P  du D dud   P=0xxxxx
+E   D   L  du D dud   L=0xxxxx
 B   D   D  du D dudu  
 
 "I saw the spotlight ..." 
@@ -960,12 +966,12 @@ A   D   D  du D dud
 E   D   D  du D dud
 B   D   D  du D dudu
 
-E   D   P  du P uP    P=xxxx00 -s92
-E    du P  ududududu  P=xxxx00
+E   D   H  du H uH    H=xxxx00 -s92
+E    du H  ududududu  H=xxxx00
 
 E   D   D  du D dudu
 A   D   D  du H dud   H=xxxxx0
-E   D   D  du H pudu  H=xxxxx0
+E   D   D  du H hudu  H=xxxxx0
 B*  D   D  du D dud   B*=xxx442
 
 E   D   H  D  D dudu  H=xxxxx0 -s106
@@ -1009,7 +1015,57 @@ E B   Two / quite some Distance from you
 E A E B (until end. :)
 
 ======================================================================
+
+Duke Ellington
+
+    1234567890123456
+E   H                 H=xxxxx3           "I saw the spotlight ..."             
+													  E   D   D  du D dud   -s68				  
+E   D   L  __ D  du   L=0xxxxx			  A*  D   D  du D dud   A*=Asus2 xx3300 
+A   D   Q  __ D  du   Q=x33000			  E*  D   D  du D dud   x22100 			  
+E   D   L  __ D  du   L=0xxxxx			  B   D   D  du D dud  					  
+B   D   D  __ D dudu  						  												  
+													  A   D   D  du D dud  					  
+E   D   L  du D  du   L=0xxxxx			  B   D   D  du D dud  					  
+A   D   Q  du D  du   Q=x33000			  												  
+E   D   H  du D  du   H=xxxxx0			  "in 1962 ..."								  
+B   D   H  du D dud   H=xxxxx2 			  E   D   D  du D dud   					  
+													  A   D   D  du D dud						  
+"The light hit"								  E   D   D  du D dud						  
+E   D   D  du D  du   -s20					  B   D   D  du D dudu						  
+A   D   D  du D  du   						  												  
+E   D   D  du D  du   						  E   D   H  du H uH    H=xxxx00 -s92	  
+B   D   D  du D dudu  						  E    du H  ududududu  H=xxxx00		  
+													  												  
+E   D   D  du D dud    						  E   D   D  du D dudu						  
+A   D   D  du D dud    						  A   D   D  du H dud   H=xxxxx0		  
+E   D   L  du D dud   L=3xxxxx			  E   D   D  du H hudu  H=xxxxx0		  
+B   D   D  du D dudu  						  B*  D   D  du D dud   B*=xxx442		  
+													  												  
+"His hands ..." 								  E   D   H  D  D dudu  H=xxxxx0 -s106  
+E   D   D  du D dud   -s38					  A   D   H  H udududu  H=xxxxx0		  
+A*  D   D  du D dud   A*=Asus2 xx3300	  E   D   D  H udududu  H=xxxxx0		  
+E*  D   D  du D dud   E*=xx2100 			  B   D   D  du dududu						  
+B   D   D  du D dudu  						  												  
+													  E   D   D  du D dud   -s114			  
+E   D   D  du D  uD   -s48					  A*  D   D  du D dudu  A*=xx2200		  
+E   du D  du D  dudu							  E*  D   D  du D dud   E*=xx2100		  
+													  B   D   D  du D dudu						  
+"The horns ..." 								  												  
+E   D   D  du D dud   -s52					  E   D   D  du D U A   -s124			  
+A   D   D  du D dudu    					  A    U  D ud udududu						  
+E   D   L  du D dud   L=3xxxxx			  E   D   D  du D U B						  
+B   D   D  du D dudu  						  B    U  D  ududududu						  
+													  												  
+E   D   H  du D dud   H=xxxx00 -s60		  E   D   D  du D U A						  
+A   D   H  du D dudu  H=xxxx10			  A    U  D  ududududu						  
+E   D   L  du D dud   L=0xxxxx			  E   D   D  ududududu						  
+B   D   D  du D dudu  						  E   D											  
+
+
+======================================================================
 Stable Boy Song
+
 
 1234567812345678
 D  u uD  u uD du
@@ -1090,6 +1146,15 @@ Until you come, I'll keep this place ready for you.
 ======================================================================
 
 Color In Your Cheeks
+
+
+12345678
+D   D DU
+D   D U 
+D   D U 
+D   D U 
+D   D U 
+D D D Du
 
 (1)
 12345678
@@ -1547,10 +1612,14 @@ D A G D    i had never loved anyone like i loved you
 
 Monkey Song - The Mountain Goats
 
-12345678
-d wd ud
+Chords
 
-"Riff"
+C  032010
+G  320033
+Am x02210
+F  133211
+
+Riff
 
 e -------------|
 b 01h0p1h0p1h--|
@@ -1559,53 +1628,75 @@ D -------------|
 E -------------|
 A -------------|
 
-Chords
 
-   EADGbe
-C  032010
-G  320033
-Am x02210
-F  133211
+riff  C F C F 
+     1234567812345678	 
+C 	  D   X dud dud du   
+G 	  D   X u   d u du   
+Am	  D   X u   d u du   
+F 	  D   X u   d u du   
+C 	  D   X u   d u du   
+G 	  D   X u   d u du   
+Am	  D   X u   d u du   
+F 	  D   X u   d u du   
+C 	  D   X u   d u du   
+G 	  D   X u   d u du   
+Am	  D   X u   d u du   
+F 	  D   X riff      
+C 	  D   X u   d u du   
+G 	  D   X dudud d du   
+Am	  D   X u   d u du   
+F 	  D   X u   d u du   
+C 	  D   X u   d u du   
+G	  D   X dududududu   
+
+riff C F C F  
+
+C	  D   X u   d u du   
+G	  D   X u   d u du   
+Am	  D   X u   d u du   
+F	  D   X u   d u du   
+C	  D   X u   d u du   
+G	  D   X u   d u du   
+Am	  D   X u   d u du   
+F	  D   X u   d u du   
+	  						 
+C    D   X dud d d du     There's a
+G	  D   X dud d d du   
+Am	  D   X u   d u du   
+F	  D   X  <riff>      
+C    D   X u   d u du     There's a
+G    D   X dududududu     extra string???????
+Am   D   X u   d u du     How
+F    D   X u   d u du     How
+C    D   X u   d u du     How
+G    D   X dududududu     -s92
+Am	  D   X dud d d d    
+F    D   X dududududu     
+C	  D   X dududuxudu   
+G    D   X dududududu     
+
+riff C F C F C F C
+
 
 C - Riff - F - Riff 
 
-C                          G
 Cool air comes through the venetian blinds
-Am                               F
 And the planets and the heavens are perfectly aligned
-C                          G
 I take in my surroundings, I memorize them all
-Am
 The scuff marks on the stone floor
-F
 The powder burns on the eastern wall
 
-C                       G
 There's a monkey in the basement
-Am                      F
 Where did the monkey come from
-(riff)
-C                       G
 There's a monkey in the basement
-Am                            F
 How did the monkey get there, how did the monkey get there
-C                            G
 How did the monkey get there
 
-(Play Intro)
-
-C                    G
 The animal noises you used to make
-Am             F
 The andalusian coral snake
-C                     G
-All hail when standing beside this room
-Am                     F
+All pale when standing beside this room
 And the heavy hot rains and the sonic boom
-
-(Play Chorus)
-(Play Intro)
-(Play C and hold)
 
 ======================================================================
 
@@ -2485,33 +2576,21 @@ D G       You're gonna fit me for that orange jumpsuit
 D G       Please don't fit me for that orange jumpsuit
 D D A A   Let me ride where the dragonflies glide
 
-                         D                 G
 Yeah but you're going to do what you wanna do
-          D             A
 No matter what I ask of you
-                       D
 You think you hold the high hand
-            G
 I've got my doubts
-            D               A       D
 I come from Chino where the asphalt sprouts
 
-D                                 G
-Big bus headed southeast from the courthouse
-D                                 G
-But I'm not headed southeast from the courthouse
-         D                   A
-Let some mysterious chunk of space debris
-G                     A         
-Puncture the roof and set me free
-
-D
+D G  Big bus headed southeast from the courthouse
+D G  But I'm not headed southeast from the courthouse
+D A  Let some mysterious chunk of space debris
+G A  Puncture the roof and set me free
 
 And even if I have to go to Claremont
 Well I guess I'll just have to go to Claremont
 Let me go
 Let me lie low
-
 
 Yeah but you're going to do what you wanna do
 No matter what I ask of you
@@ -4449,6 +4528,15 @@ Ab). For this vid, I tuned down a whole step (DGCFAD = key of F
 for this song). Cheers
 
 ======================================================================
+treble  G G G G G G G G .
+        . . . . . . . . .
+        E E E E E E E E .
+        . . . . . . . . D
+        . . . . . . . . .
+        . . . . . . . . B
+
+bass    . . . .C. . .C. .
+
 I just can't seem to get it right today
 C       C.E.G
 G      B.D
@@ -5519,11 +5607,12 @@ enough.
 the Mountain Goats - Yam, the King of Crops
 written by John Darnielle
 tab by JBM
+
             12345678
 E xx2100    D x
 
-e-----0-x-------0x--------x-------0x
-B-----0-x-1-0----x------0-x-1-0----x
+e-----0-x-0-0---0x------0-x-0-0---0x
+B-----0-x-1-0-0--x--0-0-0-x-1-0-0--x
 G-----1-x-----2--x--0-2---x-----2--x
 D-----2-x--------x--------x--------x
 A-------x--------x--------x--------x
@@ -5543,9 +5632,6 @@ jjplay -s15 -r.7 "yam+king"
 e------x--------0x--------x-------0x
 B----0-x--1-0----x------0-x-1-0----x
 G-0-2--x------2--x--0-2---x-----2--x
-
-
-
 
 
 E           C
@@ -5575,5 +5661,375 @@ fried garlic, kim chee
 and you brought me a plate of sweet potatoes
 
 ======================================================================
+It Froze Me
+
+e - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+B - - 1 - - - 1 - - - 1 - - - 1 - - - 1 - - - 1 - - - 1 - - - 1 - 0h1
+G - - - - 0 - - - 0 - - - 0 - - - 0 - - - 0 - - - 0 - - - 0 - - - -
+D - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+A - 3 - 3 - 3 - 3 - 3 - 3 - 3 - 3 - 0 - 0 - 0 - 0 - - - - - - - - -
+E - - - - - - - - - - - - - - - - - - - - - - - - - 1 - 1 - 1 - 1 -
+
+this pattern just repeats the whole song.
+
+C C Am F
+C C Am F  i saw you / in the blazing light
+C C Am F  when the lotus caught fire / in the middle of the night
+C C Am F  it froze me / it froze me
+C C Am F
+C C Am F  i saw you / coming closer real slow
+C C Am F  you grabbed hold / i let go
+C C Am F  yeah i saw you / in the blazing light
+C C Am F  i saw you / i saw you alright
+C C Am F  it froze me / it froze me
+C C Am F  it froze me / it froze me
+
+======================================================================
+
+Alpha Omega
+
+Tabbed by Alex Glasnovic (Gray.Fox@Gmail.com)
+
+This can either be plucked or strummed, plucked uses the A and B strings simultaneously. 
+Regardless of which, hammer on and off the B string where appropriate. 
+Listen to it live or the studio recording to get a good idea of when this is done.
+
+capo on 1
+
+F7  131211
+F7  xx1211
+    1234567812345678
+A   D uud uudduudduu
+D   D uud uudduudduu
+A   D uud uudduudduu
+D   D uud uudduudduu
+
+    D uud uud uudduu
+
+
+A Asus4   on the morning you went away
+A Asus4   the air was humid and the sky was gray
+A E A A   I had boiled peanuts for Breakfast from cairo, Georgia
+
+A Asus4   the air was wet, my face was wetter
+A Asus4   the pink flowers along the western window made me feel better
+A Asus4   i turned the air conditioner on
+A Asus4   found the note on scented stationary - you were long gone
+A E A A   I had boiled peanuts for breakfast from cairo, georgia
+
+A Asus4   i popped the top off of the aluminum can
+A Asus4   let the brine slide down my fingers, man
+A Asus4   it was warm, it was warm on my skin
+A Asus4   but i felt the cold blast looming on in
+A E A A   i had boiled peanuts for breakfast from cairo, georgia
+
+======================================================================
+Alpha Double Negative: Going to Catalina
+
+Tabbed by FlyOnTheWall
+
+This sounds better than the tab that was previously on
+here. Also, if you want it to sound like it does on Songs for
+Petronius, tune a half step down (Eb/Ab/Db/Gb/Bb/Eb).
+
+Standard Chords
+D udu D udu D  ud udu D udu D     I see
+
+D chord riff
+
+e ----3-2-0---
+B ----------3-
+G -----------2
+
+up again:
+12345678123456781234567812345678
+D  du D  du D  du ----2-3-2-----
+                  ---3-------3---
+                  -2-----------2-
+
+deck:
+12345678123456781234567812345678
+D  du D  du D  du S 222-2-------
+                    ----3-3-3---
+                    --------2-2-
+                    ----------0-
+
+carry:
+12345678123456781234567812345678
+D  du D  du S  du 3-2-0-2-0-----
+                  ----------3---
+                  ------------2-
+
+neck:
+12345678123456781234567812345678
+D  du D udu D  uD ----2-222-0---
+                  --3---------3-
+                  2-------------
+
+and I know what you're saying
+D u u D u u D u
+2-0-0-2-0-0-3-0- x 4
+3-3-3-3-3-3-3-3-
+
+and I know what you're saying it for 
+D u u D u u D u       D u u D u u D u  
+0-0-0-0-0-0-0-0- x 2  2-0-0-2-0-0-3-0- x 2
+2-0-0-2-0-0-3-0-      3-3-3-3-3-3-3-3-
+
+and I know what you're saying
+D u u D u u D u
+2-0-0-2-0-0-3-0- x 8
+3-3-3-3-3-3-3-3-
+
+
+anymore:
+D=A u=Asus2 v=Asus4
+12345678123456781234567812345678
+D u u D u u D v D upu D u u D v
+
+D u u D u u D v 3-2-0-----0-2-3
+                ------3--------
+                ---------------
+
+
+
+A
+
+D u u D u u D u
+0-0-0-0-0-0-0-0-
+2-0-0-2-0-0-3-0-
+
+
+
+
+riff D G
+
+rrrrr d du d 
+
+12345678123456781234567812345678
+D  du D  du D  dD  du D  du D
+D  du D  du D  du  riff
+
+12345678123456781234567812345678
+
+D  du D  du D  uD  du D  du D     I hear you starting
+D  du D  du D  du  riff
+D udu D udu D  ud  du D  du D     I see you standing
+D udu D udu D  du  riff
+D udu D udu D  ud  du D  du D     I hear your voice start
+D udu D udu D  du  riff
+D udu D udu D  ud  du D  du D     I see the veins 
+D udu D udu D  ud  du D  du D
+
+
+D  du D  u d u D  du D  u d u     I hear your voice getting stronger and louder
+
+
+D udu D udu D Du  (maybe repeat that?)
+
+
+D D D D      And I know what you're saying
+A A D D      And I know what you're saying it for
+D D D D      But I'm not listening
+E G D riff   I'm not listening anymore
+
+
+
+riff
+ 
+G G D riff   I hear you starting up again
+G G D riff   I see you standing on the deck
+G G D riff   I hear your voice start to carry
+G G D D      I see the veins throbbing in your neck
+A G D riff   And I know what you're saying
+A G D riff   And I know what you're saying it for
+A G D E      But I'm not listening
+G G D riff   I'm not listening anymore
+
+G G D riff   And I see you come toward me
+G G D riff   I see the sun climb down the sky
+(come in to the next line a beat sooner to fit the "and louder")
+G G D riff   I hear you voice getting stronger and louder
+G G D D      I see a stranger in your eyes
+A G D riff   And I know what you're saying
+A G D riff   And I know what you're saying it for
+A G D E      But I'm not listening
+G G D riff   I'm not listening anymore
+
+G G D riff
+G
+
+
+======================================================================
+
+1234567812345678
+D dud  D D ud
+D dud uD D ud du
+======================================================================
+Tabbed by Jonathon (jonovox at gmail dot com)
+
+A Dsus2-A A E-Dsus2 Dm A E
+
+A Dsus2-A
+A E-Dsus2
+Dm A
+A E-A
+
+Dsus2 A E E
+
+
+
+A                 Dsus2        A
+Whipped like a dog, down on the cards
+A		       E             Dsus2
+Square in the spotlight sweating real hard
+Dm			     A
+All soaked in blood like a newborn babe
+A                                              E    A
+Sharp thing hidden in my hand shaped like an astrolabe
+
+Dsus2		       A		    E
+Gonna stick you in the eye with a foreign object
+Dsus2		       A		    E
+Gonna poke you in the eye with a foreign object
+
+A Dsus2 Dm
+A Dsus2 Dm
+
+March through the red mist, never get my vision clear
+Learn to love this kind of atmosphere
+Strike funny poses, keep my weapon hand low
+Whip my head around a little, get blood on the front row
+
+Gonna jab you in the eye with a foreign object
+I personally will stab you in the eye with a foreign object
+Foreign object, foreign object, foreign object
+
+Sink my teeth into your scalp, take a nice big bite
+Save nothing for the cameras, play the angles all night
+One of these days my legs will both snap like twigs
+If you can't beat 'em make 'em bleed like pigs
+
+I'm gonna jab you in the eye with a foreign object
+I'm gonna stab you in the eye with a foreign object
+
+A Dsus2 A E A
+
+A	      Dsus2   A    E         Dsus2
+Ba, ba da da, ba ba ba da, foreign object
+Ba, ba da da, ba ba ba da, foreign object
+Ba, ba da da, ba ba ba da, foreign object
+======================================================================
+tabs:commandante
+the Mountain Goats
+Commandante
+Devil In The Shortwave
+Originally tabbed by Russ Sweetser (yarzrevenge@yahoo.com)
+Revised by Matt Hall (death_list5@hotmail.com)
+
+The previous tab of this song said you could play with a capo on the first fret.
+That would be the easiest way to play along, but this pitch only matches 
+that of the vinyl rip circulating online.
+I've been told that the record is actually a half step lower in pitch.
+This would explain the "younger" sound of John's voice that people have mentioned.
+Playing it the way I have here will match the actual record,
+as well as live performances of the song.
+So, in reality, go ahead capo the first fret, but only if you want to match the incorrect vinyl rip.
+I'll admit, I am quite fond of the sound, but nonetheless, it is wrong.
+
+
+Also, on the G chord between verses and on the C chord
+of the outro, John plays a little lick. 
+It would look like this:
+e---------
+B---------
+G---------
+D---------
+A-3-2-0---
+E-------3-
+Easiest way to do this is to keep your hand in the G position, but move your 
+index and middle fingers up to the A and D strings, allowing you to quickly 
+jump back down to G. I'll use a * to indicate when to play the lick.
+Also, throughout most of the song, when you play a C, hold the G note on the 
+high e string. I don't believe he holds it on any other chord except for G.
+The C you should play looks like this:
+e-3-------
+B-1-------
+G-0-------
+D-2-------
+A-3-------
+E---------
+
+
+          G                       D
+I'm gonna drink more whiskey than Brendan Behan.
+              C                         G
+and I'm gonna send my belongings all to Tripoli.
+              C            G
+and i'm gonna ride home to California
+D      C           G*
+with a banjo on my knee.
+
+    G                       D 
+I'm never gonna turn off the television.
+               C              G
+I'm just gonna let it run all night.
+          C                       G
+I'm gonna plant root vegetables out in the backyard
+         D                    D
+and come summer I am going to treat you right
+   C                        G
+so put on your chairman mao coat
+    C               G
+and let me clear my throat
+     Bm                    C
+lets turn this whole town upside down 
+                                        D
+and shake it 'til the coins come falling out of its pockets,
+     C                       G
+yeah put on your che guevara pin.
+C                  G
+call the troops on in.
+            Em                     D            C              G*
+we're gonna sail through the night sky like a pair of bottle rockets.
+
+        G                         D       
+I got a great big secret written down somewhere.
+        C                    G 
+I got a rosary to protect us both from harm.
+        C                      G
+I got a storage locker full of cow figurines
+      D                           D
+and a laundry list of grievances longer than my arm.
+         C                    G
+and i am never going back to Cincinnati.
+         C                                      G
+all those bridges have been burned down to the ground.
+          C                       G
+i got the jet pack strapped to my back
+         D                        D
+and i am waiting for you to come around.
+     C                         G
+yeah put on your chairman mao coat
+    C                G
+and let me clear my throat
+     Bm                    C
+lets turn this whole place upside down 
+    C                                     D
+and shake it 'til the coins come falling out of its pockets,
+     C                        G
+yeah put on your che guevara pin.
+   C              G
+call the troops on in.
+            Em                D    (pause)                    G*
+we're gonna sail through the night sky like a pair of bottle rockets.
+
+G D C* G C* G D C* G C* G C* G D G
+(listen to the song to get the timing for this end part)
+
 ======================================================================
 ======================================================================
+======================================================================
+======================================================================
+======================================================================
+Tabbed
