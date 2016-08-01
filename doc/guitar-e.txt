@@ -1581,8 +1581,6 @@ d   d  du d  du
 12345678123456781234567812345678
 d   d  du d d d d   d     d   du
 
-Capo at 6 or tuned half step down (D# G# C# F#  A# D#)
-Instead of an A, you can also play Asus4.
 
 Intro/between verses:
  E|--2-------3-2-0-2--3--|
@@ -1591,6 +1589,80 @@ Intro/between verses:
  D|--0-------0-0-0-0--0--|
  A|-------------------2--|
  E|-------------------3--|
+
+
+Capo at 6 or tuned half step down (D# G# C# F#  A# D#)
+Instead of an A, you can also play Asus4.
+
+
+Intro/between verses:
+     12345678123456781234567812345678
+     D  D   Du D D D D  D  Du  D DuD 
+ E|--2--2---23-2-0-2-3---------------|
+ B|--3--3- -33-3-3-3-3---------------|
+ G|--2--2---22-2-2-2-0---------------|
+ D|----------------------------------|
+ A|-------------------------------2--|
+ E|-------------------------------3--|
+
+x 4
+
+D    D  D   Du D D D
+G    D  D  Du  D DuD 
+D    D  D   Du D D D
+G    D  D  Du  D DuD 
+D    D  D  DuD D D D
+G    D  D  Du  D DuD 
+D    D  D   Du D D D
+G    D  D  Du  D DuD 
+
+
+    1234567801235678
+D   D  D  du  D dud   The trees were
+Em  D  D  du  D dud
+A   D  D  du  D dud
+G   D  D  du  D dud
+D   D  D  du  D dud   When you eased 
+Em  D  D  du  D dud
+A   D  D  du  D dud
+G   D  D  du  D dud
+D   D  D  du  D dud   And gently 
+A   D  D  du  D dud
+D   D  D  du  D u D   The constellations
+G   D  D  du  D dud
+D   D  D  du  D dud   And as we crossed over
+A   D  D  du  D dud
+G   D  D u  u D  Du   Something on my mind
+D   D  D  dud D D D   riff
+G   D  D  Du  D DuD 
+D   D  D Dududududu
+G   D  D  Du  D DuD 
+
+D   D  D  du  D dud   When we rolled down
+Em  D  D  du  D dud   
+A   D  D  du  D dud   in the cool of the morning
+G   D  D  du  D dud
+D   D  D  du  D dud   I could feel the new
+Em  D  D  du  D dud
+A   D  D  du  D dud   and somebody'd gone and
+G   D  D  du  D dud
+
+D   D  D  dud D dud    Slowly
+A   D  D  dud D dud    surely
+D   D  D  dud D dud    I saw the whole story
+G   D  D  dud D dud
+D   D  D  dud D dud    I had never loved 
+A   D  D  dud D dud
+G   D  D u  u D  Du    Something on my mind
+D   D  D  DuD D D D    riff
+G   D  D  ududududu
+D   D  D Dududududu
+G   D  D  ududududu
+D   D  D Dududududu
+G   D  D  ududududu
+D   D  D Dududududu
+G   D
+
 
 D Em A G   the trees were all decked out in their best fall colors
               there was a snap in the air
@@ -1663,7 +1735,7 @@ F	  D   X u   d u du
 	  						 
 C    D   X dud d d du     There's a
 G	  D   X dud d d du   
-Am	  D   X u   d u du   
+Am	  D   X u   d u du     Where did the monkey come from
 F	  D   X  <riff>      
 C    D   X u   d u du     There's a
 G    D   X dududududu     extra string???????
