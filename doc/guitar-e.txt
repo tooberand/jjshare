@@ -46,7 +46,6 @@ x65343  Eb
 
 ======================================================================
 work on:
-going to port washington
 Going to Marrakesh
 Seed Song
 Come on in
@@ -63,10 +62,40 @@ Coroner's Gambit
 Moon over Goldsboro
 Thought about you a Little
 Your belgian things (acoustic guitar version)
-Chesire County
-Going to Queens
+Cheshire County (palm mute and riff "saying my name backwards" short)
+Going to Queens (riff, short "in nyc in the middle of july")
 Coco Yam Song
 Cut Off Their Thumbs #1 (I'm gonna kill everybody in this room)
+
+internet suggestion
+-------------------
+Short Song for Justin Bieber and His Paparazzi
+Weekend In Western Illinois 
+First Few Desperate Hours 
+Linda Blair Was Born Innocent 
+Letter from Belgium 
+- Jam Eater Blues 
+- We were patriots 
+first. None of them require more than three chords (depending on the adaptation of them) 
+Then 
+- No children 
+- Mess Inside 
+- Jenny 
+- Fault Lines 
+Palmcorder Yajna : just a great song to play acoustically and isn't hard at all.
+Going to alaska 
+Magpie (great for practicing chord changes, too) 
+Crows 
+Dutch Orchestra Blues 
+Game Shows Touch Our Lives 
+Narakaloka 
+Korean Bird Paintings 
+This is a great thread. I would also throw in: 
+Twin Human Highway Flares 
+Alpha Rats Nest (great for learning to do quick changes) 
+Tallahassee 
+Going to San Diego 
+The Mess Inside
 
 
 interesting but has other instruments:
@@ -461,67 +490,6 @@ C    D
 
 ======================================================================
 
-Old College Try -- The Mountain Goats
-
-play open chords
-C#m x46654
-F#m 244222
-
-(1)
-1.2.3.4.5.6.7.8.
-D   D udu D udu
-
-(2)
-1.2.3.4.5.6.7.8.
-D D D   D D D du
-
-(3)
-1.2.3.4.5.6.7.8.
-D   D duD D D D
-
-(4)
-1.2.3.4.5.6.7.8.
-D   D D D DUD DU
-
-(5)
-1.2.3.4.5.6.7.8.
-D   D  Du D udu
-
-A C#m D E-D (1,1,1,2)
-A F#m D E   (1,1,3,1)
-
-A C#m  From the housetops to the gutters
-D E-D  From the ocean to the shore (1,2)
-A F#m  The warning signs have all been bright and garish
-D E    Far too great in number to ignore
-
-A C#m  From the cities to the swamplands
-D E-D  From the highways to the hills (1,2)
-A F#m  Our love has never had a leg to stand on
-D E    From the aspirins to the cross-tops to the Elevils
-D E A D   But I will walk down to the end with you 
-A E A A   If you will come all the way down with me
-
-A C#m     From the entrance to the exit
-D E-D     Is longer than it looks from where we stand (1,2)
-A F#m     I want to say I'm sorry for stuff I haven't done yet
-D E       Things will shortly get completely out of hand
-A C#m     I can feel it in the rotten air tonight
-D E       In the tips of my fingers / In the skin on my face
-A F#m     In the weak last gasp of the evening's dying light
-D E       In the way those eyes I've always loved illuminate this place
-D E       Like a trashcan fire in a prison cell
-A D       Like the searchlights in the parking lots of hell
-A E A D   I will walk down to the end with you (1,1,5,5)
-A E A A   If you will come all the way down with me
-
-A C#m D E-D (1,1,1,2)
-A F#m D E (1,1,3,1)
-D E A-Asus2 D (1,1,4,1)
-A E A.
-
-======================================================================
-
 Pinklon -- The Mountain Goats
 
 1234567812345678
@@ -743,165 +711,6 @@ D A D D       to the bright ringing drone of eight-bit choirs
 
 G A D G       yeah when you came in I could breathe again
 D A D D      
-======================================================================
-
-Minnesota -- The Mountain Goats
-
-I just tried to edit the existing tab, which was close to correct
-but has a few problems.  The biggest thing is that it was missing 
-the Am during the chorus part, and just had a C.  You can hear he
-does a walkdown on the A string from C to Am. !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-
-intro
-
-     1234567812345678
-G    D  u uD   d du
-Em   H  u uD   d du   H=hammer4
-D    H  u uH  u ud    H=hammer1            jjplay -s6 -r.8 minnesota
-C    d  d  d __ dud
-
-G    D  u uD   d du   high on 2nd D
-Em   Hudu uD   d du   hammer4
-D    H  u uH  u udu   hammer1             jjplay  -s15 -r.8 minnesota
-C    d du ud ud dud
-
-"seeds came ..."
-G    D  u uD  u uD du   -s20
-Em   H    uD  u uD du  hammer4
-D    H  u uH  u uDudu  hammer1 -s25
-C    d  u uD  u uDud
-
-"all sorts ..."
-G    D  u uD    uD  u   -s30
-Em   D  _  D  u uD du  hammer4
-D    H  u uD     D  u  hammer1 -s35 weird
-C    D  u uD     D  u
-
-"I circled"
-C    D    uD     D     -s39
-D    D    uD    uD  
-G    D     D   u D     -44
-C    D  u uD  P uDudu  P=xxx013
-
-"stared..."
-Am   D  u uD  u uD du  -49
-D    D  u uD  vpvpvpv  vp=xx0233
-G    D  u uD d d d     -54
-C    D  u uD  u uD du
-
-"my god..."
-Am   D  u uD    uD  u  -58
-D    D  u uD  vpvpvpv  vp=xx0233
-G    D  u uD  u uD du  -63
-C    D  u uD  vpvpvpv  vp=xx2013
-
-"the House..."
-Am   D  u uD  u uD du  -s67
-D    Dududud  vpvpvpv  vp=xx0233
-G    D  u uD  u uD du  -s72
-C    P  u uD  D udud   vp=xx2010
-
-G    D  u uD     d du  -s76
-Em   Dudu uD     d du  x22000
-D    H  uduH  uduH u   H=hammer1             -s81
-C    d  u  D  udududu
-
-G    Dudu uD     d du
-Em   Dudu uD     d du
-D    H  u uH  uduD u   H=hammer1             -s90
-C    D  u uD  u uDudu
-
-"and then you're singing..."
-     1234567890123456
-G    D  u uD  u uD du         -s95
-Em   D  u uD  u uD du
-D    H udu H udu D du         -s99
-C    D  u uD  d uD du
-
-"it seemed so old..."
-G    D  u uD  u uD du         -s104
-Em   D  u uD  u uD du
-D    H  u uH  u uD du
-C    D  u uD  u uDudu
-
-"we may throw..."
-Am   D  u uD  u uD du     -s114
-D    D  u uD  u uD du
-G    D  u uD  u uD du
-C    D  u uD  u uDudu
-
-"hot wind coming off..."  -s124
-Am   D  u uD     D du
-D    D  u uD  vpvpvpv  vp=xx0233
-G    D  u uD  u uD du
-C    D  u uD  u uD du
-
-"while we stay here..."
-Am   D  u uD  u uD du    -s132
-D    D  u uD  u vpvpv  vp=xx0233
-G    D  ud D  ud D du    -s136
-C    Dudud dudud d du   revisit
-
-"there's something waiting for us..."
-Am   D  u uD  u uD du    -s141
-D    D  u uD  u vpvpv  vp=xx0233
-G    D  du D  uduD du    -s145
-C    D  du D  uduD du
-
-"just the old blood..."
-G    D  u uD     D du  -s150
-D    D  uduD  u uD du
-G    D  u uD  u uDudu
-C    D  u uD  u uDudu  P=xxx013
-
-G    D  u uD   d du   -s159
-Em   Dudu uD   d du  
-D    H  u uH  u uD d    hammer1            jjplay -s6 -r.8 minnesota
-C    d  u uD  u ududu
-
-G    Dudu uD     D du   -s168
-Em   Dudu uD     D du  
-D    H  u uH  u uD d
-C    D  u uD  uduDud
-
-G    D 
-
-
-
-G Em   Seeds came in the mail today from Holland 
-D C    and the Language on the package / is Wonderful and strange
-G Em   All sorts of flowers / that Grow up from the earth
-D C    _ in goodly colors / Gloriously arranged
-
-C D    I circled the house and i Scattered them around
-G C    let the Water sink down into the Soil
-Am D   _ stared a long time at the Residue
-G C    _ blood, milk and Oil
-Am D   God the humidity is something
-G C    Our shirts are soaked clean through
-Am D   the House is throbbing and the Heat keeps coming
-G C    And i keep looking at You
-
-G Em Dsus C    
-
-G Em   and then you're singing in dutch to me
-D C    and i recognize the song
-G Em   it seems so old and so fragile 
-D C    and i haven't heard it in so long
-Am D   we may throw the windows open later
-G C    but we are not as far west as you suppose we are
-Am D   hot wind coming off the water
-G C    the sky gone crazy with stars
-Am D   while we stay here we imagine we're alive
-G C    we see shadows on the walls
-Am D   there's something waiting for us in the hot, wet air
-G C    sweat, water and alcohol
-
-G D    just the old blood rising up through the wooden floor again
-G C    just the old love asking for more again 
-
-G Em D* C (x2)
 
 ======================================================================
 
@@ -1145,77 +954,203 @@ Until you come, I'll keep this place ready for you.
 
 ======================================================================
 
-Color In Your Cheeks
+Going To Port Washington
+
+Tabbed by Alex Glasnovic (Gray.Fox@gmail.com) Revised by YetixHunting (bertino@fordham.edu) Revised by Mark Block (anna8181@gmx.net)
+
+1234567812345678
+d   d  du d  du 
+
+12345678123456781234567812345678
+d   d  du d d d d   d     d   du
 
 
-12345678
-D   D DU
-D   D U 
-D   D U 
-D   D U 
-D   D U 
-D D D Du
+Intro/between verses:
+ E|--2-------3-2-0-2--3--|
+ B|--3-(x4)--3-3-3-3--3--|
+ G|--2-------2-2-2-2--0--|
+ D|--0-------0-0-0-0--0--|
+ A|-------------------2--|
+ E|-------------------3--|
 
-(1)
-12345678
-D   D DU
-(2)
-12345678
-D D D DU
-(33)
-1234567890123456
-D D D DUDUD D DU
+Capo at 6 or tuned half step down (D# G# C# F#  A# D#)
+Instead of an A, you can also play Asus4.
 
-(He plays all barre chords in the mini desk concert video.)
+Intro/between verses:
+     12345678123456781234567812345678
+     D  D   Du D D D D  D  Du  D DuD 
+ E|--2--2---23-2-0-2-3---------------|
+ B|--3--3- -33-3-3-3-3---------------|
+ G|--2--2---22-2-2-2-0---------------|
+ D|----------------------------------|
+ A|-------------------------------2--|
+ E|-------------------------------3--|
 
-tabbed by russ sweetser (yarzrevenge@yahoo.com)
 
-C#m G# A B   she came in on the redeye to dallas-fort worth. (1111)
-E G# A B     all the way from sunny taipei. (1112)
-C#m G# A B   skin the color of a walnut shell, (1111)
-E G# A B     and a baseball cap holding down her black hair. (1112)
-A A B B      and she came here after midnight. (2233)
-E E A A      the hot weather made her feel right at home. (2222)
-E E A A      come on in, we haven't slept for weeks. (2222)
-E E A B      drink some of this. it'll put color in your cheeks. (2222)
+intro (D riff)
 
-C#m G# A B   he drove in from mexicali, no worse for wear.
-E G# A B     money to burn, time to kill.
-C#m G# A B   but five minutes looking in his eyes
-E G# A B     and we all knew he was broken pretty bad, so we gave him what we
-A A B B      had.  we cleared a space for him to sleep in, and we let the
-E E A A      SIlence that's our trademark MAKE its presence felt.
+D    D  D   Du D D D
+G    D  D  Du  D DuD 
+D    D  D   Du D D D
+G    D  D  Du  D DuD 
+D    D  D  DuD D D D
+G    D  D  Du  D DuD 
+D    D  D   Du D D D
+G    D  D  Du  D DuD 
 
-E E A A      come on in, we haven't slept for weeks.
-E E A B      drink some of this. it'll put color in your cheeks.
 
-C#m G# A B (2222)
-C#m G# A B (2222)
-E E B B    (3322)
+    1234567801235678
+D   D  D  du  D dud   The trees were all decked out in their best fall colors 
+Em  D  D  du  D dud   
+A   D  D  du  D dud   There was a snap in the air
+G   D  D  du  D dud   
+D   D  D  du  D dud   When you eased down the window
+Em  D  D  du  D dud
+A   D  D  du  D dud   And the NY sun brought out the highlights in your hair
+G   D  D  du  D dud
+D   D  D  du  D dud   And gently, gently
+A   D  D  du  D dud
+D   D  D  du  D u D   The constellations aligned
+G   D  D  du  D dud
+D   D  D  du  D dud   And as we crossed over the Throgg's Neck Bridge
+A   D  D  du  D dud
+G   D  D u  u D  Du   I had something on my mind
+D   D  D  dud D D D   riff
+G   D  D  Du  D DuD 
+D   D  D Dududududu
+G   D  D  Du  D DuD 
 
-C#m G# A B   they came in by the dozens, walking or crawling.
-E G# A B     some were bright-eyed.  some were dead on their feet.
-C#m G# A B   and they came from zimbabwe,  or from soviet georgia.
-E G# A B     east saint louis, or from paris, or they lived across the street.
-A A B B      but they came, and when they'd FINALLY made it here,
-E E A A      it was the least that we could do to make our welcome clear.
+D   D  D  du  D dud   When we rolled down the street
+Em  D  D  du  D dud   
+A   D  D  du  D dud   in the cool of the morning
+G   D  D  du  D dud
+D   D  D  du  D dud   I could feel the new day dawn
+Em  D  D  du  D dud
+A   D  D  du  D dud   and somebody'd gone and turned the waterworks on
+G   D  D  du  D dud
 
-E E A A      come on in, we haven't slept for weeks.
-E E A B      drink some of this. this'll put color in your cheeks.
+D   D  D  dud D dud    and slowly, surely
+A   D  D  dud D dud    
+D   D  D  dud D dud    I saw the whole story unwind
+G   D  D  dud D dud
+D   D  D  dud D dud    I had never loved anyone like i loved you
+A   D  D  dud D dud
+G   D  D u  u D  Du    and i had something on my mind
+D   D  D  DuD D D D    riff
+G   D  D  ududududu
+D   D  D Dududududu
+G   D  D  ududududu
+D   D  D Dududududu
+G   D  D  ududududu
+D   D  D Dududududu
+G   D
 
---------------------
-one alternate, from kris harsh
-i play this with C#m and G#m instead of the majors.
---------------------
 
-I use the first tab here, but I think the outro chords should be listed too:
-E A E A E B
-C#m G# A B
-C#m G# A B
-C#m G# A B
-E
+D Em A G   the trees were all decked out in their best fall colors
+              there was a snap in the air
+D Em A G   when you eased down the window
+              and the new york sun brought out the highlights in your hair
+D A D G    and gently, gently / the constellations aligned
+D A G D    and as we crossed over the throgs neck bridge i had
+              something on my mind
 
-all of the Es here are x7999x
+D Em A G   when we rolled down the street / in the cool of the morning
+D Em A G   i could feel the new day dawn
+              and somebody had gone and turned the waterworks on
+D A D G    and slowly, surely / i saw the whole story unwind
+D A G D    i had never loved anyone like i loved you
+              and i had something on my mind
+
+
+======================================================================
+
+Monkey Song - The Mountain Goats
+
+Chords
+
+C  032010
+G  320033
+Am x02210
+F  133211
+
+Riff
+
+e xy------------|
+b ---01h01h01h--|
+G -------------0|
+D --------------|
+E --------------|
+A ---------------|
+
+
+riff  C F C F 
+     1234567812345678	 
+C 	  D   X dud dud du   
+G 	  D   X u   d u du   
+Am	  D   X u   d u du   
+F 	  D   X u   d u du   
+C 	  D   X u   d u du   
+G 	  D   X u   d u du   
+Am	  D   X u   d u du   
+F 	  D   X u   d u du   
+C 	  D   X u   d u du   
+G 	  D   X u   d u du   
+Am	  D   X u   d u du   
+F 	  D   X riff      
+C 	  D   X u   d u du   
+G 	  D   X dudud d du   
+Am	  D   X u   d u du   
+F 	  D   X u   d u du   
+C 	  D   X u   d u du   
+G	  D   X dududududu   
+
+riff C F C F  
+
+C	  D   X u   d u du   
+G	  D   X u   d u du   
+Am	  D   X u   d u du   
+F	  D   X u   d u du   
+C	  D   X u   d u du   
+G	  D   X u   d u du   
+Am	  D   X u   d u du   
+F	  D   X u   d u du   
+	  						 
+C    D   X dud d d du     There's a
+G	  D   X dud d d du   
+Am	  D   X u   d u du     Where did the monkey come from
+F	  D   X  <riff>      
+C    D   X u   d u du     There's a
+G    D   X dududududu     extra string???????
+Am   D   X u   d u du     How
+F    D   X u   d u du     How
+C    D   X u   d u du     How
+G    D   X dududududu     -s92
+Am	  D   X dud d d d    
+F    D   X dududududu     
+C	  D   X dududuxudu   
+G    D   X dududududu     
+
+riff C F C F C F C
+
+
+C - Riff - F - Riff 
+
+Cool air comes through the venetian blinds
+And the planets and the heavens are perfectly aligned
+I take in my surroundings, I memorize them all
+The scuff marks on the stone floor
+The powder burns on the eastern wall
+
+There's a monkey in the basement
+Where did the monkey come from
+There's a monkey in the basement
+How did the monkey get there, how did the monkey get there
+How did the monkey get there
+
+The animal noises you used to make
+The andalusian coral snake
+All pale when standing beside this room
+And the heavy hot rains and the sonic boom
 
 ======================================================================
 
@@ -1422,6 +1357,301 @@ please correct it if it's wrong. Cheers/enjoy. -Dan Demmitt
 
 
 ======================================================================
+
+Minnesota -- The Mountain Goats
+
+I just tried to edit the existing tab, which was close to correct
+but has a few problems.  The biggest thing is that it was missing 
+the Am during the chorus part, and just had a C.  You can hear he
+does a walkdown on the A string from C to Am. !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+intro
+
+     1234567812345678
+G    D  u uD   d du
+Em   H  u uD   d du   H=hammer4
+D    H  u uH  u ud    H=hammer1            jjplay -s6 -r.8 minnesota
+C    d  d  d __ dud
+
+G    D  u uD   d du   high on 2nd D
+Em   Hudu uD   d du   hammer4
+D    H  u uH  u udu   hammer1             jjplay  -s15 -r.8 minnesota
+C    d du ud ud dud
+
+"seeds came ..."
+G    D  u uD  u uD du   -s20
+Em   H    uD  u uD du  hammer4
+D    H  u uH  u uDudu  hammer1 -s25
+C    d  u uD  u uDud
+
+"all sorts ..."
+G    D  u uD    uD  u   -s30
+Em   D  _  D  u uD du  hammer4
+D    H  u uD     D  u  hammer1 -s35 weird
+C    D  u uD     D  u
+
+"I circled"
+C    D    uD     D     -s39
+D    D    uD    uD  
+G    D     D   u D     -44
+C    D  u uD  P uDudu  P=xxx013
+
+"stared..."
+Am   D  u uD  u uD du  -49
+D    D  u uD  vpvpvpv  vp=xx0233
+G    D  u uD d d d     -54
+C    D  u uD  u uD du
+
+"my god..."
+Am   D  u uD    uD  u  -58
+D    D  u uD  vpvpvpv  vp=xx0233
+G    D  u uD  u uD du  -63
+C    D  u uD  vpvpvpv  vp=xx2013
+
+"the House..."
+Am   D  u uD  u uD du  -s67
+D    Dududud  vpvpvpv  vp=xx0233
+G    D  u uD  u uD du  -s72
+C    P  u uD  D udud   vp=xx2010
+
+G    D  u uD     d du  -s76
+Em   Dudu uD     d du  x22000
+D    H  uduH  uduH u   H=hammer1             -s81
+C    d  u  D  udududu
+
+G    Dudu uD     d du
+Em   Dudu uD     d du
+D    H  u uH  uduD u   H=hammer1             -s90
+C    D  u uD  u uDudu
+
+"and then you're singing..."
+     1234567890123456
+G    D  u uD  u uD du         -s95
+Em   D  u uD  u uD du
+D    H udu H udu D du         -s99
+C    D  u uD  d uD du
+
+"it seemed so old..."
+G    D  u uD  u uD du         -s104
+Em   D  u uD  u uD du
+D    H  u uH  u uD du
+C    D  u uD  u uDudu
+
+"we may throw..."
+Am   D  u uD  u uD du     -s114
+D    D  u uD  u uD du
+G    D  u uD  u uD du
+C    D  u uD  u uDudu
+
+"hot wind coming off..."  -s124
+Am   D  u uD     D du
+D    D  u uD  vpvpvpv  vp=xx0233
+G    D  u uD  u uD du
+C    D  u uD  u uD du
+
+"while we stay here..."
+Am   D  u uD  u uD du    -s132
+D    D  u uD  u vpvpv  vp=xx0233
+G    D  ud D  ud D du    -s136
+C    Dudud dudud d du   revisit
+
+"there's something waiting for us..."
+Am   D  u uD  u uD du    -s141
+D    D  u uD  u vpvpv  vp=xx0233
+G    D  du D  uduD du    -s145
+C    D  du D  uduD du
+
+"just the old blood..."
+G    D  u uD     D du  -s150
+D    D  uduD  u uD du
+G    D  u uD  u uDudu
+C    D  u uD  u uDudu  P=xxx013
+
+G    D  u uD   d du   -s159
+Em   Dudu uD   d du  
+D    H  u uH  u uD d    hammer1            jjplay -s6 -r.8 minnesota
+C    d  u uD  u ududu
+
+G    Dudu uD     D du   -s168
+Em   Dudu uD     D du  
+D    H  u uH  u uD d
+C    D  u uD  uduDud
+
+G    D 
+
+
+
+G Em   Seeds came in the mail today from Holland 
+D C    and the Language on the package / is Wonderful and strange
+G Em   All sorts of flowers / that Grow up from the earth
+D C    _ in goodly colors / Gloriously arranged
+
+C D    I circled the house and i Scattered them around
+G C    let the Water sink down into the Soil
+Am D   _ stared a long time at the Residue
+G C    _ blood, milk and Oil
+Am D   God the humidity is something
+G C    Our shirts are soaked clean through
+Am D   the House is throbbing and the Heat keeps coming
+G C    And i keep looking at You
+
+G Em Dsus C    
+
+G Em   and then you're singing in dutch to me
+D C    and i recognize the song
+G Em   it seems so old and so fragile 
+D C    and i haven't heard it in so long
+Am D   we may throw the windows open later
+G C    but we are not as far west as you suppose we are
+Am D   hot wind coming off the water
+G C    the sky gone crazy with stars
+Am D   while we stay here we imagine we're alive
+G C    we see shadows on the walls
+Am D   there's something waiting for us in the hot, wet air
+G C    sweat, water and alcohol
+
+G D    just the old blood rising up through the wooden floor again
+G C    just the old love asking for more again 
+
+G Em D* C (x2)
+
+======================================================================
+
+Old College Try -- The Mountain Goats
+
+play open chords
+C#m x46654
+F#m 244222
+
+(1)
+1.2.3.4.5.6.7.8.
+D   D udu D udu
+
+(2)
+1.2.3.4.5.6.7.8.
+D D D   D D D du
+
+(3)
+1.2.3.4.5.6.7.8.
+D   D duD D D D
+
+(4)
+1.2.3.4.5.6.7.8.
+D   D D D DUD DU
+
+(5)
+1.2.3.4.5.6.7.8.
+D   D  Du D udu
+
+A C#m D E-D (1,1,1,2)
+A F#m D E   (1,1,3,1)
+
+A C#m  From the housetops to the gutters
+D E-D  From the ocean to the shore (1,2)
+A F#m  The warning signs have all been bright and garish
+D E    Far too great in number to ignore
+
+A C#m  From the cities to the swamplands
+D E-D  From the highways to the hills (1,2)
+A F#m  Our love has never had a leg to stand on
+D E    From the aspirins to the cross-tops to the Elevils
+D E A D   But I will walk down to the end with you 
+A E A A   If you will come all the way down with me
+
+A C#m     From the entrance to the exit
+D E-D     Is longer than it looks from where we stand (1,2)
+A F#m     I want to say I'm sorry for stuff I haven't done yet
+D E       Things will shortly get completely out of hand
+A C#m     I can feel it in the rotten air tonight
+D E       In the tips of my fingers / In the skin on my face
+A F#m     In the weak last gasp of the evening's dying light
+D E       In the way those eyes I've always loved illuminate this place
+D E       Like a trashcan fire in a prison cell
+A D       Like the searchlights in the parking lots of hell
+A E A D   I will walk down to the end with you (1,1,5,5)
+A E A A   If you will come all the way down with me
+
+A C#m D E-D (1,1,1,2)
+A F#m D E (1,1,3,1)
+D E A-Asus2 D (1,1,4,1)
+A E A.
+
+======================================================================
+
+Color In Your Cheeks
+
+
+12345678
+D   D DU
+D   D U 
+D   D U 
+D   D U 
+D   D U 
+D D D Du
+
+(1)
+12345678
+D   D DU
+(2)
+12345678
+D D D DU
+(33)
+1234567890123456
+D D D DUDUD D DU
+
+(He plays all barre chords in the mini desk concert video.)
+
+tabbed by russ sweetser (yarzrevenge@yahoo.com)
+
+C#m G# A B   she came in on the redeye to dallas-fort worth. (1111)
+E G# A B     all the way from sunny taipei. (1112)
+C#m G# A B   skin the color of a walnut shell, (1111)
+E G# A B     and a baseball cap holding down her black hair. (1112)
+A A B B      and she came here after midnight. (2233)
+E E A A      the hot weather made her feel right at home. (2222)
+E E A A      come on in, we haven't slept for weeks. (2222)
+E E A B      drink some of this. it'll put color in your cheeks. (2222)
+
+C#m G# A B   he drove in from mexicali, no worse for wear.
+E G# A B     money to burn, time to kill.
+C#m G# A B   but five minutes looking in his eyes
+E G# A B     and we all knew he was broken pretty bad, so we gave him what we
+A A B B      had.  we cleared a space for him to sleep in, and we let the
+E E A A      SIlence that's our trademark MAKE its presence felt.
+
+E E A A      come on in, we haven't slept for weeks.
+E E A B      drink some of this. it'll put color in your cheeks.
+
+C#m G# A B (2222)
+C#m G# A B (2222)
+E E B B    (3322)
+
+C#m G# A B   they came in by the dozens, walking or crawling.
+E G# A B     some were bright-eyed.  some were dead on their feet.
+C#m G# A B   and they came from zimbabwe,  or from soviet georgia.
+E G# A B     east saint louis, or from paris, or they lived across the street.
+A A B B      but they came, and when they'd FINALLY made it here,
+E E A A      it was the least that we could do to make our welcome clear.
+
+E E A A      come on in, we haven't slept for weeks.
+E E A B      drink some of this. this'll put color in your cheeks.
+
+--------------------
+one alternate, from kris harsh
+i play this with C#m and G#m instead of the majors.
+--------------------
+
+I use the first tab here, but I think the outro chords should be listed too:
+E A E A E B
+C#m G# A B
+C#m G# A B
+C#m G# A B
+E
+
+all of the Es here are x7999x
+
+======================================================================
 Mountain Goats - Song for Dennis Brown
 
 Intro/Verse riff
@@ -1568,207 +1798,6 @@ so am i, so am i
    D        G      G   C   G   D
 so am i, so am i  
 
-
-======================================================================
-
-Going To Port Washington
-
-Tabbed by Alex Glasnovic (Gray.Fox@gmail.com) Revised by YetixHunting (bertino@fordham.edu) Revised by Mark Block (anna8181@gmx.net)
-
-1234567812345678
-d   d  du d  du 
-
-12345678123456781234567812345678
-d   d  du d d d d   d     d   du
-
-
-Intro/between verses:
- E|--2-------3-2-0-2--3--|
- B|--3-(x4)--3-3-3-3--3--|
- G|--2-------2-2-2-2--0--|
- D|--0-------0-0-0-0--0--|
- A|-------------------2--|
- E|-------------------3--|
-
-
-Capo at 6 or tuned half step down (D# G# C# F#  A# D#)
-Instead of an A, you can also play Asus4.
-
-
-Intro/between verses:
-     12345678123456781234567812345678
-     D  D   Du D D D D  D  Du  D DuD 
- E|--2--2---23-2-0-2-3---------------|
- B|--3--3- -33-3-3-3-3---------------|
- G|--2--2---22-2-2-2-0---------------|
- D|----------------------------------|
- A|-------------------------------2--|
- E|-------------------------------3--|
-
-x 4
-
-D    D  D   Du D D D
-G    D  D  Du  D DuD 
-D    D  D   Du D D D
-G    D  D  Du  D DuD 
-D    D  D  DuD D D D
-G    D  D  Du  D DuD 
-D    D  D   Du D D D
-G    D  D  Du  D DuD 
-
-
-    1234567801235678
-D   D  D  du  D dud   The trees were
-Em  D  D  du  D dud
-A   D  D  du  D dud
-G   D  D  du  D dud
-D   D  D  du  D dud   When you eased 
-Em  D  D  du  D dud
-A   D  D  du  D dud
-G   D  D  du  D dud
-D   D  D  du  D dud   And gently 
-A   D  D  du  D dud
-D   D  D  du  D u D   The constellations
-G   D  D  du  D dud
-D   D  D  du  D dud   And as we crossed over
-A   D  D  du  D dud
-G   D  D u  u D  Du   Something on my mind
-D   D  D  dud D D D   riff
-G   D  D  Du  D DuD 
-D   D  D Dududududu
-G   D  D  Du  D DuD 
-
-D   D  D  du  D dud   When we rolled down
-Em  D  D  du  D dud   
-A   D  D  du  D dud   in the cool of the morning
-G   D  D  du  D dud
-D   D  D  du  D dud   I could feel the new
-Em  D  D  du  D dud
-A   D  D  du  D dud   and somebody'd gone and
-G   D  D  du  D dud
-
-D   D  D  dud D dud    Slowly
-A   D  D  dud D dud    surely
-D   D  D  dud D dud    I saw the whole story
-G   D  D  dud D dud
-D   D  D  dud D dud    I had never loved 
-A   D  D  dud D dud
-G   D  D u  u D  Du    Something on my mind
-D   D  D  DuD D D D    riff
-G   D  D  ududududu
-D   D  D Dududududu
-G   D  D  ududududu
-D   D  D Dududududu
-G   D  D  ududududu
-D   D  D Dududududu
-G   D
-
-
-D Em A G   the trees were all decked out in their best fall colors
-              there was a snap in the air
-D Em A G   when you eased down the window
-              and the new york sun brought out the highlights in your hair
-D A D G    and gently, gently / the constellations aligned
-D A G D    and as we crossed over the throgs neck bridge i had
-              something on my mind
-
-D Em A G   when we rolled down the street / in the cool of the morning
-D Em A G   i could feel the new day dawn
-              and somebody had gone and turned the waterworks on
-D A D G    and slowly, surely / i saw the whole story unwind
-D A G D    i had never loved anyone like i loved you
-              and i had something on my mind
-
-
-======================================================================
-
-Monkey Song - The Mountain Goats
-
-Chords
-
-C  032010
-G  320033
-Am x02210
-F  133211
-
-Riff
-
-e -------------|
-b 01h0p1h0p1h--|
-G ------------0|
-D -------------|
-E -------------|
-A -------------|
-
-
-riff  C F C F 
-     1234567812345678	 
-C 	  D   X dud dud du   
-G 	  D   X u   d u du   
-Am	  D   X u   d u du   
-F 	  D   X u   d u du   
-C 	  D   X u   d u du   
-G 	  D   X u   d u du   
-Am	  D   X u   d u du   
-F 	  D   X u   d u du   
-C 	  D   X u   d u du   
-G 	  D   X u   d u du   
-Am	  D   X u   d u du   
-F 	  D   X riff      
-C 	  D   X u   d u du   
-G 	  D   X dudud d du   
-Am	  D   X u   d u du   
-F 	  D   X u   d u du   
-C 	  D   X u   d u du   
-G	  D   X dududududu   
-
-riff C F C F  
-
-C	  D   X u   d u du   
-G	  D   X u   d u du   
-Am	  D   X u   d u du   
-F	  D   X u   d u du   
-C	  D   X u   d u du   
-G	  D   X u   d u du   
-Am	  D   X u   d u du   
-F	  D   X u   d u du   
-	  						 
-C    D   X dud d d du     There's a
-G	  D   X dud d d du   
-Am	  D   X u   d u du     Where did the monkey come from
-F	  D   X  <riff>      
-C    D   X u   d u du     There's a
-G    D   X dududududu     extra string???????
-Am   D   X u   d u du     How
-F    D   X u   d u du     How
-C    D   X u   d u du     How
-G    D   X dududududu     -s92
-Am	  D   X dud d d d    
-F    D   X dududududu     
-C	  D   X dududuxudu   
-G    D   X dududududu     
-
-riff C F C F C F C
-
-
-C - Riff - F - Riff 
-
-Cool air comes through the venetian blinds
-And the planets and the heavens are perfectly aligned
-I take in my surroundings, I memorize them all
-The scuff marks on the stone floor
-The powder burns on the eastern wall
-
-There's a monkey in the basement
-Where did the monkey come from
-There's a monkey in the basement
-How did the monkey get there, how did the monkey get there
-How did the monkey get there
-
-The animal noises you used to make
-The andalusian coral snake
-All pale when standing beside this room
-And the heavy hot rains and the sonic boom
 
 ======================================================================
 
@@ -5933,11 +5962,7 @@ G
 
 
 ======================================================================
-
-1234567812345678
-D dud  D D ud
-D dud uD D ud du
-======================================================================
+Foreign object
 Tabbed by Jonathon (jonovox at gmail dot com)
 
 A Dsus2-A A E-Dsus2 Dm A E
@@ -6033,6 +6058,58 @@ A-3-------
 E---------
 
 
+x24432  Bm
+
+12345678901234567890123456789012
+D  D  Du u D  Du u D  Du D    U 
+D  D  Dudu D  Dudu D  Du D  udu
+
+123456789012345678
+D   D   Du D  dud
+
+12345678
+D   D Du
+
+G D     I'm gonna drink more whiskey than Brendan Behan.
+C G     and I'm gonna send my belongings all to Tripoli.
+C G     and i'm gonna ride home to California
+D-C G*  with a banjo on my knee.
+
+G D     I'm never gonna turn off the television.
+C G     I'm just gonna let it run all night.
+C G     I'm gonna plant root vegetables out in the backyard
+D D     and come summer I am going to treat you right
+C G     so lace up your skates real good
+C G     come on over to my neighborhood
+Bm C    lets turn this whole town upside down 
+C D     and shake it 'til the coins come falling out of its pockets,
+C G     yeah put on chairman mao hat
+C G     you look so goddam cute in that
+Em D-C  we're gonna sail through the night sky like a pair of bottle rockets.
+G*
+
+G D     I got a great big secret written down somewhere.
+C G     I got a rosary to protect us both from harm.
+C G     I got a storage locker full of cow figurines
+D D     and a laundry list of grievances longer than my arm.
+C G     and i am never going back to Cincinnati.
+C G     all those bridges have been burned down to the ground.
+C G     i got the jet pack strapped to my back
+D D     and i am waiting for you to come around.
+C G     so lace up your skates tight
+C G     be here by 6 o'clock tonight
+Bm C    lets turn this whole place upside down 
+C D     and shake it 'til the coins come dropping out of its pockets,
+C G     yeah put on your chairman mao coat
+C G     and let me clear my throat
+Em D-(pause)  we're gonna sail through the night sky
+                / like a pair of bottle rockets.
+G*
+
+G D C* G C* G D C* G C* G C* G D G
+(listen to the song to get the timing for this end part)
+
+
           G                       D
 I'm gonna drink more whiskey than Brendan Behan.
               C                         G
@@ -6100,8 +6177,376 @@ G D C* G C* G D C* G C* G C* G D G
 (listen to the song to get the timing for this end part)
 
 ======================================================================
+
+First Few Desperate Hours
+
+       1234567812345678
+E-F#   D  u uD  u uDudu
+A      D  u uD  u uDudu
+E-F#   Dudu  D  u uDudu
+A      Dudu  Dudu uDudu
+E-F#   Dudu  D  u uDudu
+A      Dudu  D  u uDudu
+E-F#   Dudu  D  ud Dudu
+A      Dudu  D  ud Dudu
+A      Dudu  D  ud Dudu
+
+Bad luck
+E-F#   Dudu  D  u uDudu
+A      Dudu  D  u uDudu
+E-F#   Dudu  D  u uDudu
+A      Dudu  D  u uDudu
+E      D  u uD  u uD D
+E      D  u uD  u uD D
+B      D  u uD  u uD D
+B      D  u uD  u uD D
+
+We have bad dreams
+E-F#   Dudu  D  u uDudu
+A      Dudu  D  u uDudu
+E-F#   Dudu  D  u uDudu
+A      Dudu  D  u uDudu
+E      D ud  D  uduD D
+E      D ud  D  uduD D
+B      Dudu uD  u uDudu
+B      Dudu uD  u uDudu
+
+But they flag
+E      Dudu uD  u uDudu
+E      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+F#     Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+B      Dudu uD  u uDudu
+
+And they sag
+E      Dudu uD  u uDudu
+E      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+F#     Dudu uD   duDudu
+A      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+B      Dudu uD  duduD
+
+E-F#   D uD  D  udud
+A      D uD  D  udududu
+E-F#   D uD  D  udud
+A      D uD  D  udududu
+E-F#   D uD  D  udududu
+A      D uD  D  udududu
+E-F#   D uD  D  udud
+A      D uD  D  udud
+A      D uD  D  udududu
+
+Yeah the driver drops
+E-F#   D uD  D  udud
+A      D uD  D  udududu
+E-F#   D uD  D  udud
+A      D uD  D  udududu
+E      D  u uD  u uD D
+E      D  u uD  u uD D
+B      D  u uD  u uD  u
+B      D  u uD  uduD
+
+And when cloven
+E-F#   D uD  D  udud
+A      D uD  D  udududu
+E-F#   D uD  D  udud
+A      D uD  D  udududu
+E      D  u  D  u uD D
+E      D  u uD  u  D du
+B      D  u uD  u uD du
+B      D  u uD  u uD du
+
+But they drop like flies
+E      Dudu uD  u uDudu
+E      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+A      DududuD  u uDudu
+F#     Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+B      Dudu uD  u uDudu
+
+And they lean like towers
+E      Dudu uD  u uDudu
+E      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+F#     Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+B      Dudu uD  duduD
+
+E-F#   D uD  D  udud
+A      D uD  D  udududu
+E-F#   D uD  D  udud
+A      D uD  D  udududu
+E-F#   D uD  D  udududu
+A      D uD  D  udududu
+E-F#   D uD  D  udud
+A      D du  D  ud d
+A      D du  D  ud d du
+A      D du  D  ud d du
+E      D  u uD  u uD D
+E      D  u uD  u uD D
+E      D  u uD  u uD D
+E      D
+
+
+First Few Desperate Hours
+
+       1234567812345678      X      1234567812345678      X      1234567812345678
+E-F#   D  u uD  u uDudu      And they sag			          But they drop
+A      D  u uD  u uDudu		  E      Dudu uD  u uDudu		 E      Dudu uD  u uDudu
+E-F#   Dudu  D  u uDudu		  E      Dudu uD  u uDudu		 E      Dudu uD  u uDudu
+A      Dudu  Dudu uDudu		  A      Dudu uD  u uDudu		 A      Dudu uD  u uDudu
+E-F#   Dudu  D  u uDudu		  A      Dudu uD  u uDudu		 A      DududuD  u uDudu
+A      Dudu  D  u uDudu		  F#     Dudu uD   duDudu		 F#     Dudu uD  u uDudu
+E-F#   Dudu  D  ud Dudu		  A      Dudu uD  u uDudu		 A      Dudu uD  u uDudu
+A      Dudu  D  ud Dudu		  A      Dudu uD  u uDudu		 A      Dudu uD  u uDudu
+A      Dudu  D  ud Dudu		  B      Dudu uD  duduD  		 B      Dudu uD  u uDudu
+									  							  			 							  
+Bad luck							  E-F#   D uD  D  udud	  		 lean like towers		  
+E-F#   Dudu  D  u uDudu		  A      D uD  D  udududu		 E      Dudu uD  u uDudu
+A      Dudu  D  u uDudu		  E-F#   D uD  D  udud	  		 E      Dudu uD  u uDudu
+E-F#   Dudu  D  u uDudu		  A      D uD  D  udududu		 A      Dudu uD  u uDudu
+A      Dudu  D  u uDudu		  E-F#   D uD  D  udududu		 A      Dudu uD  u uDudu
+E      D  u uD  u uD D		  A      D uD  D  udududu		 F#     Dudu uD  u uDudu
+E      D  u uD  u uD Du		  E-F#   D uD  D  udud	  		 A      Dudu uD  u uDudu
+B      D  u uD  u uD D		  A      D uD  D  udud	  		 A      Dudu uD  u uDudu
+B      D  u uD  u uD Du		  A      D uD  D  udududu		 B      Dudu uD  duduD  
+									  							  			 							  
+We have bad dreams			  Yeah the driver drops  		 E-F#   D uD  D  udud
+E-F#   Dudu  D  u uDudu		  E-F#   D uD  D  udud	  		 A      D uD  D  udududu
+A      Dudu  D  u uDudu		  A      D uD  D  udududu		 E-F#   D uD  D  udud
+E-F#   Dudu  D  u uDudu		  E-F#   D uD  D  udud	  		 A      D uD  D  udududu
+A      Dudu  D  u uDudu		  A      D uD  D  udududu		 E-F#   D uD  D  udududu
+E      D ud  D  uduD D		  E      D  u uD  u uD D 		 A      D uD  D  udududu
+E      D ud  D  uduD D		  E      D  u uD  u uD D 		 E-F#   D uD  D  udud
+B      Dudu uD  u uDudu		  B      D  u uD  u uD  u		 A      D du  D  ud d
+B      Dudu uD  u uDudu		  B      D  u uD  uduD	  		 A      D du  D  ud d du
+									  							  			 A      D du  D  ud d du
+But they flag					  And when cloven		  			 E      D  u uD  u uD D 
+E      Dudu uD  u uDudu		  E-F#   D uD  D  udud	  		 E      D  u uD  u uD D 
+E      Dudu uD  u uDudu		  A      D uD  D  udududu		 E      D  u uD  u uD D 
+A      Dudu uD  u uDudu		  E-F#   D uD  D  udud	  		 E      D               
+A      Dudu uD  u uDudu		  A      D uD  D  udududu
+F#     Dudu uD  u uDudu		  E      D  u  D  u uD D 
+A      Dudu uD  u uDudu		  E      D  u uD  u  D du
+A      Dudu uD  u uDudu		  B      D  u uD  u uD du
+B      Dudu uD  u uDudu		  B      D  u uD  u uD du
+
+
+
+
+I've always played this with the intro being E F# A as below,
+but only fretting the ADG strings, so:
+
+E : 022100
+F#: 044300
+A : 077600
+Intro:
+
+E - F# - A(577655) x2
+
+E-F# A   Bad luck comes in from Tampa
+E-F# A   Bad luck comes in from Tampa
+E E      On the back of a truck / Doing ninety up the
+B B      interstate    B(799877)
+E-F# A   We have bad dreams the night he rolls in
+E-F# A   We have bad dreams the night he rolls in
+E E      And we try to keep our spirits
+B B      high
+E E      But they flag
+A A      and they wane E*(x79997)
+F# A     When the truck pulls up out front
+A B      In the light spring rain
+E E      And they sag
+A A      like withering flowers
+F# A     Let the good times roll on
+A B      Through these first few desperate hours
+
+E-F# A   Yeah the driver drops his cargo at the curb
+E-F# A   The driver drops his cargo at the curb
+E E      And the sun peeks in
+B B      Like a killer through the curtain
+E-F# A   And when cloven hoof prints turn up in the garden
+E-F# A   Yeah when cloven hoof prints turn up in the garden
+E E      We keep up the good fight
+B B      We keep our spirits light
+E E      But they drop 
+A A      like flies
+F# A     And there's a stomach-churning shift
+A B      In the way the land lies
+E E      And they lean
+A A      like towers
+F# A     On a hillside struggling to stand
+A B      Through these first few desperate hours
+Yeah
+
+E - F# - A x4
+
+======================================================================
+Mountain Goats - The Fall of the Star High School Running Back.
+ 
+A* = Asus2 A Asus4
+
+D A G A* D A G A 
+D A G A* D D D D  D D D
+
+            D   A   G   G     
+Sophomore year,   
+    D              A          G               A           D    A   G   G 
+you rushed for an average of eight and a third yards per carry.
+G                   A
+  All eyes were on you.
+       D   A   G   G     
+Junior year, 
+   D           A              G           A
+you blew your knee out at an out of town game.
+G                       A
+   Nowhere to go to but down, down, down.
+D                                G           
+Nothing but the ground left for you to fall to.
+
+D A G A* D A G A
+D A G A* D D D 
+
+     D   A   G   G  
+by July, 
+       D          A          G         A
+you'd made a whole bunch of brand new friends,
+G                        A
+people you used to look down on.
+                   D   A           G         G
+And you'd figured out    a way to make real money --
+       D            A               G       A
+givin' ends to your friends, and it felt stupendous.
+G                      A
+ chrome spokes on your Japanese bike,
+      Bb                A
+but selling acid was a bad idea,
+      D                        G
+and selling it to a cop was a worse one.
+         D                      A                       D
+And the new law said that seventeen year olds could do federal time.
+G                               D                  G
+  you were the first one, so I sing this song for you,
+D                     G     
+  William Stanaforth Donahue,
+       D                        A
+your grandfather rode the boat over from Ireland,
+     D                G
+but you made a bad decision or two.
+      D A G A* D A G A (x2) D
+yeah.
+
+i play it like this
+
+D A then for G i just hold the top two strings so its e|-3
+B|-3
+G|-0
+
+and for the little weird thing on A i just play e|-----0
+B|-2-3--
+
+other than that, spot on
+======================================================================
+I Bombed Korea
+x35553  C
+355433  G
+x57775  D
+
+     1234567812345678
+GC   D  xyxy d d duxy
+GG   D  d  u u u u u
+GC   D  Dx x u d duxy  -s6
+DC   D  duud u d duxy
+CD   D  duud u d duxy
+GC   D  dudu u d duxy
+CD   D  dudu u d duxy
+
+I bombed
+GC   D  D  x d  xy u
+GG   D  d  u u u u xy
+CD   D  D du u d duxy
+GC   D  D  x u d duxy
+CD   D  duuy u d duxy 
+GC   D  xyxy u d duxy
+CD   D  xyxy u d duxy
+G    D       y x x xy
+
+AC   D  D  x d  xy u    Bass
+
+
+??   D  dudu u d duxy
+??   D  dudu u d duxy
+     D  D  u u d duxy
+
+
+Intro:   G   C    G  
+         G   C    D  C 
+         C   D    G  C  
+         C   D    G
+
+G              C     G
+I bombed Korea every night.
+C         D             G         C
+My engine sang into the salty sky.
+C        D               G            C                 
+I didn't know if I would live or die.
+C          D         G
+I bombed Korea every night. 
+
+A              D     A
+I bombed Korea every night.
+D          E         A 
+I bombed Korea every night.
+D           E             A
+Red flowers bursting down below us.
+D            E           A
+Those people didn't even know us.
+D         E                A       D
+We didn't know if we would live or die.
+D         E              A        D
+We didn't know if it was wrong or right.
+D          E         A
+I bombed Korea every night. 
+
+B                 E       B 
+And so I sit here at this bar.
+E         F#
+I'm not a hero.
+          B          E
+I'm not a movie star.
+E           F#
+I've got my beer.
+            B             E
+I've got my stories to tell,
+E              F#                 B           E
+But they won't tell you what it's like in hell. 
+
+E           F#            B
+Red flowers bursting down below us.
+E            F#          B
+Those people didn't even know us.
+E         F#               B       E
+We didn't know if we would live or die.
+E         F#             B        E
+We didn't know if it was wrong or right.
+E         F#               B       E
+We didn't know if we would live or die.
+E          F#        B   A   G   F#  B6
+I bombed Korea every night.
+
+
+
 ======================================================================
 ======================================================================
 ======================================================================
 ======================================================================
-Tabbed
+======================================================================
