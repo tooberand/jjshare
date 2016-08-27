@@ -6462,27 +6462,29 @@ x35553  C
 x57775  D
 
      1234567812345678
-GC   D  xyxy d d duxy
+GC   D  xyxy dd duxy
 GG   D  d  u u u u u
-GC   D  Dx x u d duxy  -s6
-DC   D  duud u d duxy
-CD   D  duud u d duxy
-GC   D  dudu u d duxy
-CD   D  dudu u d duxy
+GC   D  Dx x ud duxy  -s6
+DC   D  duud ud duxy
+CD   D  duud ud duxy
+GC   D  dudu ud duxy
+CD   D  dudu ud duxy
 
 I bombed
 GC   D  D  x d  xy u
 GG   D  d  u u u u xy
-CD   D  D du u d duxy
-GC   D  D  x u d duxy
-CD   D  duuy u d duxy 
-GC   D  xyxy u d duxy
-CD   D  xyxy u d duxy
+CD   D  D du ud duxy
+GC   D  D  x ud duxy
+CD   D  duux ud duxy 
+GC   D  xyxy ud duxy
+CD   D  xyxy ud duxy
 G    D       y x x xy
 
-AC   D  D  x d  xy u    Bass
-
-
+AD   D  D  x d  xy u    Bass
+AA
+DE
+AD
+EA
 ??   D  dudu u d duxy
 ??   D  dudu u d duxy
      D  D  u u d duxy
