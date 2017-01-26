@@ -11,6 +11,8 @@ x24442  B
 x13331  Bb
 688766  Bb
 x24432  Bm
+799777  Bm
+
 x24232  Bm7
 x20202  Bm7
 797777  Bm7
@@ -57,6 +59,9 @@ Soft Targets
 song for dennis brown
 
 Commandante
+love cuts the strings
+Night of the Mules (10 or 20 of us huddled together)
+
 Alphonse Mambo
 Coroner's Gambit
 Moon over Goldsboro
@@ -66,6 +71,9 @@ Cheshire County (palm mute and riff "saying my name backwards" short)
 Going to Queens (riff, short "in nyc in the middle of july")
 Coco Yam Song
 Cut Off Their Thumbs #1 (I'm gonna kill everybody in this room)
+Sinloan snake milk song
+Hand ball - (kill a man on the day his life seems sweetest to him)
+hello old rabbit (i did not come here to suffer)
 
 internet suggestion
 -------------------
@@ -97,13 +105,12 @@ Tallahassee
 Going to San Diego 
 The Mess Inside
 
+Woke up New -- https://www.youtube.com/watch?v=hz1KKu7I5-c
+Song for an Old Friend -- https://www.youtube.com/watch?v=IF5e25LyCUA
 
 interesting but has other instruments:
 Original Air Blue Gown
-Letter from Belgium
 hellhound on my trail
-night of the mules "10 or 20 of us huddled together"
-love cuts the strings
 Quito
 Alpha Incipiens
 in corolla
@@ -404,7 +411,7 @@ AEAA   BUT that was the ONLY thing we KNEW. (cd)
 A   D DuuDuu
 E   D DuuDuu 
 A   D D DD D
-     Dd_uD!!    <  D d  du D udu>
+     Dd_uD\/    <  D d  du D udu>
 A   D DuuDuD
     uuDuuDud
 E   D DuuDuD
@@ -423,20 +430,20 @@ A   uuDuuDDD
 "we watched..."
 A   D DuuDuu
 E   D DuuDuu 
-A   D DuuD!!
-    !!D!!D!! 
-A   D D!!D D
-     uD!!D!!
-E   D D!!DuD
-    !!D!!D!!
+A   D DuuD\/
+    \/D\/D\/ 
+A   D D\/D D
+     uD\/D\/
+E   D D\/DuD
+    \/D\/D\/
 
 "when a pack..."
 A   D DuuDuu
     D DuuDuu
-D   D DuuDii
-    uuD!!DDD
-A   D D!!D!!
-E   D D!!D!!
+D   D DuuD/\
+    uuD\/DDD
+A   D D\/D\/
+E   D D\/D\/
 A   DDDDDDDD
     D
 
@@ -520,26 +527,33 @@ d   d  d udududu   Let the ticker tape ...
 
 instrumental break #2 
                     
-d   d ud d ududu    l   l  h h hhhhh         jjplay -s82 pinklon
-d   d  d d ududu
-d   d  d d ududu
-d   d  d d ududu
+10 00 00 00 
+11 00 **
+11 01 00 10 
+10 10 10 10 
 
-d   d ud d d udu						            jjplay -s92 pinklon   
-d   d  d d ududu
-d   d  d d ud  u     
-d  ud ud d d udu     l  ll lh h h hhh
-							
-d   d ud d d udu                             jjplay -s102 pinklon
-d   d  d d d udu     Asus2
-d   d  d d ududu     
-d   d ud d ududu     l  l  lh h hhhhh
-							
-d   d ud d ududu     h  h  hh h lllll        jjplay -s112 pinklon
-d   d ud d ududu   
-d   d ud d ududu   
-d   d ud d ududu   
+       1234567812345678
+C#m    d   d ud d ududu    l   l  h h hhhhh         jjplay -s82 pinklon
+A      d   d  d d ududu
+E      d   d  d d ududu
+E      d   d  d d ududu
 
+C#m    d   d ud d d udu						            jjplay -s92 pinklon   
+A      d   d  d d ududu
+E      d   d  d d ud  u     
+E      d  ud ud d d udu     l  ll lh h h hhh
+							
+C#m    d   d ud d d udu                             jjplay -s102 pinklon
+A      d   d  d d d udu     Asus2
+E      d   d  d d ududu     
+E      d   d ud d ududu     l  l  lh h hhhhh
+							
+C#m    d   d ud d ududu     h  h  hh h lllll        jjplay -s112 pinklon
+A      d   d ud d ududu   
+E      d   d ud d ududu   
+E      d   d ud d ududu   
+
+verse
 
 d   d  d d ududu   Out to the curbside ...
 d   d  d d ududu
@@ -562,6 +576,8 @@ d   d ud d ududu
 d   d  d d ududu
 d   d  d d ududu
 d   d  d d ududu
+
+verse
 
 d   d  d d ududu   let the guys all...        jjplay -r.8 -s159 pinklon
 d   d  d d ududu
@@ -595,6 +611,18 @@ d   d ud d ududu
 d   d  d d ududu
 d
 
+
+     1234567812345678
+00   d   d  d d ududu
+11   d   d ud d d udu
+21   d  ud ud d d udu
+03   d   d  d d ddudu
+04   d   d  d ddudu u
+95   d   dudu dud udu    h  l  h h h hhh           jjplay -r.8 -s200 pinklon
+96   d   dudu d d udu
+97   d   dudu u ududu
+98   d   dudu udupv      pv=421100
+
 01 01 11 21 
 11 00 00 00 
 
@@ -606,9 +634,9 @@ d
 10 10 00 00 
 10 00 00 00 
 
-03 03 33 28
-25 26 27 28
-25 01 01 10
+03 03 04 98
+95 96 97 98
+95 01 01 10
 11 10 00 D
 
 E
@@ -643,9 +671,43 @@ Asus2 Asus2  Pinklon Thomas is getting out of prison today
 
 C#m A E E x4
 
+     1234567812345678
+a0   d   d  d d ududu
+b1   d   d ud d d udu
+c1   d  ud ud d d udu
+a3   d   d  d d ddudu
+a4   d   d  d ddudu u
+d5   d   dudu dud udu    h  l  h h h hhh           jjplay -r.8 -s200 pinklon
+d6   d   dudu d d udu
+d7   d   dudu u ududu
+d8   d   dudu udupv      pv=421100
+
+a1 a1 b1 c1 
+b1 a0 a0 a0 
+
+b0 a0 a0 a0 
+b1 a0 **
+b1 a1 a0 b0 
+b0 b0 b0 b0 
+
+b0 b0 a0 a0 
+b0 a0 a0 a0 
+
+a3 a3 a4 d8
+d5 d6 d7 d8
+d5 a1 a1 b0
+b1 b0 a0 D
+
 ======================================================================
 
 Thank You Mario But Our Princess Is In Another Castle
+
+piano
+D       D..F#.A
+Cadd9   C.E.G...D
+A       G..C#.E
+G       G.B.D
+Gadd9   G.B.D...A
 
 This is the live version w/ guitar. Studio is 1/2 step down. (D --> C#)
 
@@ -990,7 +1052,7 @@ Intro/between verses:
 intro (D riff)
 
 D    D  D   Du D D D
-G    D  D  Du  D DuD 
+G    D  D  du  D DuD 
 D    D  D   Du D D D
 G    D  D  Du  D DuD 
 D    D  D  DuD D D D
@@ -2222,6 +2284,8 @@ C-G-F   i will rip out his heart with my hands.
 
 Mountain Goats - Love, Love, Love  (love love love)
 
+https://www.youtube.com/watch?v=8fyBdfoehwo
+
 DdddDddd
 
 (interesting: substitute: Asus2 for A, C#m for F#)
@@ -2701,6 +2765,12 @@ I come from Chino so all your threats are empty
 ======================================================================
 Hast thou considered the tetrapod (needs an organ)
 
+https://www.youtube.com/watch?v=7lsJcZQ3Zc8
+https://www.youtube.com/watch?v=1NuySSki7kA
+https://www.youtube.com/watch?v=zMjOlqDxq5c
+https://www.youtube.com/watch?v=BPwROAiaWpA
+     
+
      A   D   E
 e|---0---0---0---
 B|---2---3---0---
@@ -2738,7 +2808,7 @@ A     And so I think about that
 D     Then I sort of black out
 A     Held under these smothering waves
 D A   By your strong and thick veined hand
-D A   But one of these days
+vD A   But one of these days
 E A   I'm gonna wriggle off on dry land
 
 A D (3x)
@@ -4979,18 +5049,7 @@ But don't think twice, it's alright
 
 Enjoy!
 
-Compact
-
-Verse:
- C        G        Am       C/g      F                 C        G			 
-|--------|---0h1--|--------|--------|--------|--------|--------|---0h1--|
-|-------1|-------1|-------1|-------1|---1---1|-----1--|---1---1|-------1|
-|-----0--|-0---0--|-----2--|-----2--|-2---2--|-2-0h2-2|-0---0--|-0---0--|
-|--2---2-|--0---0-|--2---2-|--2---2-|--3---3-|--3---3-|--2---2-|--0---0-|
-|3-------|--------|0---0---|0-------|--------|--------|--------|--------|
-|----3---|3---3---|--------|----3---|1---1---|1---1---|3---3---|3---3---|
-
- C        G        Am       C/g       D7/f#              G   G6   G7		  
+q	3x2	 dfdsfaswawe C        G        Am       C/g       D7/f#              G   G6   G7		  
 |--------|---0h1--|--------|--------|--------|--------|--------|--------|
 |-------1|-------1|-------1|-------1|---1---1|---1---1|---0---0|---0---0|
 |-----0--|-0---0--|-----2--|-----2--|-2---2--|-2---2--|-0---0--|-0---0--|
@@ -5000,35 +5059,7 @@ Verse:
 
  C                 C7                 F                 D7/f#				 
 |--------|--------|--------|--------|--------|--------|--------|---0h1--|
-|-------1|-------1|---1---1|---1---1|---1---1|---1---1|---1---1|-------1|
-|-----0--|-----0--|-3---3--|-3---3--|-2---2--|-2---2--|-2---2--|-2---2--|
-|--2---2-|--2---2-|--2---2-|--2---2-|--3---3-|--3---3-|--0---0-|--0---0-|
-|3-------|3-------|3---3---|0---0---|--------|--------|--------|--------|
-|----3---|----3---|--------|--------|1---0---|1---1---|2---2---|2---2---|
-
- C        G        Am  C/g  F         C        G        C						 
-|--------|---0h1--|--------|--------|--------|---0h1--|--------|--------|
-|-------1|-------1|---1---1|---1---1|---1---1|-------1|-------1|-------1|
-|-----0--|-0---0--|-2---2--|-2---2--|-0---0--|-0---0--|-----0--|-----0--|
-|--2---2-|--0---0-|--2---2-|--3---3-|--2---2-|--0---0-|--2---2-|--2---2-|
-|3-------|--------|0-------|--------|--------|--------|3-------|3-------|
-|----3---|3---3---|----3---|1---0---|3---3---|3---3---|----3---|----3---|
-
-Well, it ain't no use to sit and wonder why, babe / If'n you don't know by now
-An' it ain't no use to sit and wonder why, babe / It'll never do somehow
-When your rooster crows at the break of dawn
-   / Look out your window and I'll be gone
-You're the reason I'm trav'lin' on / But don't think twice, it's alright
-
-An' it ain't no use in turnin' on your light, babe / The light I never knowed
-An' it ain't no use in turnin' on your light, babe
-   / I'm on the dark side of the road
-Still I wish there was somethin' you would do or say
-   / To try and make me change my mind and stay
-We never did too much talkin' anyway / But don't think twice, it's alright
-
-So it ain't no use in callin' out my name, gal / Like you never done before
-An' it ain't no use in callin' out my name, gal / I can't hear you anymore
+aa333322222222222223ssssZXAn' it ain't no use in callin' out my name, gal / I can't hear you anymore
 I'm a-thinkin' and a-wond'rin' walkin' down the road
    / I once loved a woman, a child I'm told
 I give her my heart but she wanted my soul / But don't think twice, it's alright
@@ -5040,7 +5071,7 @@ I ain't sayin' you treated me unkind
 You just kinda wasted my precious time / But don't think twice, it's alright
 
 Enjoy!
-
+    
 
 
 ======================================================================
@@ -6093,12 +6124,12 @@ C G     I got a rosary to protect us both from harm.
 C G     I got a storage locker full of cow figurines
 D D     and a laundry list of grievances longer than my arm.
 C G     and i am never going back to Cincinnati.
-C G     all those bridges have been burned down to the ground.
+C G     all those bridges have burned down to the ground.
 C G     i got the jet pack strapped to my back
-D D     and i am waiting for you to come around.
+D D     and i'm waiting for you to come around.
 C G     so lace up your skates tight
 C G     be here by 6 o'clock tonight
-Bm C    lets turn this whole place upside down 
+Bm C    let's turn this whole place upside down 
 C D     and shake it 'til the coins come dropping out of its pockets,
 C G     yeah put on your chairman mao coat
 C G     and let me clear my throat
@@ -6545,8 +6576,862 @@ We didn't know if we would live or die.
 E          F#        B   A   G   F#  B6
 I bombed Korea every night.
 
+======================================================================
+Night Of The Mules
+
+tabbed by Alex Glasnovic (Gray.Fox at Gmail dot com)
+
+Intro C (strum four or so times then palm mute, 3 more strums
+then hold the high E, third fret) F7 (same deal) (x2)
+
+1234567812345678
+D D D D/  x x y
+D u D D u D D u
+D D D D/
+
+F7  131211
+F7  xx1211
 
 
+C C   the STREET lights gave off a YELLOW glow
+F7 F7 on the HOLLY and the MIStletoe
+C C   you could FEEL the rain, COMING down.
+F7 F7 and quiet STARlight, HARDened the ground.
+G G   till the STREET shone like a diamond, look sister
+E F7  HERE comes a new GENUINE disaster.
+C F7  CLIP-clop up the STREET,
+C G   see the RAIN, feel the SLEET, yeah.
+
+
+C C   the COLD air, unpreDICTtable weather,
+F7 F7 TEN or twenty of us, HUDDLED together,
+C C   HEARING the braying, GROWING louder
+F7 F7 SNOWflakes falling FINE white powder.
+G G   HERE come, the NEW kings
+E F7  the HOOVES clack and the METAL sings
+C F7  CLIP-clop up the STREET 
+C G   see the RAIN, feel the SLEET, yeah.
+
+
+
+======================================================================
+Love Cuts the Strings
+
+12345678901234567890123456789012
+D dud B   E   E   B   D D   x
+D dud D dud D duD dud D dud D du
+     1234567890123456
+First thing that happened was the river over flowed
+F#   D dud D dud D du
+B    D dud D dud D du
+
+The water running through the street was sweet and cold
+F#   D dud D dud D du
+B    D dud D dud D du
+
+I knelt over the water like a doe at a stream
+F#   D d d D d d D du
+B    D d d D d d D du
+
+Punch-drunk snow blind as if the whole thing were a bad dream
+F#   D d d D d d D du
+B    D d d D d d D du
+
+And then love called out the heavy artillery
+C#   D d d D d d D du
+B    D d d D d d D du
+
+hubris took the horses by the bit for the morning ride
+C#   D d d D d d D du
+B    D d d D dud D du
+
+I'd count my blessings but you can only be expected to count so high
+C#   D d d D d d D du
+B    D dud D dud D du
+
+When love cuts the strings
+C#   D dud D dud D du
+B    D dud D dud D du
+
+riff
+riff
+riff
+riff
+
+i smeared
+F#   D dud D dud D du
+B    D dud D dud D du
+riff
+and you poked
+F#   D dud D dud D du
+B    D dud D dud D du
+riff
+i recognized you
+F#   D dud D dud D du
+B    D dud D dud D du
+riff
+pand the air turned
+F#   D dud D dud D du
+B    D dud D dud D du
+riff
+and then love summoned up the infantry
+C#   D dud D dud D du
+B    D dud D dud D du
+riff
+and the green-eyed goddess
+C#   D dud D dud D du
+B    D d d D d d D du
+riff
+C#
+i'd count
+C#   D d d D d d D du
+B    D dud D dud D du
+riff
+when love
+C#   D dud D dud D du
+B    D dud D dud D du
+
+
+12345678901234567890123456789012
+F Fud B duE duE duB duF F  x
+
+
+
+F# 244322
+B: x2444(2)
+E: x7999(7)
+C#: 446664
+
+F# B E E B F# x4
+
+verse: 
+F#                                B                 F# B E E B F#
+FIRST thing that happened was the river overflowed
+The WATER running through the street was sweet and cold
+I KNELT over the water like a doe at a stream
+PUNCH-drunk snow blind as if the whole thing were a bad dream
+
+C#            B                               F# B E E B F#
+And then love called out the heavy artillery
+Hubris took the horses by the bit for the morning ride
+I'd count my blessings but you can only be expected to count so high
+When love cuts the strings
+
+I smeared my self with penny-royal to keep the hounds at bay
+And you poked your head out from an alley half a block away
+I recognized you though I'm not sure how
+F#                               B#                    F#
+And the air turned red around you as a dull chill came down over me
+
+And then love summoned up the infantry
+And the Green-eyed Goddess got ready for all out war
+I'd count my blessings but I don't even know what the word "blessing" means
+When love cuts the strings
+Yeah!
+
+======================================================================
+Standard tuning
+
+https://www.youtube.com/watch?v=dHhCx6Z-rNI
+
+x24432  Bm
+799777  Bm
+
+intro: A D A D (4x)
+
+    12345678
+A         Du
+A   d d  udu   Holt Boulevard
+E   d du udu
+Bm  d du udu   Between Gary and White
+D   d d  udu
+
+A   d du udu   Hooked up with some friends at the Travelodge
+E   d du udu
+Bm  d du udu   Set ourselves up for the night
+D   d du udu
+
+A   d du udu   Carpenter ants in the dresser
+E   d du udu
+Bm  d du udu   Flies in the screen
+D   d du udu
+
+A   d du udu   It will be too late by the time we learn
+E   d du udu
+D   d d  udu   What these cryptic symbols mean
+E   d du udu
+
+AD  duDuduDu   And I dreamt of a house
+AD  duDuuuDu   Haunted by all you tweakers with your hands out
+               And the headstones climbed up the hills
+6str EEFFGG    And the headstones climbed up the hills
+
+A   d du udu   send somebody out for sodas
+E   d du ud
+Bm  d du udu   comb through the carpet for clues
+D   duDuduDu
+
+A   d du udu   reflective tape on our sweatpants
+E   d du udu
+Bm  d du udu   big holes in our shoes
+D   d du udu
+
+A   dudu udu   Every couple minutes
+E   d du udu
+Bm  d du udu   someone says he can't take it anymore
+D   d du udu
+
+A   d du udu   Laugh lines on our faces
+E   d d  udu
+D   d du udu   Scale maps of the ocean floor
+E   d du udu
+
+AD  duDuduDu   And I dreamt of a camera
+               Pointing out from inside the television
+               And the aperture yawning and blinking
+               And the headstones climbed up the hills
+
+C#m  duDuduDu  If anybody comes to see me
+D    duDuduDu
+A    d Du uDu
+A    d Du uDu
+
+C#m D A A     Tell 'em they just missed me by a minute
+C#m D A A     If anybody comes in to our room while we're asleep
+A E D E       I hope they incinerate everybody in it
+
+
+AD   duDuduDu   And I dreamt of a factory
+                Where they manufactured what I needed
+                Using shiny new machines
+6str EEFFG      And the headstones climbed up the hills
+
+A DuD du udu
+A   d du udu
+D   duDuduDu
+D   duDuduDu
+
+
+
+Holt Boulevard
+Between Gary and White
+Hooked up with some friends at the Travelodge
+Set ourselves up for the night
+Carpenter ants in the dresser
+Flies in the screen
+It will be too late by the time we learn
+What these cryptic symbols mean
+
+And I DREAMT of a house
+Haunted by ALL you tweakers with your hands out
+And the HEADstones climbed up the hills
+And the HEADstones climbed up the hills
+
+Send somebody out for soda
+Comb through the carpet for clues
+Reflective tape on our sweatpants
+Big holes in our shoes
+Every couple minutes someone says he can't stand it any more
+Laugh lines on our faces
+Scale maps of the ocean floor
+
+And I DREAMT of a camera
+Pointing OUT from inside the television
+And the Aperture yawning and blinking
+And the HEADstones climbed up the hills
+
+If anybody comes to see me
+Tell 'em they just missed me by a minute
+If anybody comes in to our room while we're asleep
+I hope they incinerate everybody in it
+
+And I DREAMT of a factory
+Where they MANnufactured what I needed
+Using SHIny new machines
+And the HEADstones climbed up the hills
+
+======================================================================
+Same progression throughout: A E Bm D
+
+On the recording, the first verse is single notes of the chords. You can play it that way (tab below) or with 
+the full chords if you prefer.
+
+x24432  Bm
+799777  Bm
+
+
+e|--------------------------------------------------------------------|
+B|--------------------------------------------------------------------|
+G|--------------------------------------------------------------------|
+D|---------22222222--------00000000-----------------------------------|
+A|-00000000--------22222222------------------77777777--------55555555-| x2
+E|-----------------------------------55555555--------77777777---------|
+
+AEBD  You know what I think's really sad / I know how really sad you are
+AEBD  I'm probably gonna leave real soon
+         / just wanted to let you you know before I say
+
+AEBD  Au revoir Au revoir / You probably don't even know what that means
+AEBD  Au revoir Au revoir / You probably don't even know what that means
+
+AE   Aw she says "that it's French / I know what it means 
+BD   You don't have to be / so mean
+AE   If you wanna leave / Why don't you go"
+BD   Right before she walks away / I'm pretty sure I hear her say
+
+AEBD   "Adios Adios / I bet you think I don't know what that means
+AEBD   Adios Adios / I bet you think I don't know what that means
+
+A   dudu udu    Rock'n'Roll
+E   dudu udV    Rock'n'Roll
+Bm  dudududV    You probably don't understand what I mean
+D   dudududV
+
+A   dudududV    Rock'n'Roll
+E   dudududV    Rock'n'Roll
+Bm  dudududV    You probably don't understand what I mean
+D   dudududV
+
+A   dudududV    Au revoir
+E   dudududV    Au revoir
+Bm  dudududV    You probably don't even know what that means
+D   dudududV
+
+A   dudududV    Au revoir
+E   dudududV    Au revoir
+Bm  dudududV    You probably don't even know what that means
+D   dudududu
+D   dudududu
+D   dddddddd
+
+AE   She says that it French / I know what it means
+BD   Just thought I should let you know / Before I say 
+A    Au Revoir
+
+
+======================================================================
+
+Previous versions were a bit confusing in layout, and not 100% correct. I have cleaned it up, and also added the solo, some missing chords, and the outro. Was this info helpful? Yes No
+Twin Size Mattress 
+The Front Bottoms
+Talon of the Hawk (2013)
+
+V4. Fixed incorrect parts, and added solo.  
+
+_________________________________________________________________________
+
+
+
+Intro: (Plucked)
+e|-----------|
+b|-----------|
+g|-----------|
+d|----9---9--|
+a|-----------|
+E|--0---0----|
+
+Verse Part 1:
+"This is for the lions..."
+e|--------------------------------------------------------------------|
+b|--------------------------------------------------------------------|
+g|--------------------------------------------------------------------|
+d|----9---9---9---9---9---9---9---9---9---9---9---9---9---9---9---9---|
+a|------------------6---6---6---6---7---7---7---7---0---0---0---0-----|
+E|--0---0---0---0-----------------------------------------------------|
+
+Verse Part 2:
+"But I will help you swim..."
+e|--------------------------------------------------------------------|
+b|--------------------------------------------------------------------|
+g|--------------------------------------------------------------------|
+d|----6---6---6---6---6---6---6---6---6---6---6---6---6---6---6---6---|
+a|--4---4---0---0---4---4---0---0---4---4---0---0---4---4---0---0-----|
+E|--------------------------------------------------------------------|
+
+e|-----------|
+b|-----------|
+g|-----------|
+d|----9---9--|
+a|-----------|
+E|--0---0----|
+
+Lead Part 1:
+e|-----------|
+b|-----------|
+g|--9~---9~--|
+d|-----------|
+a|--7~---7~--|
+E|-----------|
+
+Verse Part 1:
+"This is for the snakes..."
+e|--------------------------------------------------------------------|
+b|--------------------------------------------------------------------|
+g|--------------------------------------------------------------------|
+d|----9---9---9---9---9---9---9---9---9---9---9---9---9---9---9---9---|
+a|------------------6---6---6---6---7---7---7---7---0---0---0---0-----|
+E|--0---0---0---0-----------------------------------------------------|
+
+Verse Part 2:
+"It's no big surprise..."
+e|--------------------------------------------------------------------|
+b|--------------------------------------------------------------------|
+g|--------------------------------------------------------------------|
+d|----6---6---6---6---6---6---6---6---6---6---6---6---6---6---6---6---|
+a|--4---4---0---0---4---4---0---0---4---4---0---0---4---4---0---0-----|
+E|--------------------------------------------------------------------|
+
+Lead Part:
+e|---------------|
+b|------7-----9--|
+g|---9-----9-----|
+d|---------------|
+a|---------------|
+E|---------------|
+
+Verse Part 3: (Soft)
+"With tears in my eyes..."
+e|------------------------|
+b|------------------------|
+g|------------------------|
+d|---6~---6~---6~---6~----|
+a|---4~---0~---4~---0~----|
+E|------------------------|
+
+"You said hey man I love you but..."
+e|--------------------------------------------------------------------|
+b|--------------------------------------------------------------------|
+g|--------------------------------------------------------------------|
+d|----6---6---6---6---6---6---6---6---6---6---6---6---6---6---6---6---|
+a|--4---4---0---0---4---4---0---0---4---4---0---0---4---4---0---0-----|
+E|--------------------------------------------------------------------|
+
+Chorus:
+"I'm sure that we could find something..."
+e|----------------------------------------------------------------------|
+b|----------------------------------------------------------------------|
+g|----------------------------------------------------------------------|
+d|--2-2-2-2-2-2-2-2--6-6-6-6-6-6-6-6--7-7-7-7-7-7-7-7--4-4-4-4-4-4-4-4--|
+a|--2-2-2-2-2-2-2-2--6-6-6-6-6-6-6-6--7-7-7-7-7-7-7-7--4-4-4-4-4-4-4-4--|
+E|--0-0-0-0-0-0-0-0--4-4-4-4-4-4-4-4--5-5-5-5-5-5-5-5--2-2-2-2-2-2-2-2--|
+
+"Maybe shake a tambourine..."
+e|----------------------------------------------------------|
+b|----------------------------------------------------------|
+g|----------------------------------------------------------|
+d|--2-2-2-2-2-2-2-2--6-6-6-6-6-6-6-6--7-7-7-7-7-7-7-7--4~---|
+a|--2-2-2-2-2-2-2-2--6-6-6-6-6-6-6-6--7-7-7-7-7-7-7-7--4~---|
+E|--0-0-0-0-0-0-0-0--4-4-4-4-4-4-4-4--5-5-5-5-5-5-5-5--2~---|
+
+Lead part:
+e|-----------7--9--11--9-11-9--7-----------7--11--9---11--12--16---|
+b|-----7--9--------------------------7--9--------------------------|
+g|--9------------------------------9-------------------------------|
+d|-----------------------------------------------------------------|
+a|-----------------------------------------------------------------|
+E|-----------------------------------------------------------------|
+
+*Repeat verse with strumming instead of picking*
+
+Lead Verse Part 1: Palm Muted
+e|-------------------------------------|
+b|-----7---7---7---7---9---9---9---9---|
+g|---9---9---9---9---9---9---9---9-----|
+d|-------------------------------------|
+a|-------------------------------------|
+E|-------------------------------------|
+
+Lead Verse Part 2: (Not muted)
+e|---------------|
+b|------7-----9--|
+g|---9-----9-----|
+d|---------------|
+a|---------------|
+E|---------------|
+
+Chorus:
+"I'm sure we could find..."
+e|----------------------------------------------------------------------|
+b|----------------------------------------------------------------------|
+g|----------------------------------------------------------------------|
+d|--2-2-2-2-2-2-2-2--6-6-6-6-6-6-6-6--7-7-7-7-7-7-7-7--4-4-4-4-4-4-4-4--|
+a|--2-2-2-2-2-2-2-2--6-6-6-6-6-6-6-6--7-7-7-7-7-7-7-7--4-4-4-4-4-4-4-4--|
+E|--0-0-0-0-0-0-0-0--4-4-4-4-4-4-4-4--5-5-5-5-5-5-5-5--2-2-2-2-2-2-2-2--|
+
+"Maybe shake a tambourine..."
+e|----------------------------------------------------------|
+b|----------------------------------------------------------|
+g|----------------------------------------------------------|
+d|--2-2-2-2-2-2-2-2--6-6-6-6-6-6-6-6--7-7-7-7-7-7-7-7--4~---|
+a|--2-2-2-2-2-2-2-2--6-6-6-6-6-6-6-6--7-7-7-7-7-7-7-7--4~---|
+E|--0-0-0-0-0-0-0-0--4-4-4-4-4-4-4-4--5-5-5-5-5-5-5-5--2~---|
+
+
+Bridge:
+"I wanna contribute to the chaos..."
+e|----------------------------------------------------------------------|
+b|----------------------------------------------------------------------|
+g|----------------------------------------------------------------------|
+d|--2-2-2-2-2-2-2-2--6-6-6-6-6-6-6-6--7-7-7-7-7-7-7-7--4-4-4-4-4-4-4-4--|
+a|--2-2-2-2-2-2-2-2--6-6-6-6-6-6-6-6--7-7-7-7-7-7-7-7--4-4-4-4-4-4-4-4--|
+E|--0-0-0-0-0-0-0-0--4-4-4-4-4-4-4-4--5-5-5-5-5-5-5-5--2-2-2-2-2-2-2-2--|
+
+Lead part:
+e|-----------7--9--11--9-11-9--7-----------7--11--9---11--12--16---|
+b|-----7--9--------------------------7--9--------------------------|
+g|--9------------------------------9-------------------------------|
+d|-----------------------------------------------------------------|
+a|-----------------------------------------------------------------|
+E|-----------------------------------------------------------------|
+
+Power chords over the lead:
+e|----------------------------------------------------------------------|
+b|----------------------------------------------------------------------|
+g|-----------------------------------6-6-6-6-6-6-6-6--------------------|
+d|--2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2--6-6-6-6-6-6-6-6--7-7-7-7-7-7-7-7---|
+a|--2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2--4-4-4-4-4-4-4-4--7-7-7-7-7-7-7-7---|
+E|--0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-------------------5-5-5-5-5-5-5-5---|
+
+Repeat this lead over the instrumental break and throughout the rest of the bridge. 
+e|-----------7--9--11--9-11-9--7-----------7--11--9---11--12--16---|
+b|-----7--9--------------------------7--9--------------------------|
+g|--9------------------------------9-------------------------------|
+d|-----------------------------------------------------------------|
+a|-----------------------------------------------------------------|
+E|-----------------------------------------------------------------|
+
+"Every night..." (This part is a bit different.)
+e|-----------7--9--11--9-11-9--7----------7--11--9- 11-11-12--16--16------|
+b|-----7--9--------------------------7--9---------------------------------|
+g|--9------------------------------9--------------------------------------|
+d|------------------------------------------------------------------------|
+a|------------------------------------------------------------------------|
+E|------------------------------------------------------------------------|
+
+E|-----16--11--12--16--11--12--11--12--11------------------------------|                                        
+B|---------------------------------------------16-16p14--16------------|
+G|----------------------------------------------------------14---------|
+D|---------------------------------------------------------------------|
+A|---------------------------------------------------------------------|
+
+E|--16--11--12--16--11--12--11--12--11----------------------------|                     
+B|---------------------------------------14-14p12--14-------------|
+G|-----------------------------------------------------13---------|
+
+Outro                                   
+e|---------------------------------------------------------------------------|
+b|---------------------------------------------------------------------------|
+g|---------------------------------------------------------------------------|
+d|----9---9---9---9---9---9---9---9-------9---9---9---9---9---9---9---9------|
+a|-------------------------------------6---6---6---6----7---7---7---7---0----|
+E|--0---0---0---0---0---0---0----0-------------------------------------------|
+
+
+This is for the lions living in the wiry broke down frames of my friends bodies
+When the flood water comes, it ain't gonna be clear. It's gonna look like mud
+But I will help you swim
+I will help you swim
+I'm gonna help you swim
+
+This is for the snakes and the people they bite
+For the friends I've made; for the sleepless nights
+For the warning signs I've completely ignored
+There's an amount to take, reasons to take more
+It's no big surprise you turned out this way
+When they close their eyes and prayed you would change
+And they cut your hair, and sent you away
+You stopped by my house the night you escaped
+With tears in my eyes, I begged you to stay
+You said, "Hey man, I love you but no fucking way"
+
+I'm sure that we could find something for you to do on stage
+Maybe shake a tambourine or when I sing, you sing harmonies
+
+This is for the lake that me and my friends swim in, naked and dumb on a drunken night
+And it should've felt good but I can hear the Jaws theme song on repeat in the back of my mind
+Make sure you kiss your knuckles before you punch me in the face
+There are lessons to be learned, consequences for all the stupid things I say
+And it is no big surprise you turned out this way
+The spark in your eyes, The look on your face
+I will not be late
+
+I'm sure we could find something for you to do on stage
+Maybe shake a tambourine or when I sing you sing harmonies
+
+I wanna contribute to the chaos
+I don't wanna watch and then complain
+'Cause I am through finding blame
+That is the decision that I have made
+
+She hopes I'm cursed forever to 
+Sleep on a twin-sized mattress
+In somebody's attic or basement my whole life
+Never graduating up in size to add another
+And my nightmares will have nightmares every night
+Oh, every night. Every night
+
+======================================================================
+G#m 466444
+
+The Feud 
+The Front Bottoms
+Talon of the Hawk (2013)
+
+12345678
+D du udu
+1234567890123456
+D du udududududu
+gravy
+1234567890123456
+D du ududududu
+
+B F# C#m G#m    I was so bored before I met you
+E B F# F#       But then I met you and everything changed 
+B F# C#m G#m    And now it seems I could be amused 
+E E F# F#       at the littlest things if I told my truth
+
+C#m C#m B B     She says you, you should admit it
+G#m G#m F# F#   She know I, I probably won't
+C#m C#m B B     That he's the sound you want now
+G#m G#m F# F#   And I'm just the noise you don't
+E E             And I'm just saying it's a bummer, man
+F# F#           I'm sorry for interrupting / I guess I'll go
+ 
+B F# C#m G#m    You were my girl you were my baby
+E B F# F#       You were my homemade mashed potatoes, biscuits, and gravy
+B F# C#m G#m    You were too good, I should have known
+E E F# F#       You were a prize my hands could never hold
+
+C#m C#m B B     She says you, you should admit it
+G#m G#m F# F#   She know I, I probably won't
+C#m C#m B B     That he's the sound you want now
+G#m G#m F# F#   And I'm just the noise you don't
+E E             And I'm just saying it's a bummer, man
+F# F#           I'm sorry for interrupting / I guess I'll go
+
+[Bridge]
+E E B B        And she says "tell me what I need to hear,
+F# F# E E      what I wanna hear or else"
+E E B B        I call her baby, I ask her to sit down,
+F# F# E E      Ask her to sit down and allow me to try to explain myself
+
+[Chorus]
+B E She says YOU,you,you,you should probably ADMIT it, probably admit it,probably
+F# E  but *I*, I, I, I, I probably WON'T, probably won't, probably wont, probably
+B E   That HE, he, he, he's the sound you WANT now, the sound you want now, sound
+F# E  And *I*, I, I, I'm the noise you DON'T, the noise you don't, noise
+B E   *I*, I, I, I should probably ADMIT it, probably admit it, probably
+F# E  but *I*, I, I, I, I probably WON'T, probably won't, probably
+B E   That HE, he, he, he's the sound you WANT now, the sound you want now, sound
+F# E  And *I*, I, I, I'm the noise you DON'T, the noise you don't
+
+B B    And I'm just saying it's a bummer, man
+F# F#  I'm sorry for interrupting, I guess I'll go.
+
+
+    1234567890123456
+BB  dudu  dudu udud
+F#E dudu ud
+
+The lead guitar part after "I guess ill go":
+e|-11-9-14-12-------------9-14-14-11-9-----|
+B|------------7s9-7-9--12------------------|
+
+ Suggest correction What's this?
+
+======================================================================
+Quito
+by The Mountain Goats
+tabbed by Jonathan Bliss
+      and Andy Moskowitz
+
+B E B B   When I receive the blessing I've got coming
+E F# B B  I'm going to raise an ice-cold glass of water
+B B E E   And toast the living and the dead who've gone before me
+B F# B B  And my head will throb like an old wound reopening
+
+B E B B    When I get off the bus down there my children
+E F# B B   They all are going to greet me at the station
+B B E E    Like gypsies they will dance around me
+               / And the choral droning sound their voices make
+B F# B B   will saturate the evening
+
+B E B B   When I get off the wheel I'm going to stop
+E F# B B  And make amends to everyone I've wounded
+B B E E   And when I wave my magic wand, those few who've slipped the surly bonds
+B F# B B  will rise like salmon at the spawning
+
+======================================================================
+The Mountain Goats- This Year
+https://www.youtube.com/watch?v=z34jAB7QbPA
+
+Tuning: Standard
+
+Chords by Section
+
+ [Intro and Between Verses/Chorus]
+
+Dsus2 x57755
+F#m   244222
+
+         1234567890123456
+A C#m    D D u x D udududu
+Dsus2 A  D DuD x D udududu
+A E      D Dud x D udududu
+D A      D Dud x D ududddd
+A E      D D DDu D udududu
+D A      D D DDu D udu udu
+
+AEDA  I broke free on a Saturday morning / put the pedal to the floor
+AED   Headed north on Mills Avenue / and listened to the engine roar
+
+A                D dududu     ?
+A C#m    D D u x D udududu
+Dsus2 A  D Dud x D ududddd
+A E      D D DDu D udududu
+D A      D Dud d D udududu
+
+AEDA  My broken house behind me and good things ahead
+        / a girl named Cathy wants a little of my time
+AEDA  Six cylinders underneath the hood crashing and kicking
+        / Aha listen to the engine whine
+
+AE / DA   D Duddu D  du udu    I am gonna ...
+AE / DA   D Duddu D udududu    I am gonna ...
+
+A C#m     D D u x D udududu
+Dsus2 A   D Dud x D ududddd
+A E       D D DDu D udududu
+D A       D Dud d D udu udu
+
+AEDA  I played video games ...
+AEDA  hurt my knuckles punching ...
+
+A C#m     D D u x D udududu
+Dsus2 A   D Dud x D ududddd
+A E       D D DDu D udududu
+D A       D Duddu D udududu
+
+AEDA     And then Cathy showed up and we hung out
+            / trading swigs from a bottle all bitter and clean
+AEDA     locking eyes holding hands
+            / twin high maintenance machines
+
+AE / DA   D Duddu D udu udu    I am gonna ...
+AE / DA   D Duddu D udududu    I am gonna ...
+
+F#m A  I drove home in the California dusk,
+F#m A  I could feel the alcohol inside of me hum
+F#m A  Pictured the look on my stepfather's face
+DE     ready for the bad things to come.
+
+AEDA  I downshifted as I pulled into the driveway
+          / the motor screaming out stuck in second gear
+AEDA  The scene ends badly as you might imagine
+          / in a cavalcade of anger and fear
+A C#m  There will be feasting and dancing 
+Dsus2 E   / in Jerusalem next year
+
+AE / DA   D Duddu D udu udu    I am gonna ...
+AE / DA   D Duddu D ud\/d\/    I am gonna ...
+
+A C#m     D D u x D udududu
+Dsus2 A   D Dud x D udududd  ?
+A E       D D DDu D udududu
+D A       DDDDDD D
+
+-------------------------------
+         1234567890123456
+A C#m    D D u x D udududu
+Dsus2 A  D DuD x D udududu
+A E      D Dud x D udududu
+D A      D Dud x D ududddd
+A E      D D DDu D udududu
+D A      D D DDu D udu udu
+AEDA AED    I broke free on a Saturday morning...
+A                D dududu     ?
+A C#m    D D u x D udududu
+Dsus2 A  D Dud x D ududddd
+A E      D D DDu D udududu
+D A      D Dud d D udududu
+
+AEDA  My broken house behind me and good things ahead, a girl named Cathy wants
+AEDA  Six cylinders underneath the hood crashing and kicking, Aha listen to the
+AE / DA   D Duddu D  du udu    I am gonna ...
+AE / DA   D Duddu D udududu    I am gonna ...
+A C#m     D D u x D udududu
+Dsus2 A   D Dud x D ududddd
+A E       D D DDu D udududu
+D A       D Dud d D udu udu
+
+AEDA I played video games in a drunken haze, I was 17 years old
+AEDA hurt my knuckles punching the machines, the taste of scotch rich on my tongu
+A C#m     D D u x D udududu
+Dsus2 A   D Dud x D ududddd
+A E       D D DDu D udududu
+D A       D Duddu D udududu
+
+AEDA And then Cathy showed up and we hung out, trading swigs from a bottle all
+AEDA locking eyes holding hands, twin high maintenance machines
+AE / DA   D Duddu D udu udu    I am gonna ...
+AE / DA   D Duddu D udududu    I am gonna ...
+F#m A    I drove home in the California dusk,
+F#m A    I could feel the alcohol inside of me hum
+F#m A    Pictured the look on my stepfather's face
+DE       ready for the bad things to come.
+
+AEDA  I downshifted as I pulled into the driveway, the motor screaming out stuck
+AEDA  The scene ends badly as you might imagine, in a cavalcade of anger and fear
+A C#m  There will be feasting and dancing 
+Dsus2 E   / in Jerusalem next year
+AE / DA   D Duddu D udu udu    I am gonna ...
+AE / DA   D Duddu D ud\/d\/    I am gonna ...
+A C#m     D D u x D udududu
+Dsus2 A   D Dud x D udududd  ?
+A E       D D DDu D udududu
+D A       DDDDDD D
+
+-------------------------------
+I broke free on a Saturday morning, I put the pedal to the floor
+Headed north on Mills Avenue and listened to the engine roar
+
+My broken house behind me and good things ahead
+    / a girl named Cathy wants a little of my time
+Six cylinders underneath the hood crashing and kicking
+    / Aha listen to the engine whine
+
+I am going to make it through this year if it kills me
+I am going to make it though this year if it kills me
+
+I played video games in a drunken haze, I was seventeen years young
+Hurt my knuckles punching the machines, the taste of scotch rich on my tongue
+
+And then Cathy showed up and we hung out
+   / trading swigs from a bottle all bitter and clean
+locking eyes holding hands, twin high maintenance machines
+
+I am going to make it through this year if it kills me
+I am going to make it though this year if it kills me
+
+I drove home in the California dusk, I could feel the alcohol inside of me hum
+Pictured the look on my stepfather's face, ready for the bad things to come.
+
+I down shifted as I pulled into the driveway
+   / the motor screaming out stuck in second gear
+The scene ends badly as you might imagine, in a cavalcade of anger and fear
+
+There will be feasting and dancing in Jerusalem next year
+
+I am going to make it through this year if it kills me
+I am going to make it though this year if it kills me
+
+----------
+steps
+Bm x24432
+A-Bm-C#m Dsus2-C#m-A
+A-Bm-E   D-#Cm-A
+
+======================================================================
 ======================================================================
 ======================================================================
 ======================================================================
