@@ -7275,106 +7275,39 @@ Dsus2 x57755
 F#m   244222
 
          1234567890123456
-A C#m    D D u x D udududu
-Dsus2 A  D DuD x D udududu
-A E      D Dud x D udududu
-D A      D Dud x D ududddd
-A E      D D DDu D udududu
-D A      D D DDu D udu udu
-
-AEDA  I broke free on a Saturday morning / put the pedal to the floor
-AED   Headed north on Mills Avenue / and listened to the engine roar
-
-A                D dududu     ?
-A C#m    D D u x D udududu
-Dsus2 A  D Dud x D ududddd
-A E      D D DDu D udududu
-D A      D Dud d D udududu
-
-AEDA  My broken house behind me and good things ahead
-        / a girl named Cathy wants a little of my time
-AEDA  Six cylinders underneath the hood crashing and kicking
-        / Aha listen to the engine whine
-
-AE / DA   D Duddu D  du udu    I am gonna ...
-AE / DA   D Duddu D udududu    I am gonna ...
-
-A C#m     D D u x D udududu
-Dsus2 A   D Dud x D ududddd
-A E       D D DDu D udududu
-D A       D Dud d D udu udu
-
-AEDA  I played video games ...
-AEDA  hurt my knuckles punching ...
-
-A C#m     D D u x D udududu
-Dsus2 A   D Dud x D ududddd
-A E       D D DDu D udududu
-D A       D Duddu D udududu
-
-AEDA     And then Cathy showed up and we hung out
-            / trading swigs from a bottle all bitter and clean
-AEDA     locking eyes holding hands
-            / twin high maintenance machines
-
-AE / DA   D Duddu D udu udu    I am gonna ...
-AE / DA   D Duddu D udududu    I am gonna ...
-
-F#m A  I drove home in the California dusk,
-F#m A  I could feel the alcohol inside of me hum
-F#m A  Pictured the look on my stepfather's face
-DE     ready for the bad things to come.
-
-AEDA  I downshifted as I pulled into the driveway
-          / the motor screaming out stuck in second gear
-AEDA  The scene ends badly as you might imagine
-          / in a cavalcade of anger and fear
-A C#m  There will be feasting and dancing 
-Dsus2 E   / in Jerusalem next year
-
-AE / DA   D Duddu D udu udu    I am gonna ...
-AE / DA   D Duddu D ud\/d\/    I am gonna ...
-
-A C#m     D D u x D udududu
-Dsus2 A   D Dud x D udududd  ?
-A E       D D DDu D udududu
-D A       DDDDDD D
-
--------------------------------
-         1234567890123456
-A C#m    D D u x D udududu
-Dsus2 A  D DuD x D udududu
-A E      D Dud x D udududu
-D A      D Dud x D ududddd
-A E      D D DDu D udududu
-D A      D D DDu D udu udu
+A C#m    D D ux D udududu
+Dsus2 A  D DuDx D udududu
+A E      D Dudx D udududu
+D A      D Dudx D udududd
+A E      D D DDuD udududu
+D A      D D DDuD udu udu
 AEDA AED    I broke free on a Saturday morning...
-A                D dududu     ?
-A C#m    D D u x D udududu
-Dsus2 A  D Dud x D ududddd
-A E      D D DDu D udududu
-D A      D Dud d D udududu
+A               D udu udu     ?
+A C#m    D D ux D udududu
+Dsus2 A  D Dudx D udududd
+A E      D D DDuD udududu
+D A      D Dud dD udududu
 
 AEDA  My broken house behind me and good things ahead, a girl named Cathy wants
 AEDA  Six cylinders underneath the hood crashing and kicking, Aha listen to the
-AE / DA   D Duddu D  du udu    I am gonna ...
-AE / DA   D Duddu D udududu    I am gonna ...
-A C#m     D D u x D udududu
-Dsus2 A   D Dud x D ududddd
-A E       D D DDu D udududu
-D A       D Dud d D udu udu
+AE / DA   D DudduD  du udu    I am gonna ...
+AE / DA   D DudduD udududu    I am gonna ...
+A C#m     D D ux D udududu
+Dsus2 A   D Dudx D udududd
+A E       D D DDuD udududu
+D A       D Dud dD udu udu
 
-AEDA I played video games in a drunken haze, I was 17 years old
+AEDA I played video games in a drunken haze, I was 17 years young
 AEDA hurt my knuckles punching the machines, the taste of scotch rich on my tongu
-A C#m     D D u x D udududu
-Dsus2 A   D Dud x D ududddd
-A E       D D DDu D udududu
-D A       D Duddu D udududu
+A C#m     D D ux D udududu
+Dsus2 A   D Dudx D udududd
+A E       D D DDuD udududu
+D A       D DudduD udududu
 
 AEDA And then Cathy showed up and we hung out, trading swigs from a bottle all
 AEDA locking eyes holding hands, twin high maintenance machines
-AE / DA   D Duddu D udu udu    I am gonna ...
-AE / DA   D Duddu D udududu    I am gonna ...
+AE / DA   D DudduD udu udu    I am gonna ...
+AE / DA   D DudduD udududu    I am gonna ...
 F#m A    I drove home in the California dusk,
 F#m A    I could feel the alcohol inside of me hum
 F#m A    Pictured the look on my stepfather's face
@@ -7384,11 +7317,11 @@ AEDA  I downshifted as I pulled into the driveway, the motor screaming out stuck
 AEDA  The scene ends badly as you might imagine, in a cavalcade of anger and fear
 A C#m  There will be feasting and dancing 
 Dsus2 E   / in Jerusalem next year
-AE / DA   D Duddu D udu udu    I am gonna ...
-AE / DA   D Duddu D ud\/d\/    I am gonna ...
-A C#m     D D u x D udududu
-Dsus2 A   D Dud x D udududd  ?
-A E       D D DDu D udududu
+AE / DA   D DudduD udu udu    I am gonna ...
+AE / DA   D DudduD ud\/d\/    I am gonna ...
+A C#m     D D ux D udududu
+Dsus2 A   D Dudx D udududd  ?
+A E       D D DDuD udududu
 D A       DDDDDD D
 
 -------------------------------
