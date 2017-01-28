@@ -79,7 +79,6 @@ internet suggestion
 -------------------
 Short Song for Justin Bieber and His Paparazzi
 Weekend In Western Illinois 
-First Few Desperate Hours 
 Linda Blair Was Born Innocent 
 Letter from Belgium 
 - Jam Eater Blues 
@@ -90,7 +89,6 @@ Then
 - Mess Inside 
 - Jenny 
 - Fault Lines 
-Palmcorder Yajna : just a great song to play acoustically and isn't hard at all.
 Going to alaska 
 Magpie (great for practicing chord changes, too) 
 Crows 
@@ -700,82 +698,6 @@ b1 b0 a0 D
 
 ======================================================================
 
-Thank You Mario But Our Princess Is In Another Castle
-
-piano
-D       D..F#.A
-Cadd9   C.E.G...D
-A       G..C#.E
-G       G.B.D
-Gadd9   G.B.D...A
-
-This is the live version w/ guitar. Studio is 1/2 step down. (D --> C#)
-
-Cadd9 x32033
-G     320033
-
-D xu uxu
-
-1234567812345678
-D  D  D  D  D du
-   sus4  sus2
-
-D  Cadd9  A   G
-
-D Cadd9 A G    I waited here all by myself
-D Cadd9 A G    the room was dark and it smelled like sulfur
-G A D G        I heard the screams from way down in the darkness
-D A D D        felt pretty sure my life was over
-
-1234567812345678
-D  D  D  D  D du
-   sus4  sus2
-
-D Cadd9 A G    I kept my hat on just for luck
-D Cadd9 A G    sang simple tunes the whole night through
-G A D G        I wondered if I'd wake to find myself in flames
-D A D D        as I waited here for you
-
-12345678
-D D D D 
-
-               G    A
-yeah when you came in
-D                   G     D    A    D
-I could breathe again
-
-1234567812345678
-D  D  D  D  D D
-4        4  4 4
-
-D Cadd9 A G    I waited here all by myself
-D Cadd9 A G    the room was dark and it smelled like sulfur
-G A D G        I heard the screams from way down in the darkness
-D A D D        felt pretty sure my life was over
-
-D Cadd9 A G    I kept my hat on just for luck
-D Cadd9 A G    sang simple tunes the whole night through
-G A D G        I wondered if I'd wake to find myself in flames
-D A D D        as I waited here for you
-
-G A D G       yeah when you came in I could breathe again
-D A D D      
-
-D Cadd9 A G   I saw some guys dressed up like sorcerers
-D Cadd9 A G   blue robes that flowed above the ground
-G A D G       they came and went and I was frightened for my life
-D A D D       I tried not to make a sound
-
-D Cadd9 A G   just when my solitude was closing in
-D Cadd9 A G   I heard a howl like screeching tires
-G A D G       and I told you the one thing I know how to say
-D A D D       to the bright ringing drone of eight-bit choirs
-
-G A D G       yeah when you came in I could breathe again
-D A D D      
-
-======================================================================
-
 Duke Ellington
 
     1234567890123456
@@ -1123,6 +1045,219 @@ D A D G    and slowly, surely / i saw the whole story unwind
 D A G D    i had never loved anyone like i loved you
               and i had something on my mind
 
+======================================================================
+
+First Few Desperate Hours
+
+       1234567812345678
+E-F#   D  u uD  u uDudu
+A      D  u uD  u uDudu
+E-F#   Dudu  D  u uDudu
+A      Dudu  Dudu uDudu
+E-F#   Dudu  D  u uDudu
+A      Dudu  D  u uDudu
+E-F#   Dudu  D  ud Dudu
+A      Dudu  D  ud Dudu
+A      Dudu  D  ud Dudu
+
+Bad luck
+E-F#   Dudu  D  u uDudu
+A      Dudu  D  u uDudu
+E-F#   Dudu  D  u uDudu
+A      Dudu  D  u uDudu
+E      D  u uD  u uD D
+E      D  u uD  u uD D
+B      D  u uD  u uD D
+B      D  u uD  u uD D
+
+We have bad dreams
+E-F#   Dudu  D  u uDudu
+A      Dudu  D  u uDudu
+E-F#   Dudu  D  u uDudu
+A      Dudu  D  u uDudu
+E      D ud  D  uduD D
+E      D ud  D  uduD D
+B      Dudu uD  u uDudu
+B      Dudu uD  u uDudu
+
+But they flag
+E      Dudu uD  u uDudu
+E      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+F#     Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+B      Dudu uD  u uDudu
+
+And they sag
+E      Dudu uD  u uDudu
+E      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+F#     Dudu uD   duDudu
+A      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+B      Dudu uD  duduD
+
+E-F#   D uD  D  udud
+A      D uD  D  udududu
+E-F#   D uD  D  udud
+A      D uD  D  udududu
+E-F#   D uD  D  udududu
+A      D uD  D  udududu
+E-F#   D uD  D  udud
+A      D uD  D  udud
+A      D uD  D  udududu
+
+Yeah the driver drops
+E-F#   D uD  D  udud
+A      D uD  D  udududu
+E-F#   D uD  D  udud
+A      D uD  D  udududu
+E      D  u uD  u uD D
+E      D  u uD  u uD D
+B      D  u uD  u uD  u
+B      D  u uD  uduD
+
+And when cloven
+E-F#   D uD  D  udud
+A      D uD  D  udududu
+E-F#   D uD  D  udud
+A      D uD  D  udududu
+E      D  u  D  u uD D
+E      D  u uD  u  D du
+B      D  u uD  u uD du
+B      D  u uD  u uD du
+
+But they drop like flies
+E      Dudu uD  u uDudu
+E      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+A      DududuD  u uDudu
+F#     Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+B      Dudu uD  u uDudu
+
+And they lean like towers
+E      Dudu uD  u uDudu
+E      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+F#     Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+B      Dudu uD  duduD
+
+E-F#   D uD  D  udud
+A      D uD  D  udududu
+E-F#   D uD  D  udud
+A      D uD  D  udududu
+E-F#   D uD  D  udududu
+A      D uD  D  udududu
+E-F#   D uD  D  udud
+A      D du  D  ud d
+A      D du  D  ud d du
+A      D du  D  ud d du
+E      D  u uD  u uD D
+E      D  u uD  u uD D
+E      D  u uD  u uD D
+E      D
+
+
+First Few Desperate Hours
+
+       1234567812345678      X      1234567812345678      X      1234567812345678
+E-F#   D  u uD  u uDudu      And they sag			          But they drop
+A      D  u uD  u uDudu		  E      Dudu uD  u uDudu		 E      Dudu uD  u uDudu
+E-F#   Dudu  D  u uDudu		  E      Dudu uD  u uDudu		 E      Dudu uD  u uDudu
+A      Dudu  Dudu uDudu		  A      Dudu uD  u uDudu		 A      Dudu uD  u uDudu
+E-F#   Dudu  D  u uDudu		  A      Dudu uD  u uDudu		 A      DududuD  u uDudu
+A      Dudu  D  u uDudu		  F#     Dudu uD   duDudu		 F#     Dudu uD  u uDudu
+E-F#   Dudu  D  ud Dudu		  A      Dudu uD  u uDudu		 A      Dudu uD  u uDudu
+A      Dudu  D  ud Dudu		  A      Dudu uD  u uDudu		 A      Dudu uD  u uDudu
+A      Dudu  D  ud Dudu		  B      Dudu uD  duduD  		 B      Dudu uD  u uDudu
+									  							  			 							  
+Bad luck							  E-F#   D uD  D  udud	  		 lean like towers		  
+E-F#   Dudu  D  u uDudu		  A      D uD  D  udududu		 E      Dudu uD  u uDudu
+A      Dudu  D  u uDudu		  E-F#   D uD  D  udud	  		 E      Dudu uD  u uDudu
+E-F#   Dudu  D  u uDudu		  A      D uD  D  udududu		 A      Dudu uD  u uDudu
+A      Dudu  D  u uDudu		  E-F#   D uD  D  udududu		 A      Dudu uD  u uDudu
+E      D  u uD  u uD D		  A      D uD  D  udududu		 F#     Dudu uD  u uDudu
+E      D  u uD  u uD Du		  E-F#   D uD  D  udud	  		 A      Dudu uD  u uDudu
+B      D  u uD  u uD D		  A      D uD  D  udud	  		 A      Dudu uD  u uDudu
+B      D  u uD  u uD Du		  A      D uD  D  udududu		 B      Dudu uD  duduD  
+									  							  			 							  
+We have bad dreams			  Yeah the driver drops  		 E-F#   D uD  D  udud
+E-F#   Dudu  D  u uDudu		  E-F#   D uD  D  udud	  		 A      D uD  D  udududu
+A      Dudu  D  u uDudu		  A      D uD  D  udududu		 E-F#   D uD  D  udud
+E-F#   Dudu  D  u uDudu		  E-F#   D uD  D  udud	  		 A      D uD  D  udududu
+A      Dudu  D  u uDudu		  A      D uD  D  udududu		 E-F#   D uD  D  udududu
+E      D ud  D  uduD D		  E      D  u uD  u uD D 		 A      D uD  D  udududu
+E      D ud  D  uduD D		  E      D  u uD  u uD D 		 E-F#   D uD  D  udud
+B      Dudu uD  u uDudu		  B      D  u uD  u uD  u		 A      D du  D  ud d
+B      Dudu uD  u uDudu		  B      D  u uD  uduD	  		 A      D du  D  ud d du
+									  							  			 A      D du  D  ud d du
+But they flag					  And when cloven		  			 E      D  u uD  u uD D 
+E      Dudu uD  u uDudu		  E-F#   D uD  D  udud	  		 E      D  u uD  u uD D 
+E      Dudu uD  u uDudu		  A      D uD  D  udududu		 E      D  u uD  u uD D 
+A      Dudu uD  u uDudu		  E-F#   D uD  D  udud	  		 E      D               
+A      Dudu uD  u uDudu		  A      D uD  D  udududu
+F#     Dudu uD  u uDudu		  E      D  u  D  u uD D 
+A      Dudu uD  u uDudu		  E      D  u uD  u  D du
+A      Dudu uD  u uDudu		  B      D  u uD  u uD du
+B      Dudu uD  u uDudu		  B      D  u uD  u uD du
+
+
+
+
+I've always played this with the intro being E F# A as below,
+but only fretting the ADG strings, so:
+
+E : 022100
+F#: 044300
+A : 077600
+Intro:
+
+E - F# - A(577655) x2
+
+E-F# A   Bad luck comes in from Tampa
+E-F# A   Bad luck comes in from Tampa
+E E      On the back of a truck / Doing ninety up the
+B B      interstate    B(799877)
+E-F# A   We have bad dreams the night he rolls in
+E-F# A   We have bad dreams the night he rolls in
+E E      And we try to keep our spirits
+B B      high
+E E      But they flag
+A A      and they wane E*(x79997)
+F# A     When the truck pulls up out front
+A B      In the light spring rain
+E E      And they sag
+A A      like withering flowers
+F# A     Let the good times roll on
+A B      Through these first few desperate hours
+
+E-F# A   Yeah the driver drops his cargo at the curb
+E-F# A   The driver drops his cargo at the curb
+E E      And the sun peeks in
+B B      Like a killer through the curtain
+E-F# A   And when cloven hoof prints turn up in the garden
+E-F# A   Yeah when cloven hoof prints turn up in the garden
+E E      We keep up the good fight
+B B      We keep our spirits light
+E E      But they drop 
+A A      like flies
+F# A     And there's a stomach-churning shift
+A B      In the way the land lies
+E E      And they lean
+A A      like towers
+F# A     On a hillside struggling to stand
+A B      Through these first few desperate hours
+Yeah
+
+E - F# - A x4
 
 ======================================================================
 
@@ -1214,6 +1349,235 @@ The andalusian coral snake
 All pale when standing beside this room
 And the heavy hot rains and the sonic boom
 
+======================================================================
+The Mountain Goats- This Year
+https://www.youtube.com/watch?v=z34jAB7QbPA
+
+Tuning: Standard
+
+Chords by Section
+
+ [Intro and Between Verses/Chorus]
+
+Dsus2 x57755
+F#m   244222
+
+         1234567890123456
+A C#m    D D ux D udududu
+Dsus2 A  D DuDx D udududu
+A E      D Dudx D udududu
+D A      D Dudx D udududd
+A E      D D DDuD udududu
+D A      D D DDuD udu udu
+AEDA AED    I broke free on a Saturday morning...
+A               D udu udu     ?
+A C#m    D D ux D udududu
+Dsus2 A  D Dudx D udududd
+A E      D D DDuD udududu
+D A      D Dud dD udududu
+
+AEDA  My broken house behind me and good things ahead, a girl named Cathy wants
+AEDA  Six cylinders underneath the hood crashing and kicking, Aha listen to the
+AE / DA   D DudduD  du udu    I am gonna ...
+AE / DA   D DudduD udududu    I am gonna ...
+A C#m     D D ux D udududu
+Dsus2 A   D Dudx D udududd
+A E       D D DDuD udududu
+D A       D Dud dD udu udu
+
+AEDA I played video games in a drunken haze, I was 17 years young
+AEDA hurt my knuckles punching the machines, the taste of scotch rich on my tongu
+A C#m     D D ux D udududu
+Dsus2 A   D Dudx D udududd
+A E       D D DDuD udududu
+D A       D DudduD udududu
+
+AEDA And then Cathy showed up and we hung out, trading swigs from a bottle all
+AEDA locking eyes holding hands, twin high maintenance machines
+AE / DA   D DudduD udu udu    I am gonna ...
+AE / DA   D DudduD udududu    I am gonna ...
+F#m A    I drove home in the California dusk,
+F#m A    I could feel the alcohol inside of me hum
+F#m A    Pictured the look on my stepfather's face
+DE       ready for the bad things to come.
+
+AEDA  I downshifted as I pulled into the driveway, the motor screaming out stuck
+AEDA  The scene ends badly as you might imagine, in a cavalcade of anger and fear
+A C#m  There will be feasting and dancing 
+Dsus2 E   / in Jerusalem next year
+AE / DA   D DudduD udu udu    I am gonna ...
+AE / DA   D DudduD ud\/d\/    I am gonna ...
+A C#m     D D ux D udududu
+Dsus2 A   D Dudx D udududd  ?
+A E       D D DDuD udududu
+D A       DDDDDD D
+
+-------------------------------
+I broke free on a Saturday morning, I put the pedal to the floor
+Headed north on Mills Avenue and listened to the engine roar
+
+My broken house behind me and good things ahead
+    / a girl named Cathy wants a little of my time
+Six cylinders underneath the hood crashing and kicking
+    / Aha listen to the engine whine
+
+I am going to make it through this year if it kills me
+I am going to make it though this year if it kills me
+
+I played video games in a drunken haze, I was seventeen years young
+Hurt my knuckles punching the machines, the taste of scotch rich on my tongue
+
+And then Cathy showed up and we hung out
+   / trading swigs from a bottle all bitter and clean
+locking eyes holding hands, twin high maintenance machines
+
+I am going to make it through this year if it kills me
+I am going to make it though this year if it kills me
+
+I drove home in the California dusk, I could feel the alcohol inside of me hum
+Pictured the look on my stepfather's face, ready for the bad things to come.
+
+I down shifted as I pulled into the driveway
+   / the motor screaming out stuck in second gear
+The scene ends badly as you might imagine, in a cavalcade of anger and fear
+
+There will be feasting and dancing in Jerusalem next year
+
+I am going to make it through this year if it kills me
+I am going to make it though this year if it kills me
+
+----------
+steps
+Bm x24432
+A-Bm-C#m Dsus2-C#m-A
+A-Bm-E   D-#Cm-A
+
+======================================================================
+Palmcorder Yajna
+Standard tuning
+
+https://www.youtube.com/watch?v=dHhCx6Z-rNI
+
+x24432  Bm
+799777  Bm
+
+intro: A D A D (4x)
+
+    12345678
+A         Du
+A   d d  udu   Holt Boulevard
+E   d du udu
+Bm  d du udu   Between Gary and White
+D   d d  udu
+
+A   d du udu   Hooked up with some friends at the Travelodge
+E   d du udu
+Bm  d du udu   Set ourselves up for the night
+D   d du udu
+
+A   d du udu   Carpenter ants in the dresser
+E   d du udu
+Bm  d du udu   Flies in the screen
+D   d du udu
+
+A   d du udu   It will be too late by the time we learn
+E   d du udu
+D   d d  udu   What these cryptic symbols mean
+E   d du udu
+
+AD  duDuduDu   And I dreamt of a house
+AD  duDuuuDu   Haunted by all you tweakers with your hands out
+               And the headstones climbed up the hills
+6str EEFFGG    And the headstones climbed up the hills
+
+A   d du udu   send somebody out for sodas
+E   d du ud
+Bm  d du udu   comb through the carpet for clues
+D   duDuduDu
+
+A   d du udu   reflective tape on our sweatpants
+E   d du udu
+Bm  d du udu   big holes in our shoes
+D   d du udu
+
+A   dudu udu   Every couple minutes
+E   d du udu
+Bm  d du udu   someone says he can't take it anymore
+D   d du udu
+
+A   d du udu   Laugh lines on our faces
+E   d d  udu
+D   d du udu   Scale maps of the ocean floor
+E   d du udu
+
+AD  duDuduDu   And I dreamt of a camera
+               Pointing out from inside the television
+               And the aperture yawning and blinking
+               And the headstones climbed up the hills
+
+C#m  duDuduDu  If anybody comes to see me
+D    duDuduDu
+A    d Du uDu
+A    d Du uDu
+
+C#m D A A     Tell 'em they just missed me by a minute
+C#m D A A     If anybody comes in to our room while we're asleep
+A E D E       I hope they incinerate everybody in it
+
+
+AD   duDuduDu   And I dreamt of a factory
+                Where they manufactured what I needed
+                Using shiny new machines
+6str EEFFG      And the headstones climbed up the hills
+
+A DuD du udu
+A   d du udu
+D   duDuduDu
+D   duDuduDu
+
+
+
+Holt Boulevard
+Between Gary and White
+Hooked up with some friends at the Travelodge
+Set ourselves up for the night
+Carpenter ants in the dresser
+Flies in the screen
+It will be too late by the time we learn
+What these cryptic symbols mean
+
+And I DREAMT of a house
+Haunted by ALL you tweakers with your hands out
+And the HEADstones climbed up the hills
+And the HEADstones climbed up the hills
+
+Send somebody out for soda
+Comb through the carpet for clues
+Reflective tape on our sweatpants
+Big holes in our shoes
+Every couple minutes someone says he can't stand it any more
+Laugh lines on our faces
+Scale maps of the ocean floor
+
+And I DREAMT of a camera
+Pointing OUT from inside the television
+And the Aperture yawning and blinking
+And the HEADstones climbed up the hills
+
+If anybody comes to see me
+Tell 'em they just missed me by a minute
+If anybody comes in to our room while we're asleep
+I hope they incinerate everybody in it
+
+And I DREAMT of a factory
+Where they MANnufactured what I needed
+Using SHIny new machines
+And the HEADstones climbed up the hills
+
+======================================================================
+======================================================================
+FINISHED PRECISE TABS ABOVE HERE
+======================================================================
 ======================================================================
 
 Going to Marrakesh
@@ -1417,6 +1781,82 @@ G
 Revision: This is what I hear when I listen to the song, but
 please correct it if it's wrong. Cheers/enjoy. -Dan Demmitt 
 
+
+======================================================================
+
+Thank You Mario But Our Princess Is In Another Castle
+
+piano
+D       D..F#.A
+Cadd9   C.E.G...D
+A       G..C#.E
+G       G.B.D
+Gadd9   G.B.D...A
+
+This is the live version w/ guitar. Studio is 1/2 step down. (D --> C#)
+
+Cadd9 x32033
+G     320033
+
+D xu uxu
+
+1234567812345678
+D  D  D  D  D du
+   sus4  sus2
+
+D  Cadd9  A   G
+
+D Cadd9 A G    I waited here all by myself
+D Cadd9 A G    the room was dark and it smelled like sulfur
+G A D G        I heard the screams from way down in the darkness
+D A D D        felt pretty sure my life was over
+
+1234567812345678
+D  D  D  D  D du
+   sus4  sus2
+
+D Cadd9 A G    I kept my hat on just for luck
+D Cadd9 A G    sang simple tunes the whole night through
+G A D G        I wondered if I'd wake to find myself in flames
+D A D D        as I waited here for you
+
+12345678
+D D D D 
+
+               G    A
+yeah when you came in
+D                   G     D    A    D
+I could breathe again
+
+1234567812345678
+D  D  D  D  D D
+4        4  4 4
+
+D Cadd9 A G    I waited here all by myself
+D Cadd9 A G    the room was dark and it smelled like sulfur
+G A D G        I heard the screams from way down in the darkness
+D A D D        felt pretty sure my life was over
+
+D Cadd9 A G    I kept my hat on just for luck
+D Cadd9 A G    sang simple tunes the whole night through
+G A D G        I wondered if I'd wake to find myself in flames
+D A D D        as I waited here for you
+
+G A D G       yeah when you came in I could breathe again
+D A D D      
+
+D Cadd9 A G   I saw some guys dressed up like sorcerers
+D Cadd9 A G   blue robes that flowed above the ground
+G A D G       they came and went and I was frightened for my life
+D A D D       I tried not to make a sound
+
+D Cadd9 A G   just when my solitude was closing in
+D Cadd9 A G   I heard a howl like screeching tires
+G A D G       and I told you the one thing I know how to say
+D A D D       to the bright ringing drone of eight-bit choirs
+
+G A D G       yeah when you came in I could breathe again
+D A D D      
 
 ======================================================================
 
@@ -6208,220 +6648,6 @@ G D C* G C* G D C* G C* G C* G D G
 (listen to the song to get the timing for this end part)
 
 ======================================================================
-
-First Few Desperate Hours
-
-       1234567812345678
-E-F#   D  u uD  u uDudu
-A      D  u uD  u uDudu
-E-F#   Dudu  D  u uDudu
-A      Dudu  Dudu uDudu
-E-F#   Dudu  D  u uDudu
-A      Dudu  D  u uDudu
-E-F#   Dudu  D  ud Dudu
-A      Dudu  D  ud Dudu
-A      Dudu  D  ud Dudu
-
-Bad luck
-E-F#   Dudu  D  u uDudu
-A      Dudu  D  u uDudu
-E-F#   Dudu  D  u uDudu
-A      Dudu  D  u uDudu
-E      D  u uD  u uD D
-E      D  u uD  u uD D
-B      D  u uD  u uD D
-B      D  u uD  u uD D
-
-We have bad dreams
-E-F#   Dudu  D  u uDudu
-A      Dudu  D  u uDudu
-E-F#   Dudu  D  u uDudu
-A      Dudu  D  u uDudu
-E      D ud  D  uduD D
-E      D ud  D  uduD D
-B      Dudu uD  u uDudu
-B      Dudu uD  u uDudu
-
-But they flag
-E      Dudu uD  u uDudu
-E      Dudu uD  u uDudu
-A      Dudu uD  u uDudu
-A      Dudu uD  u uDudu
-F#     Dudu uD  u uDudu
-A      Dudu uD  u uDudu
-A      Dudu uD  u uDudu
-B      Dudu uD  u uDudu
-
-And they sag
-E      Dudu uD  u uDudu
-E      Dudu uD  u uDudu
-A      Dudu uD  u uDudu
-A      Dudu uD  u uDudu
-F#     Dudu uD   duDudu
-A      Dudu uD  u uDudu
-A      Dudu uD  u uDudu
-B      Dudu uD  duduD
-
-E-F#   D uD  D  udud
-A      D uD  D  udududu
-E-F#   D uD  D  udud
-A      D uD  D  udududu
-E-F#   D uD  D  udududu
-A      D uD  D  udududu
-E-F#   D uD  D  udud
-A      D uD  D  udud
-A      D uD  D  udududu
-
-Yeah the driver drops
-E-F#   D uD  D  udud
-A      D uD  D  udududu
-E-F#   D uD  D  udud
-A      D uD  D  udududu
-E      D  u uD  u uD D
-E      D  u uD  u uD D
-B      D  u uD  u uD  u
-B      D  u uD  uduD
-
-And when cloven
-E-F#   D uD  D  udud
-A      D uD  D  udududu
-E-F#   D uD  D  udud
-A      D uD  D  udududu
-E      D  u  D  u uD D
-E      D  u uD  u  D du
-B      D  u uD  u uD du
-B      D  u uD  u uD du
-
-But they drop like flies
-E      Dudu uD  u uDudu
-E      Dudu uD  u uDudu
-A      Dudu uD  u uDudu
-A      DududuD  u uDudu
-F#     Dudu uD  u uDudu
-A      Dudu uD  u uDudu
-A      Dudu uD  u uDudu
-B      Dudu uD  u uDudu
-
-And they lean like towers
-E      Dudu uD  u uDudu
-E      Dudu uD  u uDudu
-A      Dudu uD  u uDudu
-A      Dudu uD  u uDudu
-F#     Dudu uD  u uDudu
-A      Dudu uD  u uDudu
-A      Dudu uD  u uDudu
-B      Dudu uD  duduD
-
-E-F#   D uD  D  udud
-A      D uD  D  udududu
-E-F#   D uD  D  udud
-A      D uD  D  udududu
-E-F#   D uD  D  udududu
-A      D uD  D  udududu
-E-F#   D uD  D  udud
-A      D du  D  ud d
-A      D du  D  ud d du
-A      D du  D  ud d du
-E      D  u uD  u uD D
-E      D  u uD  u uD D
-E      D  u uD  u uD D
-E      D
-
-
-First Few Desperate Hours
-
-       1234567812345678      X      1234567812345678      X      1234567812345678
-E-F#   D  u uD  u uDudu      And they sag			          But they drop
-A      D  u uD  u uDudu		  E      Dudu uD  u uDudu		 E      Dudu uD  u uDudu
-E-F#   Dudu  D  u uDudu		  E      Dudu uD  u uDudu		 E      Dudu uD  u uDudu
-A      Dudu  Dudu uDudu		  A      Dudu uD  u uDudu		 A      Dudu uD  u uDudu
-E-F#   Dudu  D  u uDudu		  A      Dudu uD  u uDudu		 A      DududuD  u uDudu
-A      Dudu  D  u uDudu		  F#     Dudu uD   duDudu		 F#     Dudu uD  u uDudu
-E-F#   Dudu  D  ud Dudu		  A      Dudu uD  u uDudu		 A      Dudu uD  u uDudu
-A      Dudu  D  ud Dudu		  A      Dudu uD  u uDudu		 A      Dudu uD  u uDudu
-A      Dudu  D  ud Dudu		  B      Dudu uD  duduD  		 B      Dudu uD  u uDudu
-									  							  			 							  
-Bad luck							  E-F#   D uD  D  udud	  		 lean like towers		  
-E-F#   Dudu  D  u uDudu		  A      D uD  D  udududu		 E      Dudu uD  u uDudu
-A      Dudu  D  u uDudu		  E-F#   D uD  D  udud	  		 E      Dudu uD  u uDudu
-E-F#   Dudu  D  u uDudu		  A      D uD  D  udududu		 A      Dudu uD  u uDudu
-A      Dudu  D  u uDudu		  E-F#   D uD  D  udududu		 A      Dudu uD  u uDudu
-E      D  u uD  u uD D		  A      D uD  D  udududu		 F#     Dudu uD  u uDudu
-E      D  u uD  u uD Du		  E-F#   D uD  D  udud	  		 A      Dudu uD  u uDudu
-B      D  u uD  u uD D		  A      D uD  D  udud	  		 A      Dudu uD  u uDudu
-B      D  u uD  u uD Du		  A      D uD  D  udududu		 B      Dudu uD  duduD  
-									  							  			 							  
-We have bad dreams			  Yeah the driver drops  		 E-F#   D uD  D  udud
-E-F#   Dudu  D  u uDudu		  E-F#   D uD  D  udud	  		 A      D uD  D  udududu
-A      Dudu  D  u uDudu		  A      D uD  D  udududu		 E-F#   D uD  D  udud
-E-F#   Dudu  D  u uDudu		  E-F#   D uD  D  udud	  		 A      D uD  D  udududu
-A      Dudu  D  u uDudu		  A      D uD  D  udududu		 E-F#   D uD  D  udududu
-E      D ud  D  uduD D		  E      D  u uD  u uD D 		 A      D uD  D  udududu
-E      D ud  D  uduD D		  E      D  u uD  u uD D 		 E-F#   D uD  D  udud
-B      Dudu uD  u uDudu		  B      D  u uD  u uD  u		 A      D du  D  ud d
-B      Dudu uD  u uDudu		  B      D  u uD  uduD	  		 A      D du  D  ud d du
-									  							  			 A      D du  D  ud d du
-But they flag					  And when cloven		  			 E      D  u uD  u uD D 
-E      Dudu uD  u uDudu		  E-F#   D uD  D  udud	  		 E      D  u uD  u uD D 
-E      Dudu uD  u uDudu		  A      D uD  D  udududu		 E      D  u uD  u uD D 
-A      Dudu uD  u uDudu		  E-F#   D uD  D  udud	  		 E      D               
-A      Dudu uD  u uDudu		  A      D uD  D  udududu
-F#     Dudu uD  u uDudu		  E      D  u  D  u uD D 
-A      Dudu uD  u uDudu		  E      D  u uD  u  D du
-A      Dudu uD  u uDudu		  B      D  u uD  u uD du
-B      Dudu uD  u uDudu		  B      D  u uD  u uD du
-
-
-
-
-I've always played this with the intro being E F# A as below,
-but only fretting the ADG strings, so:
-
-E : 022100
-F#: 044300
-A : 077600
-Intro:
-
-E - F# - A(577655) x2
-
-E-F# A   Bad luck comes in from Tampa
-E-F# A   Bad luck comes in from Tampa
-E E      On the back of a truck / Doing ninety up the
-B B      interstate    B(799877)
-E-F# A   We have bad dreams the night he rolls in
-E-F# A   We have bad dreams the night he rolls in
-E E      And we try to keep our spirits
-B B      high
-E E      But they flag
-A A      and they wane E*(x79997)
-F# A     When the truck pulls up out front
-A B      In the light spring rain
-E E      And they sag
-A A      like withering flowers
-F# A     Let the good times roll on
-A B      Through these first few desperate hours
-
-E-F# A   Yeah the driver drops his cargo at the curb
-E-F# A   The driver drops his cargo at the curb
-E E      And the sun peeks in
-B B      Like a killer through the curtain
-E-F# A   And when cloven hoof prints turn up in the garden
-E-F# A   Yeah when cloven hoof prints turn up in the garden
-E E      We keep up the good fight
-B B      We keep our spirits light
-E E      But they drop 
-A A      like flies
-F# A     And there's a stomach-churning shift
-A B      In the way the land lies
-E E      And they lean
-A A      like towers
-F# A     On a hillside struggling to stand
-A B      Through these first few desperate hours
-Yeah
-
-E - F# - A x4
-
-======================================================================
 Mountain Goats - The Fall of the Star High School Running Back.
  
 A* = Asus2 A Asus4
@@ -6728,127 +6954,6 @@ And the Green-eyed Goddess got ready for all out war
 I'd count my blessings but I don't even know what the word "blessing" means
 When love cuts the strings
 Yeah!
-
-======================================================================
-Standard tuning
-
-https://www.youtube.com/watch?v=dHhCx6Z-rNI
-
-x24432  Bm
-799777  Bm
-
-intro: A D A D (4x)
-
-    12345678
-A         Du
-A   d d  udu   Holt Boulevard
-E   d du udu
-Bm  d du udu   Between Gary and White
-D   d d  udu
-
-A   d du udu   Hooked up with some friends at the Travelodge
-E   d du udu
-Bm  d du udu   Set ourselves up for the night
-D   d du udu
-
-A   d du udu   Carpenter ants in the dresser
-E   d du udu
-Bm  d du udu   Flies in the screen
-D   d du udu
-
-A   d du udu   It will be too late by the time we learn
-E   d du udu
-D   d d  udu   What these cryptic symbols mean
-E   d du udu
-
-AD  duDuduDu   And I dreamt of a house
-AD  duDuuuDu   Haunted by all you tweakers with your hands out
-               And the headstones climbed up the hills
-6str EEFFGG    And the headstones climbed up the hills
-
-A   d du udu   send somebody out for sodas
-E   d du ud
-Bm  d du udu   comb through the carpet for clues
-D   duDuduDu
-
-A   d du udu   reflective tape on our sweatpants
-E   d du udu
-Bm  d du udu   big holes in our shoes
-D   d du udu
-
-A   dudu udu   Every couple minutes
-E   d du udu
-Bm  d du udu   someone says he can't take it anymore
-D   d du udu
-
-A   d du udu   Laugh lines on our faces
-E   d d  udu
-D   d du udu   Scale maps of the ocean floor
-E   d du udu
-
-AD  duDuduDu   And I dreamt of a camera
-               Pointing out from inside the television
-               And the aperture yawning and blinking
-               And the headstones climbed up the hills
-
-C#m  duDuduDu  If anybody comes to see me
-D    duDuduDu
-A    d Du uDu
-A    d Du uDu
-
-C#m D A A     Tell 'em they just missed me by a minute
-C#m D A A     If anybody comes in to our room while we're asleep
-A E D E       I hope they incinerate everybody in it
-
-
-AD   duDuduDu   And I dreamt of a factory
-                Where they manufactured what I needed
-                Using shiny new machines
-6str EEFFG      And the headstones climbed up the hills
-
-A DuD du udu
-A   d du udu
-D   duDuduDu
-D   duDuduDu
-
-
-
-Holt Boulevard
-Between Gary and White
-Hooked up with some friends at the Travelodge
-Set ourselves up for the night
-Carpenter ants in the dresser
-Flies in the screen
-It will be too late by the time we learn
-What these cryptic symbols mean
-
-And I DREAMT of a house
-Haunted by ALL you tweakers with your hands out
-And the HEADstones climbed up the hills
-And the HEADstones climbed up the hills
-
-Send somebody out for soda
-Comb through the carpet for clues
-Reflective tape on our sweatpants
-Big holes in our shoes
-Every couple minutes someone says he can't stand it any more
-Laugh lines on our faces
-Scale maps of the ocean floor
-
-And I DREAMT of a camera
-Pointing OUT from inside the television
-And the Aperture yawning and blinking
-And the HEADstones climbed up the hills
-
-If anybody comes to see me
-Tell 'em they just missed me by a minute
-If anybody comes in to our room while we're asleep
-I hope they incinerate everybody in it
-
-And I DREAMT of a factory
-Where they MANnufactured what I needed
-Using SHIny new machines
-And the HEADstones climbed up the hills
 
 ======================================================================
 Same progression throughout: A E Bm D
@@ -7260,109 +7365,6 @@ B E B B   When I get off the wheel I'm going to stop
 E F# B B  And make amends to everyone I've wounded
 B B E E   And when I wave my magic wand, those few who've slipped the surly bonds
 B F# B B  will rise like salmon at the spawning
-
-======================================================================
-The Mountain Goats- This Year
-https://www.youtube.com/watch?v=z34jAB7QbPA
-
-Tuning: Standard
-
-Chords by Section
-
- [Intro and Between Verses/Chorus]
-
-Dsus2 x57755
-F#m   244222
-
-         1234567890123456
-A C#m    D D ux D udududu
-Dsus2 A  D DuDx D udududu
-A E      D Dudx D udududu
-D A      D Dudx D udududd
-A E      D D DDuD udududu
-D A      D D DDuD udu udu
-AEDA AED    I broke free on a Saturday morning...
-A               D udu udu     ?
-A C#m    D D ux D udududu
-Dsus2 A  D Dudx D udududd
-A E      D D DDuD udududu
-D A      D Dud dD udududu
-
-AEDA  My broken house behind me and good things ahead, a girl named Cathy wants
-AEDA  Six cylinders underneath the hood crashing and kicking, Aha listen to the
-AE / DA   D DudduD  du udu    I am gonna ...
-AE / DA   D DudduD udududu    I am gonna ...
-A C#m     D D ux D udududu
-Dsus2 A   D Dudx D udududd
-A E       D D DDuD udududu
-D A       D Dud dD udu udu
-
-AEDA I played video games in a drunken haze, I was 17 years young
-AEDA hurt my knuckles punching the machines, the taste of scotch rich on my tongu
-A C#m     D D ux D udududu
-Dsus2 A   D Dudx D udududd
-A E       D D DDuD udududu
-D A       D DudduD udududu
-
-AEDA And then Cathy showed up and we hung out, trading swigs from a bottle all
-AEDA locking eyes holding hands, twin high maintenance machines
-AE / DA   D DudduD udu udu    I am gonna ...
-AE / DA   D DudduD udududu    I am gonna ...
-F#m A    I drove home in the California dusk,
-F#m A    I could feel the alcohol inside of me hum
-F#m A    Pictured the look on my stepfather's face
-DE       ready for the bad things to come.
-
-AEDA  I downshifted as I pulled into the driveway, the motor screaming out stuck
-AEDA  The scene ends badly as you might imagine, in a cavalcade of anger and fear
-A C#m  There will be feasting and dancing 
-Dsus2 E   / in Jerusalem next year
-AE / DA   D DudduD udu udu    I am gonna ...
-AE / DA   D DudduD ud\/d\/    I am gonna ...
-A C#m     D D ux D udududu
-Dsus2 A   D Dudx D udududd  ?
-A E       D D DDuD udududu
-D A       DDDDDD D
-
--------------------------------
-I broke free on a Saturday morning, I put the pedal to the floor
-Headed north on Mills Avenue and listened to the engine roar
-
-My broken house behind me and good things ahead
-    / a girl named Cathy wants a little of my time
-Six cylinders underneath the hood crashing and kicking
-    / Aha listen to the engine whine
-
-I am going to make it through this year if it kills me
-I am going to make it though this year if it kills me
-
-I played video games in a drunken haze, I was seventeen years young
-Hurt my knuckles punching the machines, the taste of scotch rich on my tongue
-
-And then Cathy showed up and we hung out
-   / trading swigs from a bottle all bitter and clean
-locking eyes holding hands, twin high maintenance machines
-
-I am going to make it through this year if it kills me
-I am going to make it though this year if it kills me
-
-I drove home in the California dusk, I could feel the alcohol inside of me hum
-Pictured the look on my stepfather's face, ready for the bad things to come.
-
-I down shifted as I pulled into the driveway
-   / the motor screaming out stuck in second gear
-The scene ends badly as you might imagine, in a cavalcade of anger and fear
-
-There will be feasting and dancing in Jerusalem next year
-
-I am going to make it through this year if it kills me
-I am going to make it though this year if it kills me
-
-----------
-steps
-Bm x24432
-A-Bm-C#m Dsus2-C#m-A
-A-Bm-E   D-#Cm-A
 
 ======================================================================
 ======================================================================

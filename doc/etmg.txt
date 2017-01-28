@@ -1,0 +1,1452 @@
+======================================================================
+
+Grendel's Mother -- The Mountain Goats
+
+    1234567812345678
+D:  D   D  du D  D     last down is A=x022xx
+G:  D   D dud D     last D is treble
+D:  D   D  du D  D
+G:  D u D dud D  
+repeat or more variation?  listen
+
+     1234567812345678
+D:   D   D  du D dud     Cave mouth shines 
+G:   D   D  du D
+D:   D   D  du D dud     by pure force of will
+G:   D   D dud D
+D:   D   D  du D dud     I look down on the world
+G:   D   D  du D
+D:   D   D  du D dud     from the top of this lonesome hill
+G:   D       D   u D
+D:   D   D  du D dud     and you can run and run some more
+A:   D   D  du D dud    
+D:   D       D   D       from here all the way to singaport
+G:   D   D  du D dud    
+D:   D   D  du D dud     but I will carry you home in my teeth
+A:   D   D  du D dud    
+     12345678123456781234567812345678
+D:   D   D dud D duD dud D dud D dud    
+
+
+     1234567812345678
+D:   D   D  du D dud    In the great halls
+G:   D       D  D     
+D:   D   D  du D dud    you chew
+G:   D   D dud  D    
+D:   D u D  du D dud    I beat
+G:   D   D   D  D      
+D:   D u D  du D dud    i come
+G:   D   D dud D dud    
+D:   D   D  du D D u    i laid
+A:   D   D  du D dud    
+D:   D   u D  u D du    fire
+G:   D   D dud D dud
+D:   D   D dud D dud    you can stand up or you can run
+A:   D   D dud D dud
+D:   D   u D  u D du    you and I
+G:   D   D dud D dud
+D:   D   D  du D dud    and i will
+A:   D   D  du D D D
+D:   D   D  du D dud    i will
+G:   D    dudud D       trebley dudud, treble G
+D:   D u D  du D dud    i will
+A:   D   D  du D dud    
+     12345678123456781234567812345678
+D:   D   D dud D  ud  ud D dud D dud    
+
+     1234567812345678
+D:   D   D dud D u    jjplay -s103 -r.8 grendel 
+G:   D u D dud D      first two D are treble
+D:   D u D dud D du 
+G:   D u D dud D     
+D:   D u D dud D du 
+G:   D u D dud D     
+D:   D u D dud D u    jjplay -s115 -r.9 grendel 
+G:   D u D  du D dud    
+D:   D   D dud D u
+A:   D u D  du D dudu
+D:   D   D dud D u
+G:   D u D dud D            treb
+D:   D u D dud D dudu
+A:   D   D dud D u
+D:   D u D  du D duduD
+ 
+
+
+jjplay -s48 -4.7 grendel
+
+flair1 x4
+1...2...3...4...5...6...7...8...
+d   d  du d  du d   d  du d d d 
+
+flair2 x1
+1...2...3...4...5...6...7...8...
+d   d dud d d dud   d  du d   du
+
+tabbed by kevin ricker.
+
+D - G  A - D
+
+DGDG   the cave mouth shines / by pure force of will
+DGDG   i look down on the world / from the top of this lonesome hill
+DADG   and you can run, and run some more / from here all the way to singapore
+DADD   but i will carry you home in my teeth
+
+
+DGDG   in the great hall you drink red wine / you chew meat off the bone
+DGDG   i beat down the new path to the castle / i come naked and alone
+DADG   i laid my son on the bier, i burned the wreath /
+         fire overhead, water underneath
+DADG   you can stand up or you can run / you and i both know what you've done
+DADG   and i will carry you home / i will carry you home
+DAD    i will carry you home in my teeth
+
+======================================================================
+
+The Plague -- The Mountain Goats
+
+INTRO: D G D G D A D D*
+
+intro:
+          12345678
+strum:    D DuuuDu
+D* strum: uuDuuuDu
+
+D-riff:
+D DDDDDD duduuddu
+  444 2
+
+There will ... plain
+D DuuuDu
+
+Churns ... grain
+DuDuuDDu
+
+And we will rise ... keep
+12345678
+D D  DDD
+
+lalalala
+D-riff
+
+team...
+G-riff D
+
+G G
+1234567812345678
+D D uuD uDD uDDu
+
+D Em G A  There will be blue skies above the green and verdant plain
+D-riff D-riff
+D Em G A  Churns will swell with fresh butter There will be an
+          abundance of sweet grain
+D-riff D-riff
+
+C Em    And we will rise from our sleep /
+D G     We won't have time to choose what things we'll keep /
+G G ?
+D G     And rivers will all turn to blood /
+D G     Frogs will fall from the sky /
+D A     And the plague will rage /
+G A     Through the countryside /
+D G     Lalalala /
+D G     Lalalala /
+D A D   La la la / La la la / La la la /
+
+D-riff once
+
+D Em G A  There will be cotton clouds Above the fields as white as 
+D Em G A  cream
+D Em G A  There will be loud singing In the churches As we all come out to
+D Em G A  take one for the team /
+
+C Em    And all our great schemes and plans /
+D G     Will slip like fishes from our hands /
+D G     And rivers will all turn to blood /
+D G     Frogs will fall from the sky /
+D A     And the plague will cover /
+G A     The country with its anger /
+D G     Lalalala /
+D G     Lalalala /
+D A D   La la la / La la la / La la la /
+
+Hey.
+
+# wiggle your pinky finger here and there to make some Asus4 and Dsus4 and hopefully it'll sound alright!
+
+======================================================================
+
+Going to Scotland -- The Mountain Goats
+
+(0)
+jjplay -r 0.8 -t 3.8 "goats.*scotland"
+1.2.3.4.5.6.7.8.
+D D  Du D D  D 
+
+(1)
+jjplay -s7.0 -r 0.8 -t 3.5 "goats.*scotland"
+1.2.3.4.5.6.7.8.
+D DuuDuuD DuuDuu
+
+(2)
+jjplay -s3.5 -r 0.8 -t 3.8 "goats.*scotland"
+1.2.3.4.5.6.7.8.
+D DuuDuDuuDuuDud
+
+(3)
+jjplay -s23.1 -r 0.8 -t 3.7 "goats.*scotland"
+1.2.3.4.5.6.7.8.
+D DuuDuDuuDuuDDD
+
+(4)
+jjplay -s29.0 -r 0.8 -t 7 "goats.*scotland"
+1.2.3.4.5.6.7.8.
+D DuuDuDuuDuuDDu
+
+(5)
+jjplay -s54.1 -r 0.8 -t 3.8 "goats.*scotland"
+1.2.3.4.5.6.7.8.
+D D Du D Du Duuu
+
+(6)
+jjplay -s58.1 -r 0.8 -t 3.5 "goats.*scotland"
+1.2.3.4.5.6.7.8.
+D DuuDuuD DuuDDD
+
+(7) jjplay -s79.1 -r 0.8 -t 4 "goats.*scotland"
+1...2...3...4...5...6...7...8...
+D   D   D D   D   D d  du D udu
+
+(8) jjplay -s104 -r 0.6 -t 3.7 "goats.*scotland"
+1...2...3...4...5...6...7...8...
+D   D u u D udu udu D udu D udu
+
+(9) jjplay -s107.4 -r 0.6 -t 3.5 "goats.*scotland"
+1...2...3...4...5...6...7...8...
+D   D udu D   D   u D udu D udu
+
+(a) jjplay -s110.5 -r 0.6 -t 3.5 "goats.*scotland"
+1...2...3...4...5...6...7...8...
+D   D udu D u D udu D udu D udu
+
+(b) jjplay -s116.3 -r 0.6 -t 4 "goats.*scotland"
+1...2...3...4...5...6...7...8...
+D   D u u D duD u u D udu D D D
+
+(c) jjplay -s119.5 -r 0.6 -t 3.5 "goats.*scotland"
+1...2...3...4...5...6...7...8...
+D   D udu D udu D   D udu D udu
+
+(d) 12345678
+DDDDDDDD + D
+
+Standard tuning, capo 3
+
+AEAA  THERE was a BARN owl trapped in the RAFTERS. (02)
+AEAA  THE ground underNEATH us was wet and COLD. (12)
+AEAD  We HEARD the owl thrashing aBOUT / Trying DESPERATELY to get OUT. (11)
+AEAA  WE stood outSIDE and watched the night unFOLD. (13) DDD
+
+AEAA   WE watched the SUN go down on SCOTLAND, (14) DDu
+AAEE   AND I watched the MOON come up over YOU. (24) DDu
+AADD   WHEN a pack of dogs went silently PASSED us / (23) DDD
+          WE knew we'd been given fair WARNING,
+AEAA   BUT that was the ONLY thing we KNEW. (13) DDD
+
+AEAA   AND you threw all your LUGGAGE out onto the WATER. (15) D D Du D Du Duuu
+AEAA   AND I tore the SHIRT away from my BACK. (12)
+AEAD   THE cold came on with a new found IN-tensity, / (16) D DuuDuuD DuuDDD
+          AND you pressed your warm body AGAINST me.
+AEAA   AND I loved you so MUCH it was making me SICK. (13) DDD
+
+AEAA   AND we watched the SUN go down on SCOTLAND, (17)
+AAEE   WE were glad that we'd LEFT Oklahoma beHIND. (24)
+AADD   I took your hips in my hands and I THREW you down / (23)
+          TO the new found rich brown DEEP wet ground.
+AEAA   HAD a vision of you, BURNing on my MIND. (13)
+
+AEAA   WE watched the SUN go down on SCOTLAND, (18)
+AAEE   AND I watched the MOON come up over YOU. (9a)
+AADD   WHEN a pack of dogs went silently PAST us, / (1b)
+          WE knew we'd been given fair WARNING,
+AEAA   BUT that was the ONLY thing we KNEW. (cd)
+
+     1...2...3...4...5...6...7...8...
+(7)  D   D   D D   D   D d  du D udu
+
+
+"we watched..."
+A   D DuuDuu
+E   D DuuDuu 
+A   D D DD D
+     Dd_uD\/    <  D d  du D udu>
+A   D DuuDuD
+    uuDuuDud
+E   D DuuDuD
+    uuDuuDDu
+
+"I took your..."
+A   D DuuDuD
+    uuDuuDud
+D   D DuuDuD
+    uuDuuDDD
+A   D DuuDuu
+E   D DuuDuu
+A   D DuuDuD
+A   uuDuuDDD
+
+"we watched..."
+A   D DuuDuu
+E   D DuuDuu 
+A   D DuuD\/
+    \/D\/D\/ 
+A   D D\/D D
+     uD\/D\/
+E   D D\/DuD
+    \/D\/D\/
+
+"when a pack..."
+A   D DuuDuu
+    D DuuDuu
+D   D DuuD/\
+    uuD\/DDD
+A   D D\/D\/
+E   D D\/D\/
+A   DDDDDDDD
+    D
+
+======================================================================
+
+Blues in Dallas
+
+1234567812345678
+D Du uDu uDu uDu 
+
+
+intro: C C F C G F CG C
+
+C C   Will I see you there when that final trumpet blows?
+F C   Yeah, will I see you there when that final trumpet blows?
+G F   If I don't see you there, I will run a comb through my hair.
+CGC   And I will wait.  I will wait.  I will wait.
+
+Will you walk on in when the angel summons you?
+Yeah, will you walk on in when the angel summons you?
+If I don't see you go, I will let the minions flow.
+And I will wait.  I will wait.  I will wait.
+
+     1234567812345678
+C    D Du uDuDuDV udu   V=x32013 -s95 
+C    P Du uH J Du uDu   P=xxx010 H=x3200h10h1 J=x320h10
+C    D Du uP D P D T    P=x32011 T=x32030
+F    D Du uDu uDu uDu   P=xxx010
+C    D Du uD P D P D    
+G    D Du uDu uDu uDu    
+F    D Dw udw udw udu   w=xxxx11  -s118
+CG   D Du uDuD Du uDu
+C    D Du uDu uDu uDu    
+
+Down in dealey plaza, the tourists mill about.
+Down in dealey plaza, the tourists mill about.
+And I am far from where we live, and I have not learned how to forgive.
+But I will wait.  I will wait.  I will wait.
+
+     1234567812345678
+C    D Du uDuDuDuDuDu  -s156
+C    D Du uDu uDu uDu
+C    D DuDuDuDuDuDuDu
+F    D Du uDu uDu uDu
+C    D Du uDuDuDuDuDu
+CG   D Du uDuD Du uDu   -s175
+CF   D P Q P D Du uDu   P=x32011 Q=x32013
+CG   D Du uDuD Du uDu 
+C    DuDuDuDuDuDuDuDu
+C    D
+
+======================================================================
+
+Pinklon -- The Mountain Goats
+
+1234567812345678
+x   x   x   x xy
+d   d  d d ududu
+d   d  d d ududu
+d   d  d d ududu
+d   d  d d ududu
+
+d   d  d d ududu   Let the bright colors ...
+d   d  d d ududu
+d   d  d d ud du
+d   d  d d ududu
+
+instrumental break #1
+
+d   d  d d d udu    h  l  h h h hhh
+d   d  d d d udu    
+d   d ud d d udu
+d  ud ud d d udu
+
+d   d ud d d udu
+d   d  d d ududu
+d   d  d d ududu
+d   d  d d ududu
+
+d   d  d udududu   Let the ticker tape ...
+
+instrumental break #2 
+                    
+10 00 00 00 
+11 00 **
+11 01 00 10 
+10 10 10 10 
+
+       1234567812345678
+C#m    d   d ud d ududu    l   l  h h hhhhh         jjplay -s82 pinklon
+A      d   d  d d ududu
+E      d   d  d d ududu
+E      d   d  d d ududu
+
+C#m    d   d ud d d udu						            jjplay -s92 pinklon   
+A      d   d  d d ududu
+E      d   d  d d ud  u     
+E      d  ud ud d d udu     l  ll lh h h hhh
+							
+C#m    d   d ud d d udu                             jjplay -s102 pinklon
+A      d   d  d d d udu     Asus2
+E      d   d  d d ududu     
+E      d   d ud d ududu     l  l  lh h hhhhh
+							
+C#m    d   d ud d ududu     h  h  hh h lllll        jjplay -s112 pinklon
+A      d   d ud d ududu   
+E      d   d ud d ududu   
+E      d   d ud d ududu   
+
+verse
+
+d   d  d d ududu   Out to the curbside ...
+d   d  d d ududu
+d   d  d d ududu
+d   d  d d ududu
+
+d   d  d udududu   And from the windows ...
+d   d  d ududddd
+d   d  d ududddd   And let confetti
+d   d  d ddududu
+
+instrumental break #3
+
+d   d ud d ududu    l   l  h h hhhhh         jjplay -s82 pinklon
+d   d ud d ududu
+d   d  d d ududu
+d   d  d d ududu
+
+d   d ud d ududu
+d   d  d d ududu
+d   d  d d ududu
+d   d  d d ududu
+
+verse
+
+d   d  d d ududu   let the guys all...        jjplay -r.8 -s159 pinklon
+d   d  d d ududu
+d   d  d d ududu   throw
+d   d  d ddududu
+d   d  d ddududu
+d   d  d d ududu
+d   d  d d ududu
+d   d  d d ududu
+????? b soft
+
+outro                   
+d   d  d d ddudu    h  l  h h h hhh           jjplay -r.8 -s190 pinklon
+d   d  d d ddudu    
+d   d  d ddudu u
+d   dudu udupv     pv=421100
+
+d   dudu dud udu    h  l  h h h hhh           jjplay -r.8 -s200 pinklon
+d   dudu d d udu
+d   dudu u ududu
+d   dudu udupv     pv=421100
+
+
+d   dudu dud udu                              jjplay -r.8 -s210 pinklon
+d   d  d d d udu   soften  Asus2  
+d   d  d d d udu
+d   d ud d ududu
+
+d   d ud d d udu  jjplay -r.8 -s219 pinklon
+d   d ud d ududu
+d   d  d d ududu
+d
+
+
+     1234567812345678
+00   d   d  d d ududu
+11   d   d ud d d udu
+21   d  ud ud d d udu
+03   d   d  d d ddudu
+04   d   d  d ddudu u
+95   d   dudu dud udu    h  l  h h h hhh           jjplay -r.8 -s200 pinklon
+96   d   dudu d d udu
+97   d   dudu u ududu
+98   d   dudu udupv      pv=421100
+
+01 01 11 21 
+11 00 00 00 
+
+10 00 00 00 
+11 00 **
+11 01 00 10 
+10 10 10 10 
+
+10 10 00 00 
+10 00 00 00 
+
+03 03 04 98
+95 96 97 98
+95 01 01 10
+11 10 00 D
+
+E
+
+E E          Let the bright colors / come blushing gently back
+E E          To the cherry blossom trees / around Pontiac
+Asus2 Asus2  And guys in powder blue starter jackets / down on the street
+E E          Let them come up from the corners / so light on their feet
+
+C#m A E E x2
+
+E E          Let the ticker tape come / cascading down
+E E          Above the Greyhound station / out at the edge of the town
+Asus2 Asus2  And at the schoolyard fences / where the children shout
+E E          Let the chains fall away and / let 'em all rush out
+B B          And though all good things in / time will melt away
+Asus2 Asus2  Pinklon Thomas is getting out of / prison today
+
+C#m A E E x4
+
+E E          Out to the curbside let the grandmothers come
+E E          And stand in red Gingham dresses / in the afternoon sun
+Asus2 Asus2  And from the windows high above the street / let the trumpets sound
+E E          And let confetti fill the air / and gather on the ground
+
+E E          Let the guys all hurry on down to the gym
+E E          And throw the doors wide open and clear a space for him
+Asus2 Asus2  Let messages from strangers / spraypainted on cheap drapes
+E E          Hang from all the fire escapes
+B B          Let them spell it out on marquees and on window displays
+Asus2 Asus2  Pinklon Thomas is getting out of prison today
+
+C#m A E E x4
+
+     1234567812345678
+a0   d   d  d d ududu
+b1   d   d ud d d udu
+c1   d  ud ud d d udu
+a3   d   d  d d ddudu
+a4   d   d  d ddudu u
+d5   d   dudu dud udu    h  l  h h h hhh           jjplay -r.8 -s200 pinklon
+d6   d   dudu d d udu
+d7   d   dudu u ududu
+d8   d   dudu udupv      pv=421100
+
+a1 a1 b1 c1 
+b1 a0 a0 a0 
+
+b0 a0 a0 a0 
+b1 a0 **
+b1 a1 a0 b0 
+b0 b0 b0 b0 
+
+b0 b0 a0 a0 
+b0 a0 a0 a0 
+
+a3 a3 a4 d8
+d5 d6 d7 d8
+d5 a1 a1 b0
+b1 b0 a0 D
+
+======================================================================
+
+Duke Ellington
+
+    1234567890123456
+E   H                 H=xxxxx3
+
+E   D   L  __ D  du   L=0xxxxx
+A   D   Q  __ D  du   Q=x33000
+E   D   L  __ D  du   L=0xxxxx
+B   D   D  __ D dudu  
+
+E   D   L  du D  du   L=0xxxxx
+A   D   Q  du D  du   Q=x33000
+E   D   H  du D  du   H=xxxxx0
+B   D   H  du D dud   H=xxxxx2 
+
+"The light hit"
+E   D   D  du D  du   -s20
+A   D   D  du D  du   
+E   D   D  du D  du   
+B   D   D  du D dudu  
+
+E   D   D  du D dud    
+A   D   D  du D dud    
+E   D   L  du D dud   L=3xxxxx
+B   D   D  du D dudu  
+
+"His hands ..." 
+E   D   D  du D dud   -s38
+A*  D   D  du D dud   A*=Asus2 xx3300
+E*  D   D  du D dud   E*=xx2100 
+B   D   D  du D dudu  
+
+E   D   D  du D  uD   -s48
+E   du D  du D  dudu
+
+"The horns ..." 
+E   D   D  du D dud   -s52
+A   D   D  du D dudu    
+E   D   L  du D dud   L=3xxxxx
+B   D   D  du D dudu  
+
+E   D   H  du D dud   H=xxxx00 -s60
+A   D   H  du D dudu  H=xxxx10
+E   D   L  du D dud   L=0xxxxx
+B   D   D  du D dudu  
+
+"I saw the spotlight ..." 
+E   D   D  du D dud   -s68
+A*  D   D  du D dud   A*=Asus2 xx3300
+E*  D   D  du D dud   x22100 
+B   D   D  du D dud  
+
+A   D   D  du D dud  
+B   D   D  du D dud  
+
+"in 1962 ..."
+E   D   D  du D dud   
+A   D   D  du D dud
+E   D   D  du D dud
+B   D   D  du D dudu
+
+E   D   H  du H uH    H=xxxx00 -s92
+E    du H  ududududu  H=xxxx00
+
+E   D   D  du D dudu
+A   D   D  du H dud   H=xxxxx0
+E   D   D  du H hudu  H=xxxxx0
+B*  D   D  du D dud   B*=xxx442
+
+E   D   H  D  D dudu  H=xxxxx0 -s106
+A   D   H  H udududu  H=xxxxx0
+E   D   D  H udududu  H=xxxxx0
+B   D   D  du dududu
+
+E   D   D  du D dud   -s114
+A*  D   D  du D dudu  A*=xx2200
+E*  D   D  du D dud   E*=xx2100
+B   D   D  du D dudu
+
+E   D   D  du D U A   -s124
+A    U  D ud udududu
+E   D   D  du D U B
+B    U  D  ududududu
+
+E   D   D  du D U A
+A    U  D  ududududu
+E   D   D  ududududu
+E   D
+
+
+
+E A   _ the light hit the Rings
+E B   Glimmering on his Fingers
+E A   _ the light came Down
+E B
+E A   _ And his hands hit the Keys
+E B   It utterly wasted Me in sweden
+G G
+E A   _ The horns punched the Air
+E B   the aftermath fell around everywhere
+E A
+E B   _ _ i saw the 
+E A   Spotlight land on his Rings / and i'd had 
+E B   Just about enough Losing things
+E A   in sweden in Nineteen sixty-
+E B   Two / quite some Distance from you
+
+E A E B (until end. :)
+
+======================================================================
+
+Duke Ellington
+
+    1234567890123456
+E   H                 H=xxxxx3           "I saw the spotlight ..."             
+													  E   D   D  du D dud   -s68				  
+E   D   L  __ D  du   L=0xxxxx			  A*  D   D  du D dud   A*=Asus2 xx3300 
+A   D   Q  __ D  du   Q=x33000			  E*  D   D  du D dud   x22100 			  
+E   D   L  __ D  du   L=0xxxxx			  B   D   D  du D dud  					  
+B   D   D  __ D dudu  						  												  
+													  A   D   D  du D dud  					  
+E   D   L  du D  du   L=0xxxxx			  B   D   D  du D dud  					  
+A   D   Q  du D  du   Q=x33000			  												  
+E   D   H  du D  du   H=xxxxx0			  "in 1962 ..."								  
+B   D   H  du D dud   H=xxxxx2 			  E   D   D  du D dud   					  
+													  A   D   D  du D dud						  
+"The light hit"								  E   D   D  du D dud						  
+E   D   D  du D  du   -s20					  B   D   D  du D dudu						  
+A   D   D  du D  du   						  												  
+E   D   D  du D  du   						  E   D   H  du H uH    H=xxxx00 -s92	  
+B   D   D  du D dudu  						  E    du H  ududududu  H=xxxx00		  
+													  												  
+E   D   D  du D dud    						  E   D   D  du D dudu						  
+A   D   D  du D dud    						  A   D   D  du H dud   H=xxxxx0		  
+E   D   L  du D dud   L=3xxxxx			  E   D   D  du H hudu  H=xxxxx0		  
+B   D   D  du D dudu  						  B*  D   D  du D dud   B*=xxx442		  
+													  												  
+"His hands ..." 								  E   D   H  D  D dudu  H=xxxxx0 -s106  
+E   D   D  du D dud   -s38					  A   D   H  H udududu  H=xxxxx0		  
+A*  D   D  du D dud   A*=Asus2 xx3300	  E   D   D  H udududu  H=xxxxx0		  
+E*  D   D  du D dud   E*=xx2100 			  B   D   D  du dududu						  
+B   D   D  du D dudu  						  												  
+													  E   D   D  du D dud   -s114			  
+E   D   D  du D  uD   -s48					  A*  D   D  du D dudu  A*=xx2200		  
+E   du D  du D  dudu							  E*  D   D  du D dud   E*=xx2100		  
+													  B   D   D  du D dudu						  
+"The horns ..." 								  												  
+E   D   D  du D dud   -s52					  E   D   D  du D U A   -s124			  
+A   D   D  du D dudu    					  A    U  D ud udududu						  
+E   D   L  du D dud   L=3xxxxx			  E   D   D  du D U B						  
+B   D   D  du D dudu  						  B    U  D  ududududu						  
+													  												  
+E   D   H  du D dud   H=xxxx00 -s60		  E   D   D  du D U A						  
+A   D   H  du D dudu  H=xxxx10			  A    U  D  ududududu						  
+E   D   L  du D dud   L=0xxxxx			  E   D   D  ududududu						  
+B   D   D  du D dudu  						  E   D											  
+
+
+======================================================================
+Stable Boy Song
+
+
+1234567812345678
+D  u uD  u uD du
+D  u uD  u uD du
+D  u  D  u uD du
+D  u uD  u uD du   -s5
+
+"Here come the times ..."
+    1234567812345678
+G   D  du D  du D u
+C   D  du D  du D u
+G   D  u uD  uduD du
+G   D  u uD  u uD du
+
+"Here come the day ..."
+G   D  du D  du D du  -s13
+C   D  du D  du D du
+D   D  u uD  u uD du
+D   D  u uD  uduD du
+
+"Here come the hours ..."
+G   D udu D udu D du   -s21
+C   D  du D  du D du
+G   D udu D  du D d
+Em  D  u uD  uduD du
+
+"Light light ..."
+G   D  du D udu D du  -s29
+D   D  du D  u  D du
+G   D  u uD  u uD du
+G   D  u uD  uduD du
+
+"When you come, the stars..."
+G   D udu D  du D du   -s36
+C   D  du D  du D du
+G   D  u uD  u uD du
+G   D  u uD  uduD du
+
+"When you come, the world..."
+G   D  du D  du D du  -s43
+C   D  du D  du D du
+D   D  u uD  u uD du
+D   D  u uD  uduD du
+
+"My Mom told me ..."
+G   D udu D  du D du   -s49
+C   D  du D  du D du
+G   D  du D  du D du
+Em  D  u uD  u uD du
+
+"Till you come ..."
+G   D  du D udu D du  -s55
+D   D  du D  u  D du
+G   D  u uD  u uD du
+G   D  u uD  u uD du
+
+
+GCGG   Here come the times of changing tide.
+GCDD   Here come the days of light and grace.
+GCGEm  Here come the hours of wordless wondrousness.
+GDGG   White light will fill this humble place.
+
+When you come, the stars will shine brighter than spun gold.
+When you come, the world will seem shiny and new.
+My mom told me that someday someone like you would come to set things right.
+'Til you come, I'll keep this place ready for you.
+
+I saw them riding up the road.
+And I swept and scrubbed the stable twice.
+Filled it with golden yellow straw, sweet and clean.
+I did my best to make things nice.
+
+When you come, the stars will shine brighter than spun gold.
+When you come, the world will seem shiny and new.
+My mom told me that someday someone like you would come to set things right.
+Until you come, I'll keep this place ready for you.
+
+======================================================================
+
+Going To Port Washington
+
+Tabbed by Alex Glasnovic (Gray.Fox@gmail.com) Revised by YetixHunting (bertino@fordham.edu) Revised by Mark Block (anna8181@gmx.net)
+
+1234567812345678
+d   d  du d  du 
+
+12345678123456781234567812345678
+d   d  du d d d d   d     d   du
+
+
+Intro/between verses:
+ E|--2-------3-2-0-2--3--|
+ B|--3-(x4)--3-3-3-3--3--|
+ G|--2-------2-2-2-2--0--|
+ D|--0-------0-0-0-0--0--|
+ A|-------------------2--|
+ E|-------------------3--|
+
+Capo at 6 or tuned half step down (D# G# C# F#  A# D#)
+Instead of an A, you can also play Asus4.
+
+Intro/between verses:
+     12345678123456781234567812345678
+     D  D   Du D D D D  D  Du  D DuD 
+ E|--2--2---23-2-0-2-3---------------|
+ B|--3--3- -33-3-3-3-3---------------|
+ G|--2--2---22-2-2-2-0---------------|
+ D|----------------------------------|
+ A|-------------------------------2--|
+ E|-------------------------------3--|
+
+
+intro (D riff)
+
+D    D  D   Du D D D
+G    D  D  du  D DuD 
+D    D  D   Du D D D
+G    D  D  Du  D DuD 
+D    D  D  DuD D D D
+G    D  D  Du  D DuD 
+D    D  D   Du D D D
+G    D  D  Du  D DuD 
+
+
+    1234567801235678
+D   D  D  du  D dud   The trees were all decked out in their best fall colors 
+Em  D  D  du  D dud   
+A   D  D  du  D dud   There was a snap in the air
+G   D  D  du  D dud   
+D   D  D  du  D dud   When you eased down the window
+Em  D  D  du  D dud
+A   D  D  du  D dud   And the NY sun brought out the highlights in your hair
+G   D  D  du  D dud
+D   D  D  du  D dud   And gently, gently
+A   D  D  du  D dud
+D   D  D  du  D u D   The constellations aligned
+G   D  D  du  D dud
+D   D  D  du  D dud   And as we crossed over the Throgg's Neck Bridge
+A   D  D  du  D dud
+G   D  D u  u D  Du   I had something on my mind
+D   D  D  dud D D D   riff
+G   D  D  Du  D DuD 
+D   D  D Dududududu
+G   D  D  Du  D DuD 
+
+D   D  D  du  D dud   When we rolled down the street
+Em  D  D  du  D dud   
+A   D  D  du  D dud   in the cool of the morning
+G   D  D  du  D dud
+D   D  D  du  D dud   I could feel the new day dawn
+Em  D  D  du  D dud
+A   D  D  du  D dud   and somebody'd gone and turned the waterworks on
+G   D  D  du  D dud
+
+D   D  D  dud D dud    and slowly, surely
+A   D  D  dud D dud    
+D   D  D  dud D dud    I saw the whole story unwind
+G   D  D  dud D dud
+D   D  D  dud D dud    I had never loved anyone like i loved you
+A   D  D  dud D dud
+G   D  D u  u D  Du    and i had something on my mind
+D   D  D  DuD D D D    riff
+G   D  D  ududududu
+D   D  D Dududududu
+G   D  D  ududududu
+D   D  D Dududududu
+G   D  D  ududududu
+D   D  D Dududududu
+G   D
+
+
+D Em A G   the trees were all decked out in their best fall colors
+              there was a snap in the air
+D Em A G   when you eased down the window
+              and the new york sun brought out the highlights in your hair
+D A D G    and gently, gently / the constellations aligned
+D A G D    and as we crossed over the throgs neck bridge i had
+              something on my mind
+
+D Em A G   when we rolled down the street / in the cool of the morning
+D Em A G   i could feel the new day dawn
+              and somebody had gone and turned the waterworks on
+D A D G    and slowly, surely / i saw the whole story unwind
+D A G D    i had never loved anyone like i loved you
+              and i had something on my mind
+
+======================================================================
+
+First Few Desperate Hours
+
+       1234567812345678
+E-F#   D  u uD  u uDudu
+A      D  u uD  u uDudu
+E-F#   Dudu  D  u uDudu
+A      Dudu  Dudu uDudu
+E-F#   Dudu  D  u uDudu
+A      Dudu  D  u uDudu
+E-F#   Dudu  D  ud Dudu
+A      Dudu  D  ud Dudu
+A      Dudu  D  ud Dudu
+
+Bad luck
+E-F#   Dudu  D  u uDudu
+A      Dudu  D  u uDudu
+E-F#   Dudu  D  u uDudu
+A      Dudu  D  u uDudu
+E      D  u uD  u uD D
+E      D  u uD  u uD D
+B      D  u uD  u uD D
+B      D  u uD  u uD D
+
+We have bad dreams
+E-F#   Dudu  D  u uDudu
+A      Dudu  D  u uDudu
+E-F#   Dudu  D  u uDudu
+A      Dudu  D  u uDudu
+E      D ud  D  uduD D
+E      D ud  D  uduD D
+B      Dudu uD  u uDudu
+B      Dudu uD  u uDudu
+
+But they flag
+E      Dudu uD  u uDudu
+E      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+F#     Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+B      Dudu uD  u uDudu
+
+And they sag
+E      Dudu uD  u uDudu
+E      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+F#     Dudu uD   duDudu
+A      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+B      Dudu uD  duduD
+
+E-F#   D uD  D  udud
+A      D uD  D  udududu
+E-F#   D uD  D  udud
+A      D uD  D  udududu
+E-F#   D uD  D  udududu
+A      D uD  D  udududu
+E-F#   D uD  D  udud
+A      D uD  D  udud
+A      D uD  D  udududu
+
+Yeah the driver drops
+E-F#   D uD  D  udud
+A      D uD  D  udududu
+E-F#   D uD  D  udud
+A      D uD  D  udududu
+E      D  u uD  u uD D
+E      D  u uD  u uD D
+B      D  u uD  u uD  u
+B      D  u uD  uduD
+
+And when cloven
+E-F#   D uD  D  udud
+A      D uD  D  udududu
+E-F#   D uD  D  udud
+A      D uD  D  udududu
+E      D  u  D  u uD D
+E      D  u uD  u  D du
+B      D  u uD  u uD du
+B      D  u uD  u uD du
+
+But they drop like flies
+E      Dudu uD  u uDudu
+E      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+A      DududuD  u uDudu
+F#     Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+B      Dudu uD  u uDudu
+
+And they lean like towers
+E      Dudu uD  u uDudu
+E      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+F#     Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+A      Dudu uD  u uDudu
+B      Dudu uD  duduD
+
+E-F#   D uD  D  udud
+A      D uD  D  udududu
+E-F#   D uD  D  udud
+A      D uD  D  udududu
+E-F#   D uD  D  udududu
+A      D uD  D  udududu
+E-F#   D uD  D  udud
+A      D du  D  ud d
+A      D du  D  ud d du
+A      D du  D  ud d du
+E      D  u uD  u uD D
+E      D  u uD  u uD D
+E      D  u uD  u uD D
+E      D
+
+
+First Few Desperate Hours
+
+       1234567812345678      X      1234567812345678      X      1234567812345678
+E-F#   D  u uD  u uDudu      And they sag			          But they drop
+A      D  u uD  u uDudu		  E      Dudu uD  u uDudu		 E      Dudu uD  u uDudu
+E-F#   Dudu  D  u uDudu		  E      Dudu uD  u uDudu		 E      Dudu uD  u uDudu
+A      Dudu  Dudu uDudu		  A      Dudu uD  u uDudu		 A      Dudu uD  u uDudu
+E-F#   Dudu  D  u uDudu		  A      Dudu uD  u uDudu		 A      DududuD  u uDudu
+A      Dudu  D  u uDudu		  F#     Dudu uD   duDudu		 F#     Dudu uD  u uDudu
+E-F#   Dudu  D  ud Dudu		  A      Dudu uD  u uDudu		 A      Dudu uD  u uDudu
+A      Dudu  D  ud Dudu		  A      Dudu uD  u uDudu		 A      Dudu uD  u uDudu
+A      Dudu  D  ud Dudu		  B      Dudu uD  duduD  		 B      Dudu uD  u uDudu
+									  							  			 							  
+Bad luck							  E-F#   D uD  D  udud	  		 lean like towers		  
+E-F#   Dudu  D  u uDudu		  A      D uD  D  udududu		 E      Dudu uD  u uDudu
+A      Dudu  D  u uDudu		  E-F#   D uD  D  udud	  		 E      Dudu uD  u uDudu
+E-F#   Dudu  D  u uDudu		  A      D uD  D  udududu		 A      Dudu uD  u uDudu
+A      Dudu  D  u uDudu		  E-F#   D uD  D  udududu		 A      Dudu uD  u uDudu
+E      D  u uD  u uD D		  A      D uD  D  udududu		 F#     Dudu uD  u uDudu
+E      D  u uD  u uD Du		  E-F#   D uD  D  udud	  		 A      Dudu uD  u uDudu
+B      D  u uD  u uD D		  A      D uD  D  udud	  		 A      Dudu uD  u uDudu
+B      D  u uD  u uD Du		  A      D uD  D  udududu		 B      Dudu uD  duduD  
+									  							  			 							  
+We have bad dreams			  Yeah the driver drops  		 E-F#   D uD  D  udud
+E-F#   Dudu  D  u uDudu		  E-F#   D uD  D  udud	  		 A      D uD  D  udududu
+A      Dudu  D  u uDudu		  A      D uD  D  udududu		 E-F#   D uD  D  udud
+E-F#   Dudu  D  u uDudu		  E-F#   D uD  D  udud	  		 A      D uD  D  udududu
+A      Dudu  D  u uDudu		  A      D uD  D  udududu		 E-F#   D uD  D  udududu
+E      D ud  D  uduD D		  E      D  u uD  u uD D 		 A      D uD  D  udududu
+E      D ud  D  uduD D		  E      D  u uD  u uD D 		 E-F#   D uD  D  udud
+B      Dudu uD  u uDudu		  B      D  u uD  u uD  u		 A      D du  D  ud d
+B      Dudu uD  u uDudu		  B      D  u uD  uduD	  		 A      D du  D  ud d du
+									  							  			 A      D du  D  ud d du
+But they flag					  And when cloven		  			 E      D  u uD  u uD D 
+E      Dudu uD  u uDudu		  E-F#   D uD  D  udud	  		 E      D  u uD  u uD D 
+E      Dudu uD  u uDudu		  A      D uD  D  udududu		 E      D  u uD  u uD D 
+A      Dudu uD  u uDudu		  E-F#   D uD  D  udud	  		 E      D               
+A      Dudu uD  u uDudu		  A      D uD  D  udududu
+F#     Dudu uD  u uDudu		  E      D  u  D  u uD D 
+A      Dudu uD  u uDudu		  E      D  u uD  u  D du
+A      Dudu uD  u uDudu		  B      D  u uD  u uD du
+B      Dudu uD  u uDudu		  B      D  u uD  u uD du
+
+
+
+
+I've always played this with the intro being E F# A as below,
+but only fretting the ADG strings, so:
+
+E : 022100
+F#: 044300
+A : 077600
+Intro:
+
+E - F# - A(577655) x2
+
+E-F# A   Bad luck comes in from Tampa
+E-F# A   Bad luck comes in from Tampa
+E E      On the back of a truck / Doing ninety up the
+B B      interstate    B(799877)
+E-F# A   We have bad dreams the night he rolls in
+E-F# A   We have bad dreams the night he rolls in
+E E      And we try to keep our spirits
+B B      high
+E E      But they flag
+A A      and they wane E*(x79997)
+F# A     When the truck pulls up out front
+A B      In the light spring rain
+E E      And they sag
+A A      like withering flowers
+F# A     Let the good times roll on
+A B      Through these first few desperate hours
+
+E-F# A   Yeah the driver drops his cargo at the curb
+E-F# A   The driver drops his cargo at the curb
+E E      And the sun peeks in
+B B      Like a killer through the curtain
+E-F# A   And when cloven hoof prints turn up in the garden
+E-F# A   Yeah when cloven hoof prints turn up in the garden
+E E      We keep up the good fight
+B B      We keep our spirits light
+E E      But they drop 
+A A      like flies
+F# A     And there's a stomach-churning shift
+A B      In the way the land lies
+E E      And they lean
+A A      like towers
+F# A     On a hillside struggling to stand
+A B      Through these first few desperate hours
+Yeah
+
+E - F# - A x4
+
+======================================================================
+
+Monkey Song - The Mountain Goats
+
+Chords
+
+C  032010
+G  320033
+Am x02210
+F  133211
+
+Riff
+
+e xy------------|
+b ---01h01h01h--|
+G -------------0|
+D --------------|
+E --------------|
+A ---------------|
+
+
+riff  C F C F 
+     1234567812345678	 
+C 	  D   X dud dud du   
+G 	  D   X u   d u du   
+Am	  D   X u   d u du   
+F 	  D   X u   d u du   
+C 	  D   X u   d u du   
+G 	  D   X u   d u du   
+Am	  D   X u   d u du   
+F 	  D   X u   d u du   
+C 	  D   X u   d u du   
+G 	  D   X u   d u du   
+Am	  D   X u   d u du   
+F 	  D   X riff      
+C 	  D   X u   d u du   
+G 	  D   X dudud d du   
+Am	  D   X u   d u du   
+F 	  D   X u   d u du   
+C 	  D   X u   d u du   
+G	  D   X dududududu   
+
+riff C F C F  
+
+C	  D   X u   d u du   
+G	  D   X u   d u du   
+Am	  D   X u   d u du   
+F	  D   X u   d u du   
+C	  D   X u   d u du   
+G	  D   X u   d u du   
+Am	  D   X u   d u du   
+F	  D   X u   d u du   
+	  						 
+C    D   X dud d d du     There's a
+G	  D   X dud d d du   
+Am	  D   X u   d u du     Where did the monkey come from
+F	  D   X  <riff>      
+C    D   X u   d u du     There's a
+G    D   X dududududu     extra string???????
+Am   D   X u   d u du     How
+F    D   X u   d u du     How
+C    D   X u   d u du     How
+G    D   X dududududu     -s92
+Am	  D   X dud d d d    
+F    D   X dududududu     
+C	  D   X dududuxudu   
+G    D   X dududududu     
+
+riff C F C F C F C
+
+
+C - Riff - F - Riff 
+
+Cool air comes through the venetian blinds
+And the planets and the heavens are perfectly aligned
+I take in my surroundings, I memorize them all
+The scuff marks on the stone floor
+The powder burns on the eastern wall
+
+There's a monkey in the basement
+Where did the monkey come from
+There's a monkey in the basement
+How did the monkey get there, how did the monkey get there
+How did the monkey get there
+
+The animal noises you used to make
+The andalusian coral snake
+All pale when standing beside this room
+And the heavy hot rains and the sonic boom
+
+======================================================================
+The Mountain Goats- This Year
+https://www.youtube.com/watch?v=z34jAB7QbPA
+
+Tuning: Standard
+
+Chords by Section
+
+ [Intro and Between Verses/Chorus]
+
+Dsus2 x57755
+F#m   244222
+
+         1234567890123456
+A C#m    D D ux D udududu
+Dsus2 A  D DuDx D udududu
+A E      D Dudx D udududu
+D A      D Dudx D udududd
+A E      D D DDuD udududu
+D A      D D DDuD udu udu
+AEDA AED    I broke free on a Saturday morning...
+A               D udu udu     ?
+A C#m    D D ux D udududu
+Dsus2 A  D Dudx D udududd
+A E      D D DDuD udududu
+D A      D Dud dD udududu
+
+AEDA  My broken house behind me and good things ahead, a girl named Cathy wants
+AEDA  Six cylinders underneath the hood crashing and kicking, Aha listen to the
+AE / DA   D DudduD  du udu    I am gonna ...
+AE / DA   D DudduD udududu    I am gonna ...
+A C#m     D D ux D udududu
+Dsus2 A   D Dudx D udududd
+A E       D D DDuD udududu
+D A       D Dud dD udu udu
+
+AEDA I played video games in a drunken haze, I was 17 years young
+AEDA hurt my knuckles punching the machines, the taste of scotch rich on my tongu
+A C#m     D D ux D udududu
+Dsus2 A   D Dudx D udududd
+A E       D D DDuD udududu
+D A       D DudduD udududu
+
+AEDA And then Cathy showed up and we hung out, trading swigs from a bottle all
+AEDA locking eyes holding hands, twin high maintenance machines
+AE / DA   D DudduD udu udu    I am gonna ...
+AE / DA   D DudduD udududu    I am gonna ...
+F#m A    I drove home in the California dusk,
+F#m A    I could feel the alcohol inside of me hum
+F#m A    Pictured the look on my stepfather's face
+DE       ready for the bad things to come.
+
+AEDA  I downshifted as I pulled into the driveway, the motor screaming out stuck
+AEDA  The scene ends badly as you might imagine, in a cavalcade of anger and fear
+A C#m  There will be feasting and dancing 
+Dsus2 E   / in Jerusalem next year
+AE / DA   D DudduD udu udu    I am gonna ...
+AE / DA   D DudduD ud\/d\/    I am gonna ...
+A C#m     D D ux D udududu
+Dsus2 A   D Dudx D udududd  ?
+A E       D D DDuD udududu
+D A       DDDDDD D
+
+-------------------------------
+I broke free on a Saturday morning, I put the pedal to the floor
+Headed north on Mills Avenue and listened to the engine roar
+
+My broken house behind me and good things ahead
+    / a girl named Cathy wants a little of my time
+Six cylinders underneath the hood crashing and kicking
+    / Aha listen to the engine whine
+
+I am going to make it through this year if it kills me
+I am going to make it though this year if it kills me
+
+I played video games in a drunken haze, I was seventeen years young
+Hurt my knuckles punching the machines, the taste of scotch rich on my tongue
+
+And then Cathy showed up and we hung out
+   / trading swigs from a bottle all bitter and clean
+locking eyes holding hands, twin high maintenance machines
+
+I am going to make it through this year if it kills me
+I am going to make it though this year if it kills me
+
+I drove home in the California dusk, I could feel the alcohol inside of me hum
+Pictured the look on my stepfather's face, ready for the bad things to come.
+
+I down shifted as I pulled into the driveway
+   / the motor screaming out stuck in second gear
+The scene ends badly as you might imagine, in a cavalcade of anger and fear
+
+There will be feasting and dancing in Jerusalem next year
+
+I am going to make it through this year if it kills me
+I am going to make it though this year if it kills me
+
+----------
+steps
+Bm x24432
+A-Bm-C#m Dsus2-C#m-A
+A-Bm-E   D-#Cm-A
+
+======================================================================
+Palmcorder Yajna
+Standard tuning
+
+https://www.youtube.com/watch?v=dHhCx6Z-rNI
+
+x24432  Bm
+799777  Bm
+
+intro: A D A D (4x)
+
+    12345678
+A         Du
+A   d d  udu   Holt Boulevard
+E   d du udu
+Bm  d du udu   Between Gary and White
+D   d d  udu
+
+A   d du udu   Hooked up with some friends at the Travelodge
+E   d du udu
+Bm  d du udu   Set ourselves up for the night
+D   d du udu
+
+A   d du udu   Carpenter ants in the dresser
+E   d du udu
+Bm  d du udu   Flies in the screen
+D   d du udu
+
+A   d du udu   It will be too late by the time we learn
+E   d du udu
+D   d d  udu   What these cryptic symbols mean
+E   d du udu
+
+AD  duDuduDu   And I dreamt of a house
+AD  duDuuuDu   Haunted by all you tweakers with your hands out
+               And the headstones climbed up the hills
+6str EEFFGG    And the headstones climbed up the hills
+
+A   d du udu   send somebody out for sodas
+E   d du ud
+Bm  d du udu   comb through the carpet for clues
+D   duDuduDu
+
+A   d du udu   reflective tape on our sweatpants
+E   d du udu
+Bm  d du udu   big holes in our shoes
+D   d du udu
+
+A   dudu udu   Every couple minutes
+E   d du udu
+Bm  d du udu   someone says he can't take it anymore
+D   d du udu
+
+A   d du udu   Laugh lines on our faces
+E   d d  udu
+D   d du udu   Scale maps of the ocean floor
+E   d du udu
+
+AD  duDuduDu   And I dreamt of a camera
+               Pointing out from inside the television
+               And the aperture yawning and blinking
+               And the headstones climbed up the hills
+
+C#m  duDuduDu  If anybody comes to see me
+D    duDuduDu
+A    d Du uDu
+A    d Du uDu
+
+C#m D A A     Tell 'em they just missed me by a minute
+C#m D A A     If anybody comes in to our room while we're asleep
+A E D E       I hope they incinerate everybody in it
+
+
+AD   duDuduDu   And I dreamt of a factory
+                Where they manufactured what I needed
+                Using shiny new machines
+6str EEFFG      And the headstones climbed up the hills
+
+A DuD du udu
+A   d du udu
+D   duDuduDu
+D   duDuduDu
+
+
+
+Holt Boulevard
+Between Gary and White
+Hooked up with some friends at the Travelodge
+Set ourselves up for the night
+Carpenter ants in the dresser
+Flies in the screen
+It will be too late by the time we learn
+What these cryptic symbols mean
+
+And I DREAMT of a house
+Haunted by ALL you tweakers with your hands out
+And the HEADstones climbed up the hills
+And the HEADstones climbed up the hills
+
+Send somebody out for soda
+Comb through the carpet for clues
+Reflective tape on our sweatpants
+Big holes in our shoes
+Every couple minutes someone says he can't stand it any more
+Laugh lines on our faces
+Scale maps of the ocean floor
+
+And I DREAMT of a camera
+Pointing OUT from inside the television
+And the Aperture yawning and blinking
+And the HEADstones climbed up the hills
+
+If anybody comes to see me
+Tell 'em they just missed me by a minute
+If anybody comes in to our room while we're asleep
+I hope they incinerate everybody in it
+
+And I DREAMT of a factory
+Where they MANnufactured what I needed
+Using SHIny new machines
+And the HEADstones climbed up the hills
+
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
+======================================================================
