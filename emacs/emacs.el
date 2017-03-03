@@ -28,7 +28,7 @@
 (setq tab-width 3)
 
 ; Set highlighting on mark-mode properly
-(pc-selection-mode)
+;(pc-selection-mode)
 
 ; Place the entire path/filename on window frame.
 (setq frame-title-format
@@ -53,7 +53,7 @@
 (load-library "bakupdir")
 
 ; Emacs's standard method for making buffer names unique adds <2>, <3>, ...
-(load-library "uniquify")
+;(load-library "uniquify")
 
 ; Hooks
 (load-library "c-hook")

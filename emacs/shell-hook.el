@@ -5,6 +5,7 @@
 (setq process-connection-type t)
 
 (require 'comint)
+;(setq comint-use-prompt-regexp t)
 (defconst comint-input-ring-size 511)
 (define-key comint-mode-map "\ep" 'comint-previous-matching-input-from-input)
 
