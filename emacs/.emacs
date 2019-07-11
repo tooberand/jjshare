@@ -36,6 +36,7 @@
   ;; Your init file should contain only one such instance.
   ;; If there is more than one, they won't work right.
  '(default ((t (:stipple nil :background "black" :foreground "green" :inverse-video nil :box nil :strike-through nil :overline nil :underline nil :slant normal :weight normal :height 96 :width normal :family "apple-monaco"))))
+; '(default ((t (:stipple nil :background "black" :foreground "green" :inverse-video nil :box nil :strike-through nil :overline nil :underline nil :slant normal :weight normal :height 107 :width normal :family "Hack" :foundry "unknown"))))
 ; '(default ((t (:stipple nil :background "black" :foreground "green" :famil "apple-monaco"))))
  '(cperl-array-face ((t (:background "navy" :foreground "yellow"))))
  '(cperl-hash-face ((t (:background "navy" :foreground "Red"))))

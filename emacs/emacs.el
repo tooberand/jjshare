@@ -71,6 +71,7 @@
 (load-library "fit-mode")
 (load-library "php-mode")
 (load-library "status-mode")
+(load-library "go-mode")
 
 ; Printing
 (load-library "prsrc")
