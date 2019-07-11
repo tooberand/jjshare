@@ -59,6 +59,7 @@
 (load-library "c-hook")
 (load-library "cperl-hook")
 (load-library "cvs-hook")
+(load-library "go-hook")
 (load-library "java-hook")
 (load-library "lisp-hook")
 (load-library "mail-hook")
@@ -71,7 +72,6 @@
 (load-library "fit-mode")
 (load-library "php-mode")
 (load-library "status-mode")
-(load-library "go-mode")
 
 ; Printing
 (load-library "prsrc")
