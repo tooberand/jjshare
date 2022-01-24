@@ -1,7 +1,6 @@
 #!/usr/local/bin/python3
 
-import datetime
-from datetime import date
+from datetime import date, timedelta
 import re
 from shutil import copy2
 import sys
@@ -21,11 +20,11 @@ def main():
     # Backup file
     copy2("/Users/dwaldhei/dano/lb.fit", "/Users/dwaldhei/dano/lb.fit.bak")
 
-    with open("/Users/dwaldhei/dano/lb.fit") as f:
+    with open("/Users/dwaldhei/dano/lb.fit") as f_in:
         new_file = ""
         file_section = "details"
-        for line in f:
-            new_line = line.strip()
+        for line in f_in:
+            new_line = line.rstrip('\n')
 
             if file_section == "details":
                 # Check for missing entries
@@ -34,7 +33,7 @@ def main():
                     fits = re.findall(r'\t([\.\w]+)', new_line)
                     fit_count = len(fits)
                     fit_date = date(now.year, months[m[0][0]], int(m[0][1]))
-                    fit_date += datetime.timedelta(days = fit_count)
+                    fit_date += timedelta(days = fit_count)
 
                     if fit_count <= 7 and fit_date <= now:
                         print("-", fit_count, " ", fit_date, " ", now)
@@ -47,7 +46,7 @@ def main():
                                 new_line += "\t."
                             else:
                                 print("Sub '.'")
-                                fit_date += datetime.timedelta(days = 1)
+                                fit_date += timedelta(days = 1)
                                 fit_count += 1
 
                         # if fit_count < 7 and fit_date == now:
@@ -92,14 +91,11 @@ def main():
                     
                 file_section = "history"
 
-#             elif file_section == "history":
-#                 break
-                    
             print(new_line)
             new_file += new_line + "\n"
 
-#     with open("motivation.txt", "w") as fout:
-#         fout.write(new_file)
+    with open("/Users/dwaldhei/dano/lb.fit", "w") as f_out:
+        f_out.write(new_file)
 
 main()
 
