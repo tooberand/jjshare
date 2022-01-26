@@ -101,7 +101,7 @@ def add_workout_to_content(file_content, wo_meters, wo_time, wo_type):
         print(new_line)
         new_file += new_line + "\n"
 
-    return new_line
+    return new_file
 
 main()
 
