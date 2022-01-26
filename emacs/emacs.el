@@ -5,12 +5,6 @@
 (setq load-path (cons (concat (getenv "PUB") "/emacs") load-path))
 (setq load-path (cons (concat (getenv "HOME") "/emacs") load-path))
 
-; Load user emacs and mail specifics if exists and readable
-(if (file-readable-p (concat (getenv "HOME") "/emacs/myemacs.el"))
-    (load-library "myemacs"))
-(if (file-readable-p (concat (getenv "HOME") "/emacs/mymail.el"))
-    (load-library "mymail"))
-
 ; Load global and user keys
 (load-library "global-keys")
 (if (file-readable-p (concat (getenv "HOME") "/emacs/myglobal-keys.el"))
@@ -59,7 +53,6 @@
 (load-library "c-hook")
 (load-library "cperl-hook")
 (load-library "cvs-hook")
-(load-library "go-hook")
 (load-library "java-hook")
 (load-library "lisp-hook")
 (load-library "mail-hook")

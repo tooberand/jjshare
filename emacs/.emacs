@@ -43,3 +43,9 @@
  '(cursor ((t (:background "red"))) t)
  '(font-lock-comment-delimiter-face ((default (:inherit font-lock-comment-face)) (((class color) (min-colors 8) (background dark)) (:foreground "dim gray"))))
  '(font-lock-comment-face ((((class color) (min-colors 88) (background dark)) (:foreground "dim gray")))))
+
+; Load user emacs and mail specifics if exists and readable
+(if (file-readable-p (concat (getenv "HOME") "/emacs/myemacs.el"))
+    (load-library "myemacs"))
+(if (file-readable-p (concat (getenv "HOME") "/emacs/mymail.el"))
+    (load-library "mymail"))
