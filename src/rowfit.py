@@ -23,8 +23,8 @@ def main():
 
     new_file = add_workout_to_content(file_content, wo_meters, wo_time, wo_type)
 
-#     with open("/Users/dwaldhei/dano/lb.fit", "w") as f_out:
-#         f_out.write(new_file)
+    with open("/Users/dwaldhei/dano/lb.fit", "w") as f_out:
+        f_out.write(new_file)
 
 def add_workout_to_content(file_content, wo_meters, wo_time, wo_type):
     new_file = ""
