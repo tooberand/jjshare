@@ -20,6 +20,7 @@ def main():
 
     with open("/Users/dwaldhei/dano/lb.fit") as f_in:
         file_content = f_in.read().split('\n')
+        if not file_content[-1]: del file_content[-1]
 
     new_file = add_workout_to_content(file_content, wo_meters, wo_time, wo_type)
 
@@ -100,5 +101,4 @@ def add_workout_to_content(file_content, wo_meters, wo_time, wo_type):
 
     return new_file
 
-main()
-
+if __name__ == "__main__": main()
