@@ -20,11 +20,12 @@ def main():
 
     with open("/Users/dwaldhei/dano/lb.fit") as f_in:
         file_content = f_in.read().split('\n')
+        if not file_content[-1]: del file_content[-1]
 
     new_file = add_workout_to_content(file_content, wo_meters, wo_time, wo_type)
 
-#     with open("/Users/dwaldhei/dano/lb.fit", "w") as f_out:
-#         f_out.write(new_file)
+    with open("/Users/dwaldhei/dano/lb.fit", "w") as f_out:
+        f_out.write(new_file)
 
 def add_workout_to_content(file_content, wo_meters, wo_time, wo_type):
     new_file = ""
@@ -79,10 +80,7 @@ def add_workout_to_content(file_content, wo_meters, wo_time, wo_type):
         elif file_section == "totals" and re.match(r'Rowing -', new_line):
             m = re.findall(r'Rowing - (\d+) \((.*)(\w)\-(\d+)\)', new_line)
             if m:
-                total_total = m[0][0]
-                history = m[0][1]
-                last_month = m[0][2]
-                month_total = m[0][3]
+                total_total, history, last_month, month_total = m[0]
 
                 current_month = now.strftime("%b")[0:1]
                 new_total_total = str(int(total_total) + int(wo_meters))
@@ -101,7 +99,6 @@ def add_workout_to_content(file_content, wo_meters, wo_time, wo_type):
         print(new_line)
         new_file += new_line + "\n"
 
-    return new_line
+    return new_file
 
-main()
-
+if __name__ == "__main__": main()
