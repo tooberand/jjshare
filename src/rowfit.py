@@ -24,8 +24,9 @@ def main():
 
     new_file = add_workout_to_content(file_content, wo_meters, wo_time, wo_type)
 
-    with open("/Users/dwaldhei/dano/lb.fit", "w") as f_out:
-        f_out.write(new_file)
+#     with open("/Users/dwaldhei/dano/lb.fit", "w") as f_out:
+#         f_out.write(new_file)
+#         print("INFO: File write complete!")
 
 def add_workout_to_content(file_content, wo_meters, wo_time, wo_type):
     new_file = ""
@@ -42,14 +43,16 @@ def add_workout_to_content(file_content, wo_meters, wo_time, wo_type):
                 fits = re.findall(r'\t([\.\w]+)', new_line)
                 fit_count = len(fits)
                 fit_date = date(now.year, months[m[0][0]], int(m[0][1]))
-                fit_date += timedelta(days = fit_count)
+                # Set fit_date to last fit entry
+                fit_date += timedelta(days = max(0, fit_count - 1))
 
                 if fit_count <= 7 and fit_date <= now:
-                    print("-", fit_count, " ", fit_date, " ", now)
+                    print("DEBUG: -", fit_count, " ", fit_date, " ", now)
+                    # Fill in missing entries up to yesterday
                     while fit_count < 7 and fit_date < now:
-                        print("--", fit_count, " ", fit_date, " ", now)
+                        print("DEBUG: --", fit_count, " ", fit_date, " ", now)
                         tab_count = new_line.count('\t')
-                        print(fit_count, "/", tab_count, "Add '.'")
+                        print("DEBUG:", fit_count, "/", tab_count, "Add '.'")
                         if fit_count == tab_count:
                             print("Add '\t.'")
                             new_line += "\t."
@@ -61,12 +64,9 @@ def add_workout_to_content(file_content, wo_meters, wo_time, wo_type):
                     # if fit_count < 7 and fit_date == now:
                     if fit_date == now:
                         tab_count = new_line.count('\t')
-                        print(fit_count, "/", tab_count, "Add 'o'")
-                        if fit_count == tab_count:
-                            print("Add '\to'")
-                            new_line += "\to"
-                        else:
-                            print("Add 'o'")
+                        print("DEBUG: ", fit_count, "/", tab_count, "Add 'o'")
+                        if fit_count < tab_count: new_line += "\t"
+                        new_line += "o"
 
             elif re.match(r'DIARY\s*$', new_line):
                 file_section = "diary"
@@ -82,7 +82,7 @@ def add_workout_to_content(file_content, wo_meters, wo_time, wo_type):
             if m:
                 total_total, history, last_month, month_total = m[0]
 
-                current_month = now.strftime("%b")[0:1]
+                current_month = now.strftime("%b")[:1]
                 new_total_total = str(int(total_total) + int(wo_meters))
                 new_line = f"Rowing - {new_total_total} ({history}"
                 if last_month != current_month or now.strftime("%b%d") == "Jul01":
