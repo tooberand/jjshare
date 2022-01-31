@@ -1,6 +1,7 @@
 #!/usr/local/bin/python3
 
 from datetime import date, timedelta
+import logging
 import re
 from shutil import copy2
 import sys
@@ -47,14 +48,13 @@ def add_workout_to_content(file_content, wo_meters, wo_time, wo_type):
                 fit_date += timedelta(days = max(0, fit_count - 1))
 
                 if fit_count <= 7 and fit_date <= now:
-                    print("DEBUG: -", fit_count, " ", fit_date, " ", now)
+                    logging.debug(f"{fit_count} {fit_date} {now}")
                     # Fill in missing entries up to yesterday
                     while fit_count < 7 and fit_date < now:
-                        print("DEBUG: --", fit_count, " ", fit_date, " ", now)
+                        logging.debug(f"  {fit_count} {fit_date} {now}")
                         tab_count = new_line.count('\t')
-                        print("DEBUG:", fit_count, "/", tab_count, "Add '.'")
+                        logging.debug(f"{fit_count}/{tab_count} Add '.'")
                         if fit_count == tab_count:
-                            print("Add '\t.'")
                             new_line += "\t."
                         else:
                             print("Sub '.'")
@@ -64,8 +64,8 @@ def add_workout_to_content(file_content, wo_meters, wo_time, wo_type):
                     # if fit_count < 7 and fit_date == now:
                     if fit_date == now:
                         tab_count = new_line.count('\t')
-                        print("DEBUG: ", fit_count, "/", tab_count, "Add 'o'")
-                        if fit_count < tab_count: new_line += "\t"
+                        logging.debug(f"{fit_count}/{tab_count} Add 'o'")
+                        if fit_count < tab_count or not tab_count: new_line += "\t"
                         new_line += "o"
 
             elif re.match(r'DIARY\s*$', new_line):
@@ -101,4 +101,6 @@ def add_workout_to_content(file_content, wo_meters, wo_time, wo_type):
 
     return new_file
 
-if __name__ == "__main__": main()
+if __name__ == "__main__":
+    logging.basicConfig(format='%(levelname)s: %(message)s', level=logging.DEBUG)
+    main()
