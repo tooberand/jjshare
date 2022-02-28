@@ -25,9 +25,9 @@ def main():
 
     new_file = add_workout_to_content(file_content, wo_meters, wo_time, wo_type)
 
-#     with open("/Users/dwaldhei/dano/lb.fit", "w") as f_out:
-#         f_out.write(new_file)
-#         print("INFO: File write complete!")
+    with open("/Users/dwaldhei/dano/lb.fit", "w") as f_out:
+        f_out.write(new_file)
+        print("INFO: File write complete!")
 
 def add_workout_to_content(file_content, wo_meters, wo_time, wo_type):
     new_file = ""
@@ -45,28 +45,22 @@ def add_workout_to_content(file_content, wo_meters, wo_time, wo_type):
                 fit_count = len(fits)
                 fit_date = date(now.year, months[m[0][0]], int(m[0][1]))
                 # Set fit_date to last fit entry
-                fit_date += timedelta(days = max(0, fit_count - 1))
+                fit_date += timedelta(days = fit_count)
 
-                if fit_count <= 7 and fit_date <= now:
+                # Fill in missing entries up to yesterday
+                while fit_count < 7 and fit_date < now:
+                    new_line += "\t."
+                    fit_date += timedelta(days = 1)
+                    fit_count += 1
+
+                if fit_date <= now:
                     logging.debug(f"{fit_count} {fit_date} {now}")
-                    # Fill in missing entries up to yesterday
-                    while fit_count < 7 and fit_date < now:
-                        logging.debug(f"  {fit_count} {fit_date} {now}")
-                        tab_count = new_line.count('\t')
-                        logging.debug(f"{fit_count}/{tab_count} Add '.'")
-                        if fit_count == tab_count:
-                            new_line += "\t."
-                        else:
-                            print("Sub '.'")
-                            fit_date += timedelta(days = 1)
-                            fit_count += 1
 
-                    # if fit_count < 7 and fit_date == now:
-                    if fit_date == now:
-                        tab_count = new_line.count('\t')
-                        logging.debug(f"{fit_count}/{tab_count} Add 'o'")
-                        if fit_count < tab_count or not tab_count: new_line += "\t"
-                        new_line += "o"
+                # Add new entry
+                if fit_date == now:
+                    new_line += "\to"
+                elif fit_date - timedelta(days = 1) == now:
+                    new_line += "o"
 
             elif re.match(r'DIARY\s*$', new_line):
                 file_section = "diary"
