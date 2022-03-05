@@ -38,32 +38,7 @@ def add_workout_to_content(file_content, wo_meters, wo_time, wo_type):
         new_line = line.rstrip('\n')
 
         if file_section == "details":
-            # Check for missing entries
-            m = re.findall(r'^([A-Z][a-z][a-z]) (\d\d)', new_line)
-            if m:
-                fits = re.findall(r'\t([\.\w]+)', new_line)
-                fit_count = len(fits)
-                fit_date = date(now.year, months[m[0][0]], int(m[0][1]))
-                # Set fit_date to last fit entry
-                fit_date += timedelta(days = fit_count)
-
-                # Fill in missing entries up to yesterday
-                while fit_count < 7 and fit_date < now:
-                    new_line += "\t."
-                    fit_date += timedelta(days = 1)
-                    fit_count += 1
-
-                if fit_date <= now:
-                    logging.debug(f"{fit_count} {fit_date} {now}")
-
-                # Add new entry
-                if fit_date == now:
-                    new_line += "\to"
-                elif fit_date - timedelta(days = 1) == now:
-                    new_line += "o"
-
-            elif re.match(r'DIARY\s*$', new_line):
-                file_section = "diary"
+            new_line, file_section = process_details_line(new_line, file_section)
 
         elif file_section == "diary" and re.match(r'^\s*$', new_line):
             new_line += now.strftime("%d%b") + " - Rowing "
@@ -94,6 +69,39 @@ def add_workout_to_content(file_content, wo_meters, wo_time, wo_type):
         new_file += new_line + "\n"
 
     return new_file
+
+def process_details_line(new_line, file_section):
+    now = date.today()
+
+    # Check for missing entries
+    m = re.findall(r'^([A-Z][a-z][a-z]) (\d\d)', new_line)
+    if m:
+        fits = re.findall(r'\t([\.\w]+)', new_line)
+        fit_count = len(fits)
+        fit_date = date(now.year, months[m[0][0]], int(m[0][1]))
+        # Set fit_date to last fit entry
+        fit_date += timedelta(days = fit_count)
+
+        # Fill in missing entries up to yesterday
+        while fit_count < 7 and fit_date < now:
+            new_line += "\t."
+            fit_date += timedelta(days = 1)
+            fit_count += 1
+
+        if fit_date <= now:
+            logging.debug(f"{fit_count} {fit_date} {now}")
+
+        # Add new entry
+        if fit_date == now:
+            new_line += "\to"
+        elif fit_date - timedelta(days = 1) == now:
+            new_line += "o"
+
+    elif re.match(r'DIARY\s*$', new_line):
+        file_section = "diary"
+
+    return (new_line, file_section)
+
 
 if __name__ == "__main__":
     logging.basicConfig(format='%(levelname)s: %(message)s', level=logging.DEBUG)
